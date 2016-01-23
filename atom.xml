@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[PINGGOD]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://pinggod.com/"/>
+  <updated>2016-01-23T02:22:06.000Z</updated>
+  <id>http://pinggod.com/</id>
+  
+  <author>
+    <name><![CDATA[Sean Sun]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[WEB 开发者必看的技术站点]]></title>
+    <link href="http://pinggod.com/2015/%E5%BC%80%E5%8F%91%E8%80%85%E5%BF%85%E7%9C%8B%E7%9A%84%E6%8A%80%E6%9C%AF%E7%AB%99%E7%82%B9/"/>
+    <id>http://pinggod.com/2015/开发者必看的技术站点/</id>
+    <published>2015-12-31T06:49:13.000Z</published>
+    <updated>2016-01-23T02:22:06.000Z</updated>
+    <content type="html"><![CDATA[<blockquote>
+<p>本文总结自 Quora 上的一个问答：<a href="https://www.quora.com/What-are-the-top-10-websites-a-web-developer-must-see" target="_blank" rel="external">What are the top 10 websites a web developer must see</a>。</p>
+</blockquote>
+<p>读专业书、看教程视频、浏览技术博客、参加讲座分享……这些提高技能的途径各有优劣，相比较而言，博客或者说技术网站可以最快接触前沿技术、分享技术实践，所以，除了依赖谷歌反馈的词条，我们还可以主动收集一些优秀的技术站点，便于自己了解、参与和实践业界最活跃的技术。</p>
+<a id="more"></a>
+<ol>
+<li><p><a href="https://github.com" target="_blank" rel="external">GitHub</a> —— 当下最流行的版本管理工具，云集了世界上最优秀的开发者。在 GitHub 开源之风盛行，我喜欢在这里关注各类优秀项目，也喜欢在这里查找各种工具，比如需要某个 alfred 的插件，在这里搜一下也许就能找到，如果遇到了问题，和开发者反馈一下也不是什么难事。最近喜欢浏览 trending 和 follow 大神，便于了解业界动态，顺便细化下自己的技术栈。</p>
+</li>
+<li><p><a href="http://alistapart.com/" target="_blank" rel="external">A List Apart</a>—— 我想给这个网站定义几个头衔，比如顶级、前沿、经典、最具影响力之类等等。这个网站创办十八年了（from 1998），专注对前端方向的探索，每一篇文章都是深入思考的结晶。典型的文章就是<a href="http://alistapart.com/article/responsive-web-design" target="_blank" rel="external">《Responsive Web Design》</a>，发表之后迅速启发了业界的开发思维，打开了响应式设计的大门。</p>
+</li>
+<li><p><a href="https://developer.mozilla.org" target="_blank" rel="external">MDN</a> —— Mozilla 开发者网络知识库，权威、全面的 WEB 文档，支持多种语言，示例丰富。</p>
+</li>
+<li><p><a href="http://stackoverflow.com/" target="_blank" rel="external">Stack Overflow</a> —— 活跃的技术问答社区。一般问题都有开发者问过了，如果找不到，换一换关键字，最后的方式才应该是提问。作为开发者，为了使用 Stack Overflow 也应该给自己准备一个翻墙工具，永远不要闭门造车般的解决问题。</p>
+</li>
+<li><p><a href="http://caniuse.com/" target="_blank" rel="external">Can I Use</a> —— 如果你有兼容性问题，先来这里看看浏览器的支持情况吧。</p>
+</li>
+<li><p><a href="https://css-tricks.com/" target="_blank" rel="external">CSS-Tricks</a> —— 这里发表所有和 CSS 有关的技巧和教程，当然如果你想来这里找点黑科技，也是有的。</p>
+</li>
+<li><p><a href="http://tympanus.net/codrops/" target="_blank" rel="external">Codrops</a> —— 如果有一天我可以靠理想生活，那我肯定要先实践一番 Codrops 上的教程，这些教程的效果绝对出彩，这也是前端吸引我的魅力所在。</p>
+</li>
+<li><p><a href="http://codepen.io/" target="_blank" rel="external">CodePen</a> —— 在线 WEB 开发工具。一方面我们可以在这里快速实践自己的灵感，另一方面当我们的调试遇到困境，在这里搭一个 DEMO 详细描述下问题，然后发给有经验的人，绝对是最佳的问答礼仪。</p>
+</li>
+<li><p><a href="https://dribbble.com/" target="_blank" rel="external">Dribble</a> —— 作为前端开发者，要求我们必须具备一定的审美水平，来 Dribble 看看吧，你会重新燃起创造力的激情，比如用 WEB 技术实践几个 Driible 的原型图，那一定帅得不行不行的。</p>
+</li>
+<li><p><a href="http://csszengarden.com/" target="_blank" rel="external">CSS Zen Garden（CSS 禅意花园）</a>—— 现在网站的效果越来风格化，无论是简约还是拟物都十分精致，相比而言，来自上个年代的 CSS 禅意花园已经显得并不是很出彩了，但实际上其中还有很多重要的东西值得学习，建议各位读一读<a href="http://book.douban.com/subject/2052176/" target="_blank" rel="external"> CSS 禅意花园</a>这本书，看一下作者对各个主题的分析，了解从设计立意到编码开发的诸多思考。</p>
+</li>
+</ol>
+<p>下面这些网站的内容大都涵盖了从 WEB 到设计、从图形到动效、从数据到运维的方方面面，是非常全面的技术站点：</p>
+<ol>
+<li><p><a href="https://dzone.com/" target="_blank" rel="external">DZone</a> —— Programming, Web Development, and DevOps news, tutorials and tools for beginners to experts. Hundreds of free publications, over 1M members, totally free.</p>
+</li>
+<li><p><a href="http://www.smashingmagazine.com/" target="_blank" rel="external">Smashing Magazine</a> —— Smashing Magazine is an online magazine for professional Web designers and developers, with a focus on useful techniques, best practices and valuable resources.</p>
+</li>
+<li><p><a href="http://www.sitepoint.com/" target="_blank" rel="external">SitePoint</a> —— Learn Web Design &amp; Development with SitePoint tutorials, courses and books - HTML5, CSS3, JavaScript, PHP, mobile app development, Responsive Web Design.</p>
+</li>
+<li><p><a href="http://www.codeproject.com/" target="_blank" rel="external">CodeProject</a> —— Free source code and tutorials for Software developers and Architects.; Updated: 2 Jan 2016.</p>
+</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<blockquote>
+<p>本文总结自 Quora 上的一个问答：<a href="https://www.quora.com/What-are-the-top-10-websites-a-web-developer-must-see">What are the top 10 websites a web developer must see</a>。</p>
+</blockquote>
+<p>读专业书、看教程视频、浏览技术博客、参加讲座分享……这些提高技能的途径各有优劣，相比较而言，博客或者说技术网站可以最快接触前沿技术、分享技术实践，所以，除了依赖谷歌反馈的词条，我们还可以主动收集一些优秀的技术站点，便于自己了解、参与和实践业界最活跃的技术。</p>]]>
+    
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Mac Tool Kit]]></title>
+    <link href="http://pinggod.com/2015/mac-tool-kit/"/>
+    <id>http://pinggod.com/2015/mac-tool-kit/</id>
+    <published>2015-12-26T10:17:00.000Z</published>
+    <updated>2016-01-16T02:26:23.000Z</updated>
+    <content type="html"><![CDATA[<p>这会是一篇持续更新的文章，用于记录我在 mac 中常用的开发工具。过去的一年（2015）里，我使用 mac 作为开发的主力平台，在上面折腾过各类软件，以实现最高的开发效率和最舒适的开发环境。一切都是为了开发成果服务，脱离结果强调过程不是我支持的态度，简而言之，这些都是一些增益技巧。</p>
+<p>文中工具的排序规则（核心是优先安装具有依赖关系的软件）：</p>
+<ol>
+<li>从常用工具中随机选择一个工具作为 random seed</li>
+<li>根据 random seed 的配置过程进行上溯，上溯到的目标工具排在 random seed 之前</li>
+<li>如果上溯到的系统工具不常用，以常用工具替换，比如 chrome 替换 safari</li>
+<li>random seed 可组合使用的工具排在 random seed 之后</li>
+<li>random seed 中包含的插件在 random seed 中以列表的形式列出</li>
+<li>每次接触新工具，将 random seed 设为该工具，循环执行 2、3、4 过程</li>
+<li>其他工具根据肌肉对键盘的非条件反射随机排列</li>
+</ol>
+<p><img src="/img/mac-tool-kit.png" alt="mac tool kit 排列方法 2015-12-27.png"></p>
+<a id="more"></a>
+<h2 id="preparation">preparation</h2><p>在选择下文中的工具时，主要有两点参考标准：</p>
+<ul>
+<li>快速，指响应速度和切换速度，或者可以提高这两点的工具。目前键盘操作是无冲突下最快速的控制方式，所以这也是围绕速度进行评估的关键点。</li>
+<li>界面有设计亮点，这纯属前端职业病</li>
+</ul>
+<div class="tip"><br>    初始化 mac 之后，依次进入系统偏好设置 -&gt; 键盘 -&gt; 修饰键，将 Caps Lock 键映射为 Control 键，别问为什么，用心去体会吧 —— Casp Lock 的功能价值与它在键盘布局中所占有的重要位置极度不相符。<br></div>
+
+<h2 id="applications_list">applications list</h2><ol>
+<li><p><a href="https://www.iterm2.com/downloads.html" target="_blank" rel="external">iTerm2</a>，终端工具，替代系统自带的终端，主题 <a href="https://github.com/zenorocha/dracula-theme" target="_blank" rel="external">dracula-theme</a>。</p>
+<ul>
+<li>Xcode command Line Tool，Homebrew 的依赖，可通过 <code>xcode-select --install</code> 命令或者安装 Xcode 来完成</li>
+<li><a href="https://github.com/Flowerowl/ici" target="_blank" rel="external">ici</a>，终端词典，基于爱词霸词库 </li>
+</ul>
+</li>
+<li><p><a href="https://developer.apple.com/cn/xcode/downloads/" target="_blank" rel="external">Xcode</a>，苹果产品开发环境，</p>
+</li>
+<li><p><a href="http://brew.sh/" target="_blank" rel="external">Homebrew</a>，OS X 的包管理工具：</p>
+<ul>
+<li><a href="https://github.com/creationix/nvm" target="_blank" rel="external">nvm</a>，node 版本管理工具</li>
+<li><a href="https://github.com/nodejs/node" target="_blank" rel="external">node</a>，运行在服务端的 JavaScript，使用 nvm 统一管理</li>
+<li><a href="https://tmux.github.io/" target="_blank" rel="external">tmux</a>，终端复用工具</li>
+<li><a href="http://mama.indstate.edu/users/ice/tree/" target="_blank" rel="external">tree</a>，树状结构目录</li>
+<li><a href="https://www.python.org" target="_blank" rel="external">python / python3</a>，python 开发环境</li>
+<li><a href="http://nginx.org/" target="_blank" rel="external">nginx</a>，反向代理服务器</li>
+<li><a href="https://github.com/jakubroztocil/httpie" target="_blank" rel="external">httpie</a>，替代 curl 的 HTTP 终端工具</li>
+</ul>
+</li>
+<li><p><a href="http://caskroom.io/" target="_blank" rel="external">Homebrew Cask</a>，使用 hombrew 安装，可用于安装 OS X 应用：</p>
+<ul>
+<li><a href="http://caskroom.io/search" target="_blank" rel="external">haskell platform</a>，haskell 开发环境</li>
+</ul>
+</li>
+<li><p><a href="http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html" target="_blank" rel="external">Chrome / Chrome Canary</a>，插件众多，开发调试便利，平时也比较依赖谷歌体系内的东西。插件：</p>
+<ul>
+<li><a href="https://chrome.google.com/webstore/detail/github-old-header/bbencfiifelhglgknaheifiekmjndlek" target="_blank" rel="external">GitHub Old Header</a>，在顶部导航区提供一个指向个人页面的链接</li>
+<li><a href="https://chrome.google.com/webstore/detail/http-status/cknfnacbckhfpjahnmkblajcpledpfnp" target="_blank" rel="external">HTTP status</a>，在地址栏显示 HTTTP 状态码</li>
+<li><a href="https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=zh-CN" target="_blank" rel="external">JSON Formatter</a>，格式化浏览器预览到的 JSON 数据</li>
+<li><a href="https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=zh-CN" target="_blank" rel="external">Octotree</a>，为 GitHub 仓库提供一个树状结构目录</li>
+<li><a href="https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=zh-CN" target="_blank" rel="external">Save to Pocket</a>，右键保存到 Pocket</li>
+</ul>
+</li>
+<li><p><a href="http://www.sublimetext.com/3" target="_blank" rel="external">Sublime Text 3</a>，编辑器，适用多平台响应迅速扩展能力强。插件：</p>
+<ul>
+<li><a href="https://packagecontrol.io/installation#st3" target="_blank" rel="external">Package Control</a>，Sublime 扩展插件的安装和管理工具</li>
+<li><a href="https://packagecontrol.io/packages/DashDoc" target="_blank" rel="external">DashDoc</a>，调用 Dash</li>
+<li><a href="http://emmet.io/" target="_blank" rel="external">Emmet</a>，前端开发工具集</li>
+<li><a href="https://packagecontrol.io/packages/BracketHighlighter" target="_blank" rel="external">BracketHighlighter</a>，标签和符号的高亮工具</li>
+<li><a href="https://packagecontrol.io/packages/SideBarEnhancements" target="_blank" rel="external">SideBarEnhancements</a>，侧边栏功能扩展插件</li>
+<li><a href="https://github.com/equinusocio/material-theme" target="_blank" rel="external">Material Theme</a>，谷歌 material 风格的简洁主题</li>
+<li><a href="https://packagecontrol.io/packages/Babel" target="_blank" rel="external">Babel</a>，JSX 和 ES6 的高亮插件，不具有编译功能</li>
+<li><a href="https://packagecontrol.io/packages/DocBlockr" target="_blank" rel="external">DocBlockr</a>，Javascript, PHP, CoffeeScript, Actionscript, C &amp; C++ 规范化注释</li>
+</ul>
+</li>
+<li><p><a href="https://kapeli.com/dash" target="_blank" rel="external">Dash</a>，开发文档、代码片段管理工具</p>
+</li>
+<li><p><a href="https://www.alfredapp.com/" target="_blank" rel="external">alfred</a>，必备辅助工具，提高工作效率，不要让双手离开键盘</p>
+</li>
+<li><p><a href="https://getpocket.com/" target="_blank" rel="external">Pocket</a>，离线阅读工具，也被用来做知识管理</p>
+</li>
+<li><p><a href="http://snip.qq.com/" target="_blank" rel="external">Snip</a>，滚动截屏必备工具</p>
+</li>
+<li><p><a href="http://realmacsoftware.com/ember/" target="_blank" rel="external">Ember</a>，图库管理，可以订阅 dribbble popular。</p>
+</li>
+<li><p><a href="https://products.office.com/zh-cn/mac/microsoft-office-for-mac" target="_blank" rel="external">Microsoft office</a>，我喜欢用 PowerPoint 来做流程图、序列图……</p>
+</li>
+<li><p><a href="http://www.irradiatedsoftware.com/sizeup/" target="_blank" rel="external">SizeUp</a>，管理应用程序窗口的位置和大小</p>
+</li>
+</ol>
+<h2 id="host_configuration">host configuration</h2><p>最近在熟悉云主机的使用，下面是配置过程：</p>
+<ol>
+<li><p>ssh root 账号登录云主机，通过 <code>passwd</code> 命令更改主机密码，至于怎样设置结构复杂的密码，建议参考文章<a href="http://www.hello-code.com/diary/201409/2223.html" target="_blank" rel="external">《每一个程序员都有一颗当诗人的心》</a>。</p>
+</li>
+<li><p>使用 root 账号创建普通用户：<code>adduser sean</code>、<code>passwd sean</code>，然后为新用户配置权限，通过 <code>visudo</code> 命令添加 <code>sean ALL=(ALL) ALL</code> 配置信息，完成后退出 root 账户，使用普通账户登录云主机，比如这里的 sean。</p>
+</li>
+<li><p>安装常用工具：</p>
+<ul>
+<li><a href="https://github.com/robbyrussell/oh-my-zsh" target="_blank" rel="external">oh-my-zsh</a></li>
+<li><a href="https://github.com/amix/vimrc" target="_blank" rel="external">amix/vimrc</a></li>
+<li><a href="https://github.com/bling/vim-airline" target="_blank" rel="external">bling/vim-airline</a></li>
+<li><a href="https://github.com/powerline/fonts" target="_blank" rel="external">powerline/fonts</a></li>
+<li><a href="https://github.com/creationix/nvm" target="_blank" rel="external">nvm</a></li>
+<li><a href="https://github.com/nodejs/node" target="_blank" rel="external">node</a></li>
+<li><a href="https://github.com/tldr-pages/tldr" target="_blank" rel="external">node:tldr</a></li>
+<li><a href="https://packages.debian.org/search?keywords=tree" target="_blank" rel="external">apt-get:tree</a></li>
+</ul>
+</li>
+</ol>
+<h2 id="tldr">tldr</h2><p>不断地在中英文间进行切换也是非常低效率的操作，所以，初步设定在 2016 年底脱离非业务开发下对中文输入的依赖——不过我最喜欢的哲学思维还是先秦百家交叉融汇出的框架。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>这会是一篇持续更新的文章，用于记录我在 mac 中常用的开发工具。过去的一年（2015）里，我使用 mac 作为开发的主力平台，在上面折腾过各类软件，以实现最高的开发效率和最舒适的开发环境。一切都是为了开发成果服务，脱离结果强调过程不是我支持的态度，简而言之，这些都是一些增益技巧。</p>
+<p>文中工具的排序规则（核心是优先安装具有依赖关系的软件）：</p>
+<ol>
+<li>从常用工具中随机选择一个工具作为 random seed</li>
+<li>根据 random seed 的配置过程进行上溯，上溯到的目标工具排在 random seed 之前</li>
+<li>如果上溯到的系统工具不常用，以常用工具替换，比如 chrome 替换 safari</li>
+<li>random seed 可组合使用的工具排在 random seed 之后</li>
+<li>random seed 中包含的插件在 random seed 中以列表的形式列出</li>
+<li>每次接触新工具，将 random seed 设为该工具，循环执行 2、3、4 过程</li>
+<li>其他工具根据肌肉对键盘的非条件反射随机排列</li>
+</ol>
+<p><img src="/img/mac-tool-kit.png" alt="mac tool kit 排列方法 2015-12-27.png"></p>]]>
+    
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[ES2015]]></title>
+    <link href="http://pinggod.com/2015/ES2015/"/>
+    <id>http://pinggod.com/2015/ES2015/</id>
+    <published>2015-12-15T06:07:10.000Z</published>
+    <updated>2016-01-12T02:30:07.000Z</updated>
+    <content type="html"><![CDATA[<p>ES2015 是最新的 JavaScript 语法规范，也是前端工程化高速发展所催化出的产物。JS 的不成熟一直为人诟病，前端的高速发展又离不开 JS，所以这次激进的变革显得十分必要。</p>
+<p>虽然 ES2015 规范发布了，但是要原生的运行在浏览器上还是受到诸多因素的肘制，比如各版本浏览器的用户量、浏览器厂商对新特性的支持度等等。目前的权宜之计是使用 Babel 之类的编译器将 ES2015 代码转换为 ES5，所以下文中的 ES2015 代码也暂时以 Babel 的解析结果为准。各版本浏览器对 ES2015（ES6）、ES2016（ES7）的支持度可以参考这里：<a href="http://kangax.github.io/compat-table/es6/" target="_blank" rel="external">ES2015 兼容性列表</a>。</p>
+<a id="more"></a>
+<h2 id="块级作用域和变量声明">块级作用域和变量声明</h2><p>ES6 新增了以花括号 <code>{}</code> 为标志的块级作用域，用以增强代码的稳健性。在 ES6 之前，JS 中只有全局作用域和函数作用域（eval 作用域？我没用过），这种设计有多种弊端，比如最常见的循环变量泄露为全局变量：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">var</span> a = [];</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> ( <span class="keyword">var</span> i = <span class="number">0</span>; i &lt; <span class="number">3</span>; i++ ) &#123;</span><br><span class="line">    a[i] = <span class="function"><span class="keyword">function</span> (<span class="params"></span>) </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> i;</span><br><span class="line">    &#125;;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="built_in">console</span>.log(a[<span class="number">1</span>]());</span><br><span class="line"><span class="comment">// =&gt; 3</span></span><br></pre></td></tr></table></figure>
+<p>虽然循环结束了，但是 i 的值在全局作用域内仍然有效，进而形成了一系列的错误。对于这种错误，最常见的处理方式是使用立即执行函数（Immediately-Invoked Function Expression）：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">var</span> a = [];</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> ( <span class="keyword">var</span> i = <span class="number">0</span>; i &lt; <span class="number">3</span>; i++ ) &#123;</span><br><span class="line">    a[i] = (<span class="function"><span class="keyword">function</span> (<span class="params">i</span>) </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> i;</span><br><span class="line">    &#125;)(i);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="built_in">console</span>.log(a[<span class="number">1</span>]);</span><br><span class="line"><span class="comment">// =&gt; 1</span></span><br></pre></td></tr></table></figure>
+<p>这里用到的立即执行函数实际上是将<a href="http://pinggod.com/2015/%E6%B1%82%E5%80%BC%E7%AD%96%E7%95%A5/">求值策略</a>从延迟求值转变为了预先求值，但仍然不够优雅和健壮。在 ES2015 中，通过使用 <code>let</code> 来声明循环变量同样可以解决这个问题，而且方式更加简洁：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">let</span> a = [];</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> ( <span class="keyword">let</span> i = <span class="number">0</span>; i &lt; <span class="number">3</span>; i++ ) &#123;</span><br><span class="line">    a[i] = <span class="function"><span class="keyword">function</span> (<span class="params"></span>) </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> i;</span><br><span class="line">    &#125;;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="built_in">console</span>.log(a[<span class="number">1</span>]());</span><br><span class="line"><span class="comment">// =&gt; 1</span></span><br></pre></td></tr></table></figure>
+<p><code>let</code> 和 <code>const</code> 是 ES2015 新增的变量声明指令：let 用来声明变量，const 用来声明常量。当使用 let 和 const 声明变量时，所声明的变量只在当前的块级作用域内有效，这一点是与 var 的本质差别，也是上述代码生效的基础。对于 var 时代的各种诡异特性，现在 let 和 const 做了一些修改：</p>
+<ul>
+<li>let 和 const 声明的变量不存在变量提升</li>
+<li>let 和 const 声明的变量不允许在同一作用域内重复声明多次</li>
+<li>let 和 const 声明的变量必须先声明后使用，否则抛出 ReferenceError</li>
+</ul>
+<p>从块级作用域的开始到 let 和 const 变量声明的区域被称为临时死区（temporal dead zone），意指此处调用未声明的 let 和 const 变量一定报错：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> ( <span class="literal">true</span> ) &#123;</span><br><span class="line">    temp = <span class="string">'abc'</span>;</span><br><span class="line">    </span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line">    <span class="comment">// blablablabla</span></span><br><span class="line">    <span class="comment">// ...</span></span><br><span class="line"></span><br><span class="line">    <span class="comment">// 该行代码之前都属于变量 temp 的 temporal dead zone</span></span><br><span class="line">    <span class="comment">// 意指在此之前不可使用变量 temp</span></span><br><span class="line">    <span class="keyword">let</span> temp;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<div class="tip"><br>    在浏览器环境下，使用 var 声明的全局变量都会挂载在全局对象 window 下面。ES 2015 规定，使用 var 和 function 声明的全局变量仍然挂载在全局对象下面，但是 let、const 和 class 声明的全局变量则不属于全局对象。<br></div>
+
+
+<h2 id="解构赋值">解构赋值</h2><p>解构赋值是 ES2015 提供的一种语法糖操作，常用于简化对数组和对象的数据提取。可以使用解构赋值的数据类型包括：</p>
+<ul>
+<li>对象</li>
+<li>字符串</li>
+<li>数值和布尔值（自动转换为对象，然后调用 toString() ）</li>
+<li>数组，以及具有 Iterator 结构的数据结构，比如 Set 等</li>
+</ul>
+<p>下面我们通过一些实例来看一下解构赋值的使用方式：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="comment">// 1. 交换两个数的值</span></span><br><span class="line">[x, y] = [y, x]</span><br><span class="line"></span><br><span class="line"><span class="comment">// 2. 提取 JSON 数据</span></span><br><span class="line"><span class="keyword">const</span> <span class="built_in">JSON</span> = &#123;</span><br><span class="line">    id: <span class="number">12345</span>,</span><br><span class="line">    status: <span class="string">'OK'</span>,</span><br><span class="line">    data: [<span class="number">123</span>, <span class="number">456</span>]</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> &#123; id, status, data &#125; = <span class="built_in">JSON</span>;</span><br><span class="line"></span><br><span class="line"><span class="comment">// 3. 按需加载模块</span></span><br><span class="line"><span class="keyword">const</span> &#123; Route, DefaultRoute, HistoryLocation &#125; = ReactRouter; </span><br><span class="line"></span><br><span class="line"><span class="comment">// 4. 从函数返回多个值</span></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">handleStyle</span> (<span class="params"></span>)  </span>&#123;</span><br><span class="line">    <span class="keyword">const</span> font = &#123;&#125;;</span><br><span class="line">    <span class="keyword">const</span> border = &#123;&#125;;</span><br><span class="line">    <span class="keyword">const</span> position = &#123;&#125;;</span><br><span class="line">  </span><br><span class="line">    <span class="keyword">return</span> &#123; font, border, position &#125;;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> &#123;</span><br><span class="line">    font: fontStyle,</span><br><span class="line">    border: borderStyle,</span><br><span class="line">    position: positionStyle</span><br><span class="line">&#125; = handleStyle();</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>解构赋值可以以 <code>[x = &#39;0&#39;] = [y]</code> 的形式设置默认值，当 y 不存在时，x 的值就是 0；如果 y 不存在且没有设置默认值，则会被自动赋值为 undefined。</p>
+</blockquote>
+<h2 id="字符串">字符串</h2><p>在 JS 内部，字符以 16 位 2 字节的格式存储，这种表示法的范围限制为 \u0000-\uFFFF，对于超出范围的字符（\u20BB7），会被解析为两个字符四个字节（\u20BB\u0007）。ES2015 增强了对 Unicode 的支持，提出了一种新的字符表示方法：\u{20BB7}。</p>
+<p>对于新的字符表示形式 <code>\u{codePoint}</code>，传统的字符串方法已经不适用了，所以 ES2015 提出了一系列新的方法来替代，它们可以正确识别编码大于 \uFFFF 的字符：</p>
+<ul>
+<li>at()，对应 charAt()，返回指定位置的字符</li>
+<li>codePointAt()，对应 charCodeAt()，返回指定位置字符的编码</li>
+<li>String.fromCodePoint()，对应 String.fromCharCode()，返回指定编码所对应的字符</li>
+</ul>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="string">'\u20BB7'</span></span><br><span class="line"><span class="comment">// =&gt; '₻7'</span></span><br><span class="line"></span><br><span class="line"><span class="string">'\u&#123;20BB7&#125;'</span></span><br><span class="line"><span class="comment">// =&gt; '𠮷'</span></span><br><span class="line"></span><br><span class="line"><span class="string">'\u&#123;20BB7&#125;'</span>.charAt(<span class="number">0</span>)   </span><br><span class="line"><span class="comment">// =&gt; '�'</span></span><br><span class="line"><span class="string">'\u&#123;20BB7&#125;'</span>.at(<span class="number">0</span>)       </span><br><span class="line"><span class="comment">// =&gt; "𠮷"</span></span><br><span class="line"></span><br><span class="line"><span class="string">'\u&#123;20BB7&#125;'</span>.codePointAt(<span class="number">0</span>).toString(<span class="number">16</span>)</span><br><span class="line"><span class="comment">// =&gt; 20BB7</span></span><br><span class="line"><span class="string">'\u&#123;20BB7&#125;'</span>.codePointAt(<span class="number">1</span>).toString(<span class="number">16</span>)</span><br><span class="line"><span class="comment">// =&gt; DFB7</span></span><br><span class="line"><span class="string">'\u&#123;20BB7&#125;'</span>.charCodeAt(<span class="number">1</span>).toString(<span class="number">16</span>)</span><br><span class="line"><span class="comment">// =&gt; DFB7</span></span><br><span class="line"></span><br><span class="line"><span class="string">'a\u&#123;20BB7&#125;b'</span>.length</span><br><span class="line"><span class="comment">// =&gt; 4</span></span><br><span class="line"><span class="built_in">Array</span>.from(<span class="string">'a\u&#123;20BB7&#125;b'</span>).length</span><br><span class="line"><span class="comment">// =&gt; 3</span></span><br></pre></td></tr></table></figure>
+<p>ES2015 规范中规定字符串实现了 Iterator 接口，用于 for … of 遍历，此外，增加了一些工具类方法：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">const</span> str = <span class="string">"abcdefghi"</span>;</span><br><span class="line"></span><br><span class="line"><span class="comment">// 判断字符串 str 是否以参数字符串开头</span></span><br><span class="line">str.startsWith(<span class="string">'abc'</span>);</span><br><span class="line"><span class="comment">// 判断字符串 str 是否包含参数字符串</span></span><br><span class="line">str.includes(<span class="string">'def'</span>);</span><br><span class="line"><span class="comment">// 判断字符串 str 是否以参数字符串结尾</span></span><br><span class="line">str.endsWith(<span class="string">'ghi'</span>);</span><br><span class="line"></span><br><span class="line"><span class="comment">// 生成重复字符串</span></span><br><span class="line"><span class="string">'x'</span>.repeat(<span class="number">3</span>);</span><br><span class="line"><span class="comment">// =&gt; 'xxx'</span></span><br></pre></td></tr></table></figure>
+<p>字符串的另一个强力扩展是：模板字符串和标签模板。模板字符串（template string）类似于其他编程语言中的字符串插值，以反引号（`）为标志，字符串中的插值部分使用 <code>${}</code> 包裹：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">const</span> x = <span class="number">3</span>;</span><br><span class="line"><span class="keyword">const</span> y = <span class="number">4</span>;</span><br><span class="line"></span><br><span class="line"><span class="built_in">console</span>.log(<span class="string">`<span class="subst">$&#123;x&#125;</span> + <span class="subst">$&#123;y&#125;</span> = <span class="subst">$&#123;x + y&#125;</span>`</span>);</span><br><span class="line"><span class="comment">// =&gt; '3 + 4 = 7'</span></span><br></pre></td></tr></table></figure>
+<p>如果一个函数的函数名之后紧跟一个模板字符串，那么这个函数就会被用来处理这个模板字符串，这个功能被称为<code>标签模板（tagged template）</code>：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="comment">// 第一个参数是一个数组</span></span><br><span class="line"><span class="comment">// 数组的元素是被插值部分分隔的字符串</span></span><br><span class="line"><span class="comment">// 第二个及以后的参数代表模板字符串中插值部分的值</span></span><br><span class="line"><span class="comment">// 可以使用参数扩展语法将其包裹到一个变量中</span></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">tag</span>(<span class="params">strs, ...values</span>) </span>&#123;</span><br><span class="line">    <span class="built_in">console</span>.log(strs);</span><br><span class="line">    <span class="built_in">console</span>.log(values);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> x = <span class="number">3</span>;</span><br><span class="line"><span class="keyword">const</span> y = <span class="number">4</span>;</span><br><span class="line"></span><br><span class="line">tag<span class="string">`<span class="subst">$&#123;x&#125;</span> + <span class="subst">$&#123;y&#125;</span> = <span class="subst">$&#123;x + y&#125;</span>`</span>;</span><br><span class="line"><span class="comment">// =&gt; [""," + "," = ",""]</span></span><br><span class="line"><span class="comment">// =&gt; [3,4,7]</span></span><br></pre></td></tr></table></figure>
+<p>标签模板的一个实际运用就是过滤 HTML 字符串，提高安全性：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">safeHTML</span> (<span class="params">strs, ...values</span>) </span>&#123;</span><br><span class="line">    <span class="keyword">let</span> result = <span class="string">''</span>;</span><br><span class="line"></span><br><span class="line">    strs.forEach( (str, index) =&gt; &#123;</span><br><span class="line">        <span class="keyword">let</span> temp = <span class="built_in">String</span>(values[index]);</span><br><span class="line"></span><br><span class="line">        result += str;</span><br><span class="line">        <span class="keyword">if</span> ( temp ) &#123;</span><br><span class="line">            result += temp.replace(<span class="regexp">/&amp;/g</span>, <span class="string">'&amp;amp;'</span>)</span><br><span class="line">                          .replace(<span class="regexp">/&lt;/g</span>, <span class="string">'$lt;'</span>)</span><br><span class="line">                          .replace(<span class="regexp">/&gt;/g</span>, <span class="string">'&amp;gc;'</span>);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">return</span> result;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> user = <span class="string">'&lt;html tag&gt;'</span>;</span><br><span class="line"><span class="keyword">const</span> msg = safeHTML<span class="string">`&lt;p&gt;<span class="subst">$&#123;user&#125;</span> has sent you a msg.&lt;/p&gt;`</span>;</span><br><span class="line"><span class="comment">// =&gt; &lt;p&gt;$lt;html tag&amp;gc; has sent you a msg.&lt;/p&gt;undefined</span></span><br></pre></td></tr></table></figure>
+<h2 id="数值">数值</h2><p>数值部分，一个是在 Number 对象上丰富了一些工具函数</p>
+<ul>
+<li>Nubmer.isNaN()</li>
+<li>Number.isFinite()</li>
+<li>Number.parseInt()</li>
+<li>Nubmer.parseFloat()</li>
+<li>Nnmber.isInteger()</li>
+<li>Number.EPSILON，极小量常量，在数值比对时，如果小于极小量，则判断两数相等</li>
+<li>Number.isSafeInteger()，安全范围指（-2^53，2^53）</li>
+<li>Number.MAX_SAFE_INTEGER</li>
+<li>Number.MIN_SAFE_INTEGER</li>
+</ul>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="built_in">Number</span>.isNaN(<span class="literal">NaN</span>);</span><br><span class="line"><span class="comment">// =&gt; true</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">Number</span>.isFinite(<span class="literal">Infinity</span>);</span><br><span class="line"><span class="comment">// =&gt; false</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">Number</span>.isInteger(<span class="number">1.0</span>);</span><br><span class="line"><span class="comment">// =&gt; true</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">window</span>.parseFloat === <span class="built_in">Number</span>.parseFloat</span><br><span class="line"><span class="comment">// =&gt; true</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">window</span>.parseInt === <span class="built_in">Number</span>.parseInt</span><br><span class="line"><span class="comment">// =&gt; true</span></span><br><span class="line"></span><br><span class="line"><span class="number">0.1</span> + <span class="number">0.2</span></span><br><span class="line"><span class="comment">// =&gt; 0.30000000000000004</span></span><br><span class="line"></span><br><span class="line"><span class="number">0.1</span> + <span class="number">0.2</span> === <span class="number">0.3</span></span><br><span class="line"><span class="comment">// =&gt; false</span></span><br><span class="line"></span><br><span class="line"><span class="number">0.1</span> + <span class="number">0.2</span> - <span class="number">0.3</span> &lt; <span class="built_in">Number</span>.EPSILON</span><br><span class="line"><span class="comment">// =&gt; true</span></span><br></pre></td></tr></table></figure>
+<p>二是在 Math 对象上扩展了一些数学函数：</p>
+<ul>
+<li>Math.trunc()，去除浮点数的小数部分</li>
+<li>Math.sign()，判断数值是正数、负数还是零</li>
+<li>Math.cbrt()，计算一个数值的立方根</li>
+<li>Math.clz32()，返回一个数值的 32 位无符号整数形式前前导零的个数</li>
+<li>Math.imul()</li>
+<li>Math.fround()</li>
+<li>Math.hypot()</li>
+<li>Math.expn1()</li>
+<li>Math.log1p()</li>
+<li>Math.log10()</li>
+<li>Math.log2()</li>
+<li>Math.sinh()</li>
+<li>Math.cosh()</li>
+<li>Math.tanh()</li>
+<li>Math.asinh()</li>
+<li>Math.acosh()</li>
+<li>Math.atanh()</li>
+</ul>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="built_in">Math</span>.trunc(<span class="number">3.1415926</span>);</span><br><span class="line"><span class="comment">// =&gt; 3</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">Math</span>.cbrt(<span class="number">8</span>);</span><br><span class="line"><span class="comment">// =&gt; 2</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">Math</span>.hypot(<span class="number">3</span>, <span class="number">4</span>);</span><br><span class="line"><span class="comment">// =&gt; 5</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">Math</span>.log10(<span class="number">100</span>)</span><br><span class="line"><span class="comment">// =&gt; 2</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">Math</span>.log2(<span class="number">16</span>)</span><br><span class="line"><span class="comment">// =&gt; 4</span></span><br></pre></td></tr></table></figure>
+<h2 id="数组">数组</h2><p>在函数中，参数对象 arguments 是一个具有 length 属性的对象，这一类对象被称为类数组对象（array-like object），常见的类数组对象包括 arguments 对象和 DOM 操作返回的 NodeList 集合，对于此类类数组对象，我们往往希望可以将其转换为数组，方便调用数组的方法对数据进行处理。在 ES6 中有一个方法专门用于转换类数组对象为真正的数组：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">const</span> obj = &#123; <span class="string">'0'</span>: <span class="string">'a'</span>, length: <span class="number">2</span> &#125;;</span><br><span class="line"><span class="keyword">const</span> arr = <span class="built_in">Array</span>.from(obj);</span><br><span class="line"></span><br><span class="line"><span class="built_in">console</span>.log(arr);</span><br><span class="line"><span class="comment">// =&gt; [ "a", undefined ]</span></span><br></pre></td></tr></table></figure>
+<p>从上面的代码可知，对象中的 length 属性确定了转换后数组的长度，索引不匹配的位置返回 undefined，此外 Array.from() 还接受第二个参数，用于对 obj 数据进行 map 处理。此外，对于 ES6 新增的 Set 和 Map 数据结构，也可以使用 Array.from() 转换为数组。</p>
+<p>在前面我们遇到了字符串编码大于 \uFFFF 时，字符长度会被误判的问题，这种情况下可以使用 Array.from() 将字符串转换为数组，获取数组的长度：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="string">"𠮷"</span>.length</span><br><span class="line"><span class="comment">// =&gt; 2</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">Array</span>.from(<span class="string">"𠮷"</span>).length;</span><br><span class="line"><span class="comment">// =&gt;  1</span></span><br></pre></td></tr></table></figure>
+<p>数组的构造函数 Array() 一直存在行为不确定的问题（一个参数表示新建数组长度，多个参数表示新建数组的组成元素），对此 ES6 提出了 Array.of() 方法来构建数组。Array.of() 方法接收任意多个参数，这些参数就是返回数组的元素：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="built_in">Array</span>.of(<span class="number">1</span>, <span class="string">'a'</span>, &#123;&#125;, [], <span class="built_in">Symbol</span>())</span><br><span class="line"><span class="comment">// =&gt; [ 1, "a", Object, Array[0], Symbol() ]</span></span><br></pre></td></tr></table></figure>
+<p>在众多的数组方法中，有那么一类方法非常值得警惕，这类方法的危险性在于，它们可以修改数组自身的数据，常见方法有：<strong>pop() / push() / shift() / unshift() / reverse() / sort() / splice()</strong>。在 ES6 中也存在两个可以修改数组自身的方法：copyWithin() 和 fill()：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="comment">// copyWithin(arrayStart[, copyStart, copyEnd])</span></span><br><span class="line"><span class="comment">// arrayStart: 从数组的该位置开始修改数据</span></span><br><span class="line"><span class="comment">// copyStart: 从数组的该位置开始取数据</span></span><br><span class="line"><span class="comment">// copyEnd: 从数组的该位置停止取数据</span></span><br><span class="line">[<span class="number">1</span>, <span class="number">2</span>, <span class="number">3</span>, <span class="number">4</span>, <span class="number">5</span>].copyWithin(<span class="number">0</span>, <span class="number">3</span>, <span class="number">4</span>);</span><br><span class="line"><span class="comment">// =&gt; [ 4, 2, 3, 4, 5 ]</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// fill(num, start, end) 方法可以用于数据重置</span></span><br><span class="line">[<span class="number">1</span>, <span class="number">2</span>, <span class="number">3</span>, <span class="number">4</span>, <span class="number">5</span>].fill(<span class="number">0</span>, <span class="number">3</span>, <span class="number">4</span>);</span><br><span class="line"><span class="comment">// =&gt; [ 1, 2, 3, 0, 5 ]</span></span><br></pre></td></tr></table></figure>
+<p>新增的 find() 和 some() 类似，都需要一个回调函数对遍历到的元素进行判断，不同点在于，find() 返回符合条件的第一个值，some() 则是在遇到复合条件的元素时返回 true；另一个新增的 findIndex() 与 indexOf() 类似，用于在数组中查找特定值的索引，不同之处在于 findIndex() 接收一个回调函数，indexOf() 接收的是一个值，此外，findIndex() 配合 Object.is 可以发现 NaN：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line">[<span class="number">1</span>, <span class="number">2</span>, <span class="number">3</span>, <span class="literal">NaN</span>].indexOf(y =&gt; <span class="built_in">Object</span>.is(<span class="literal">NaN</span>, y))</span><br><span class="line"><span class="comment">// =&gt; -1</span></span><br><span class="line">[<span class="number">1</span>, <span class="number">2</span>, <span class="number">3</span>, <span class="literal">NaN</span>].findIndex(y =&gt; <span class="built_in">Object</span>.is(<span class="literal">NaN</span>, y))</span><br><span class="line"><span class="comment">// =&gt; 3</span></span><br></pre></td></tr></table></figure>
+<p>此外，我们还可以使用 includes() 方法来判断是否存在：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line">[<span class="number">1</span>, <span class="number">2</span>, <span class="literal">NaN</span>].includes(<span class="literal">NaN</span>);</span><br><span class="line"><span class="comment">// =&gt; true</span></span><br></pre></td></tr></table></figure>
+<p>对于数组的遍历，ES6 提供了更精细的方法 entries() / keys() / values()，分别是对键值对、键和值的遍历：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">for</span> ( <span class="keyword">let</span> key <span class="keyword">of</span> [<span class="string">'a'</span>, <span class="string">'b'</span>].keys() ) &#123;</span><br><span class="line">    <span class="built_in">console</span>.log(key);</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">// =&gt; 0</span></span><br><span class="line"><span class="comment">// =&gt; 1</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> ( <span class="keyword">let</span> value <span class="keyword">of</span> [<span class="string">'a'</span>, <span class="string">'b'</span>].values()) &#123;</span><br><span class="line">    <span class="built_in">console</span>.log(value);</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">// =&gt; 'a'</span></span><br><span class="line"><span class="comment">// =&gt; 'b'</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> ( <span class="keyword">let</span> [key, value] <span class="keyword">of</span> [<span class="string">'a'</span>, <span class="string">'b'</span>].entries()) &#123;</span><br><span class="line">    <span class="built_in">console</span>.log([key, value]);</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">// =&gt; [ 0, "a" ]</span></span><br><span class="line"><span class="comment">// =&gt; [ 1, "b" ]</span></span><br></pre></td></tr></table></figure>
+<p>最后，值得一提的是，babel 编译已经支持了数组推导式（ES7），这一推到式在 Haskell 和 python 中都有实现：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">const</span> years = [ <span class="number">1954</span>, <span class="number">1974</span>, <span class="number">1990</span>, <span class="number">2006</span>, <span class="number">2010</span>, <span class="number">2014</span> ];</span><br><span class="line"><span class="keyword">const</span> array = [ <span class="keyword">for</span> ( year <span class="keyword">of</span> years ) <span class="keyword">if</span> ( year &gt; <span class="number">1990</span> ) <span class="keyword">if</span> ( year &lt; <span class="number">2014</span> ) year ];</span><br><span class="line"><span class="built_in">console</span>.log(array);</span><br><span class="line"><span class="comment">// =&gt; [ 2006, 2010 ]</span></span><br></pre></td></tr></table></figure>
+<h2 id="函数">函数</h2><p>先看一个示例：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">f</span> (<span class="params"> x, y = 2, ...z</span>) </span>&#123;</span><br><span class="line">    <span class="built_in">console</span>.log(<span class="string">`x = <span class="subst">$&#123;x&#125;</span>`</span>);</span><br><span class="line">    <span class="built_in">console</span>.log(<span class="string">`y = <span class="subst">$&#123;y&#125;</span>`</span>);</span><br><span class="line">    <span class="built_in">console</span>.log(<span class="string">`z = <span class="subst">$&#123;z&#125;</span>`</span>);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">f(<span class="number">1</span>, <span class="literal">undefined</span>, <span class="number">2</span>, <span class="number">3</span>, <span class="number">5</span>, <span class="number">8</span>, <span class="number">13</span>);</span><br><span class="line"><span class="comment">// =&gt; x = 1</span></span><br><span class="line"><span class="comment">// =&gt; y = 2</span></span><br><span class="line"><span class="comment">// =&gt; z = 2,3,5,8,13</span></span><br><span class="line"></span><br><span class="line">consoel.log(f.length);</span><br><span class="line"><span class="comment">// =&gt; 1</span></span><br></pre></td></tr></table></figure>
+<p>这个示例中聚合了很多 ES6 在函数方面的特性，第一处是 <code>y = 2</code>，这种形式定义了函数参数的默认值，所以这里的 y 相当于一个默认值参数；第二处是 <code>...z</code>，这里的 z 被称为 rest 参数，用于存放函数中多余的参数，该参数往往可以用来替代 arguments 对象，因为它天生就是数组类型；第三处是传参时的 undefined，如果我们想跳过某个参数，需要显示的将该参数赋值为 undefined，使用 null 的话没有效果；第四处就是 func.length，这里的 length 表示普通参数的数量，如果我们测试 arugments.length，会发现结果为 7，因为这里的 arguments.length 表示的是传入参数的数量；最后一处不是很明显，但是很重要，就是普通参数、默认值参数和 rest 参数的位置顺序。</p>
+<p>进一步还可以配合对象解构来传参：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">fetch</span>(<span class="params">url, &#123; body = '', method = 'GET', headers = &#123;&#125; &#125; </span>) </span>&#123;</span><br><span class="line">    <span class="built_in">console</span>.log(method);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">fetch(<span class="string">'http://meituan.com'</span>, &#123;&#125;);</span><br><span class="line"><span class="comment">// =&gt; 'GET'</span></span><br><span class="line"></span><br><span class="line">fetch(<span class="string">'http://meituan.com'</span>);</span><br><span class="line"><span class="comment">// =&gt; Cannot read property 'body' of undefined</span></span><br></pre></td></tr></table></figure>
+<p>第二个 fetch 的问题在于不能省略第二个参数，如果要省略参数，可以设置双重默认值：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">fetch</span>(<span class="params">url, &#123; body = '', method = 'GET', headers = &#123;&#125; &#125; = &#123;&#125; </span>) </span>&#123;</span><br><span class="line">    <span class="built_in">console</span>.log(method);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">fetch(<span class="string">'http://meituan.com'</span>);</span><br><span class="line"><span class="comment">// =&gt; 'GET'</span></span><br></pre></td></tr></table></figure>
+<p>rest 参数 <code>...rest</code> 用于将参数打包成数组，通过扩展运算符 <code>...</code>，可以执行逆运算，将数组（babel 也支持对类数对象的转换）转换为以分号分隔的参数序列：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">add</span> (<span class="params">...rest</span>) </span>&#123;</span><br><span class="line">    <span class="keyword">return</span> [<span class="number">0</span>, ...rest, <span class="number">21</span>];</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">add(<span class="number">1</span>, <span class="number">1</span>, <span class="number">2</span>, <span class="number">3</span>, <span class="number">5</span>, <span class="number">8</span>, <span class="number">13</span>);</span><br><span class="line"><span class="comment">// =&gt; [0,1,1,2,3,5,8,13,21]</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// 实际运用</span></span><br><span class="line"><span class="comment">// ES5</span></span><br><span class="line"><span class="built_in">Math</span>.max.apply(<span class="literal">null</span>, [<span class="number">1</span>, <span class="number">5</span>, <span class="number">3</span>]);</span><br><span class="line"></span><br><span class="line"><span class="comment">// ES6</span></span><br><span class="line"><span class="built_in">Math</span>.max(...[<span class="number">1</span>, <span class="number">5</span>, <span class="number">3</span>]);</span><br></pre></td></tr></table></figure>
+<p>接下来是比较亮眼的箭头函数<code>=&gt;</code>：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="comment">// ES5</span></span><br><span class="line"><span class="keyword">var</span> f = <span class="function"><span class="keyword">function</span>(<span class="params">k, v</span>) </span>&#123;</span><br><span class="line">    <span class="keyword">return</span> &#123; k: v &#125;;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">// ES6</span></span><br><span class="line"><span class="keyword">var</span> f = (k, v) =&gt; ( &#123; k: v &#125; );</span><br></pre></td></tr></table></figure>
+<p>看到箭头函数的第一感官就是：简洁。另一个重要的点在于，箭头函数绑定了 this 对象，其特点如下：</p>
+<ol>
+<li>this 对象的指向是可变，但在箭头函数中，它固定的志向定义时所在的对象，而不是使用时所在的对象</li>
+<li>不可以用于构造函数</li>
+<li>不可以使用 arguments 对象，可以使用 rest 参数代替</li>
+<li>不能用作 Generator 函数，所以不能使用 yield 命令</li>
+</ol>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">foo</span>(<span class="params"></span>) </span>&#123;</span><br><span class="line">    setTimeout( () =&gt; &#123;</span><br><span class="line">        <span class="built_in">console</span>.log(<span class="string">"id:"</span>, <span class="keyword">this</span>.id);</span><br><span class="line">    &#125;,<span class="number">100</span>);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">foo.call( &#123; id: <span class="number">42</span> &#125; );</span><br><span class="line"><span class="comment">// id: 42</span></span><br></pre></td></tr></table></figure>
+<p>之所以 this 的指向是固定的，根据 babel 的实现来说，是因为箭头函数内并没有 this 对象，无论箭头函数嵌套多少层，它都是指向定时所在的函数：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">foo</span>(<span class="params"></span>) </span>&#123;</span><br><span class="line">    <span class="keyword">return</span> () =&gt; &#123;</span><br><span class="line">        <span class="keyword">return</span> () =&gt; &#123;</span><br><span class="line">            <span class="keyword">return</span> () =&gt; &#123;</span><br><span class="line">                <span class="built_in">console</span>.log(<span class="string">"id:"</span>, <span class="keyword">this</span>.id);</span><br><span class="line">            &#125;;</span><br><span class="line">        &#125;;</span><br><span class="line">    &#125;;</span><br><span class="line">&#125;</span><br><span class="line">foo.call( &#123; id: <span class="number">42</span> &#125; )()()();</span><br><span class="line"></span><br><span class="line"><span class="comment">// babel 编译结果</span></span><br><span class="line"><span class="pi">"use strict"</span>;</span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">foo</span>(<span class="params"></span>) </span>&#123;</span><br><span class="line">    <span class="keyword">var</span> _this = <span class="keyword">this</span>;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">return</span> <span class="function"><span class="keyword">function</span> (<span class="params"></span>) </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> <span class="function"><span class="keyword">function</span> (<span class="params"></span>) </span>&#123;</span><br><span class="line">            <span class="keyword">return</span> <span class="function"><span class="keyword">function</span> (<span class="params"></span>) </span>&#123;</span><br><span class="line">                <span class="built_in">console</span>.log(<span class="string">"id:"</span>, _this.id);</span><br><span class="line">            &#125;;</span><br><span class="line">        &#125;;</span><br><span class="line">    &#125;;</span><br><span class="line">&#125;</span><br><span class="line">foo.call(&#123; id: <span class="number">42</span> &#125;)()()();</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>ES7 提出了函数绑定的概念，使用双冒号 <code>::</code> 来替代 call/apply/bind 的调用，目前 babel 已经支持该特性，双冒号左侧是一个对象，右侧是一个函数，实现以左边对象为上下文对象的右边函数：<br><figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">const</span> obj = &#123; id: <span class="number">123</span> &#125;;</span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">f</span> (<span class="params"></span>) </span>&#123;</span><br><span class="line">    <span class="built_in">console</span>.log(<span class="keyword">this</span>.id);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">obj::f();</span><br><span class="line"><span class="comment">// =&gt; 123</span></span><br></pre></td></tr></table></figure></p>
+</blockquote>
+<p>最后，讲讲尾函数调用的优化问题。在函数式编程中，如果某个函数的最后一步是函数调用过程，那么这一过程就成为尾调用：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">f</span>(<span class="params">x</span>)</span>&#123;</span><br><span class="line">    <span class="keyword">return</span> g(x);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">// 下面的函数并不是尾调用</span></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">f</span>(<span class="params">x</span>)</span>&#123;</span><br><span class="line">    g(x);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">// 上面示例相当于</span></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">f</span>(<span class="params">x</span>)</span>&#123;</span><br><span class="line">    g(x);</span><br><span class="line">    <span class="keyword">return</span> <span class="literal">undefined</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>函数调用过程是不断入栈出栈的过程，由于尾调用是最后一步操作，所以不需要保存外层函数的调用，这被称为尾调用优化，即只保留内层函数的调用帧，这种优化的好处是如果函数都是尾调用，那么就可以优化到每次尾调用都只保留一层调用，大大节省内存，这就是尾调用优化的意义。</p>
+<p>函数调用自身的过程，成为递归，如果尾调用自身，则称为尾递归。下面是一个阶乘函数，没有使用尾递归，最多需要保存 n 个调用记录，复杂度为 O(n)：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">factorial</span> (<span class="params">n</span>) </span>&#123;</span><br><span class="line">    <span class="keyword">if</span> ( n === <span class="number">1</span> ) <span class="keyword">return</span> <span class="number">1</span>;</span><br><span class="line">    <span class="keyword">return</span> n * factorial( n - <span class="number">1</span> );</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">factorial(<span class="number">5</span>);</span><br><span class="line"><span class="comment">// =&gt; 120</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// 使用尾递归改写，只保留一个调用记录，复杂度 O(1)</span></span><br><span class="line"><span class="comment">// Babel 检测到尾调用时使用 while 循环执行函数体</span></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">factorial</span>(<span class="params">n, total</span>) </span>&#123;</span><br><span class="line">  <span class="keyword">if</span> (n === <span class="number">1</span>) <span class="keyword">return</span> total;</span><br><span class="line">  <span class="keyword">return</span> factorial(n - <span class="number">1</span>, n * total);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">factorial(<span class="number">5</span>, <span class="number">1</span>)</span><br><span class="line"><span class="comment">// =&gt; 120</span></span><br></pre></td></tr></table></figure>
+<p>鉴于尾调用优化的在性能上的良好表现，EMCAScript 明确规定，所有 ECMAScript 的实现都应该实现“尾调用优化”。</p>
+<blockquote>
+<p>为了确保最后一步调用自身实现尾递归优化，就需要把函数内部用到的变量转换为函数的参数，比如上面的 total，不过这样的处理方式并不容易理解，优化方式有两种，一种是函数柯里化，另一种方式就是使用默认值参数：<br><figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="comment">// 方式一</span></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">currying</span>(<span class="params">fn, n</span>) </span>&#123;</span><br><span class="line">    <span class="keyword">return</span> <span class="function"><span class="keyword">function</span> (<span class="params">m</span>) </span>&#123;</span><br><span class="line">        <span class="keyword">return</span> fn.call(<span class="keyword">this</span>, m, n);</span><br><span class="line">    &#125;;</span><br><span class="line">&#125;</span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">tailFactorial</span>(<span class="params">n, total</span>) </span>&#123;</span><br><span class="line">    <span class="keyword">if</span> (n === <span class="number">1</span>) <span class="keyword">return</span> total;</span><br><span class="line">    <span class="keyword">return</span> tailFactorial(n - <span class="number">1</span>, n * total);</span><br><span class="line">&#125;</span><br><span class="line"><span class="keyword">const</span> factorial = currying(tailFactorial, <span class="number">1</span>);</span><br><span class="line">factorial(<span class="number">5</span>);</span><br><span class="line"><span class="comment">// =&gt; 120</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// 方式二</span></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">factorial</span>(<span class="params">n, total = 1</span>) </span>&#123;</span><br><span class="line">  <span class="keyword">if</span> (n === <span class="number">1</span>) <span class="keyword">return</span> total;</span><br><span class="line">  <span class="keyword">return</span> factorial(n - <span class="number">1</span>, n * total);</span><br><span class="line">&#125;</span><br><span class="line">factorial(<span class="number">5</span>);</span><br><span class="line"><span class="comment">// 120</span></span><br></pre></td></tr></table></figure></p>
+</blockquote>
+<h2 id="对象">对象</h2><p>ES6 在编码的简洁性上做了很多工作，比如上面的箭头函数，比如下面的对象声明：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">const</span> foo = <span class="string">'bar'</span>;</span><br><span class="line"><span class="keyword">const</span> obj = &#123; foo &#125;;</span><br><span class="line"><span class="comment">// 相当于 obj = &#123; foo: foo &#125;;</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> obj = &#123;</span><br><span class="line">    getSth ( x, y ) &#123;</span><br><span class="line">        <span class="keyword">return</span> &#123; x, y &#125;;</span><br><span class="line">        <span class="comment">// 相当于 return &#123; x: x, y: y &#125;;</span></span><br><span class="line">    &#125;</span><br><span class="line">    <span class="comment">// 相当于 getSth: function ( x, y ) &#123;&#125;</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>ES2015 新增了一个 Object.is() 方法来比较两个值是否相等，主要解决两方面的问题：一是 <code>==</code> 比较时的数据类型自动转换，一是 <code>===</code> 比较时 NaN 不等于自身、<code>+0</code> 等于 <code>-0</code> 的问题。Object.is() 实现的原则是：只要两个值一样，就应该相等（Same-value equality）。</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line">+<span class="number">0</span> === -<span class="number">0</span></span><br><span class="line"><span class="comment">// =&gt; true</span></span><br><span class="line"><span class="built_in">Object</span>.is(+<span class="number">0</span>, -<span class="number">0</span>);</span><br><span class="line"><span class="comment">// =&gt; false</span></span><br><span class="line"></span><br><span class="line"><span class="literal">NaN</span> === <span class="literal">NaN</span>;</span><br><span class="line"><span class="comment">// =&gt; false</span></span><br><span class="line"><span class="built_in">Object</span>.is(<span class="literal">NaN</span>, <span class="literal">NaN</span>);</span><br><span class="line"><span class="comment">// =&gt; true</span></span><br></pre></td></tr></table></figure>
+<p><code>Object.assign(target, source1, source2)</code> 用于将 source1/source2… 的属性拷贝到 target 中，遇到同名属性自动覆盖：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">let</span> target = &#123;&#125;;</span><br><span class="line"><span class="keyword">const</span> o1 = &#123; </span><br><span class="line">    id: <span class="number">123</span>, </span><br><span class="line">    meta: &#123; </span><br><span class="line">        age: <span class="number">1</span></span><br><span class="line">    &#125; </span><br><span class="line">&#125;;</span><br><span class="line"><span class="keyword">const</span> o2 = &#123; </span><br><span class="line">    meta: &#123;</span><br><span class="line">        age: <span class="number">2</span></span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br><span class="line"><span class="built_in">Object</span>.assign(target, o1, o2);</span><br><span class="line">target</span><br><span class="line"><span class="comment">// =&gt; &#123;"id":123,"meta":&#123;"age":2&#125;&#125;</span></span><br></pre></td></tr></table></figure>
+<p>到目前为止，一共有六种方法可以遍历对象的属性：</p>
+<ol>
+<li><code>for...in</code>，循环遍历对象自身的和集成的可枚举属性（不包含 Symbol 属性）</li>
+<li><code>object.keys(obj)</code>，返回一个数组，包括自身所有可枚举属性（不含 Symbol 属性和继承属性）</li>
+<li><code>Object.getOwnPropertyNames(obj)</code>，返回一个数组，包含对象自身的所有属性（不含Symbol属性，包括不可枚举属性）</li>
+<li><code>Object.getOwnPropertySymbols(obj)</code>，返回一个数组，包含对象自身的所有Symbol属性</li>
+<li><code>Reflect.ownKeys(obj)</code>，返回一个数组，包含对象自身的所有属性，包括 Symbol 和不可枚举属性</li>
+<li><code>Reflect.enumerate(obj)</code> 返回一个 Iterator 对象，结果与 <code>for...in</code> 相同</li>
+</ol>
+<p>以上六种遍历方法，都遵守同样的遍历次序：</p>
+<ul>
+<li>首先遍历所有属性名为数值的属性，按照数字排序。</li>
+<li>其次遍历所有属性名为字符串的属性，按照生成时间排序。</li>
+<li>最后遍历所有属性名为Symbol值的属性，按照生成时间排序。</li>
+</ul>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="built_in">Reflect</span>.ownKeys(&#123; [<span class="built_in">Symbol</span>()]:<span class="number">0</span>, b:<span class="number">0</span>, <span class="number">10</span>:<span class="number">0</span>, <span class="number">2</span>:<span class="number">0</span>, a:<span class="number">0</span> &#125;)</span><br><span class="line"><span class="comment">// ['2', '10', 'b', 'a', Symbol()]</span></span><br></pre></td></tr></table></figure>
+<p><code>__proto__</code> 是一个没有正式规范，被浏览器广泛支持的属性，ES6 提供了新的方法来代替对该属性的操作：<code>Object.setPrototypeOf()</code> / <code>Object.getPrototypeOf()</code> / <code>Object.create()</code>。</p>
+<h2 id="Symbol">Symbol</h2><p>Symbol 是 ES2015 加入的第七种数据类型，它与 undefined/null/boolean/string/number 都是原始数据类型，Symbol 用来实现一种独一无二的值：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">const</span> s1 = <span class="built_in">Symbol</span>(<span class="string">'foo'</span>);</span><br><span class="line"><span class="keyword">const</span> s2 = <span class="built_in">Symbol</span>(<span class="string">'foo'</span>);</span><br><span class="line"></span><br><span class="line"><span class="keyword">typeof</span> s;</span><br><span class="line"><span class="comment">// =&gt; 'symbol'</span></span><br><span class="line"></span><br><span class="line">s1.toString();</span><br><span class="line"><span class="comment">// =&gt; 'Symbol(foo)'</span></span><br><span class="line"></span><br><span class="line">s2 === s1;</span><br><span class="line"><span class="comment">// =&gt; false</span></span><br></pre></td></tr></table></figure>
+<p>Symbol 独一无二的特性非常适合作为对象的属性名：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">const</span> s = <span class="built_in">Symbol</span>(<span class="string">'foo'</span>);</span><br><span class="line"><span class="keyword">const</span> o = &#123;</span><br><span class="line">    [s]: <span class="string">'Hi'</span></span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line">o.s</span><br><span class="line"><span class="comment">// =&gt; 'undefined'</span></span><br><span class="line"></span><br><span class="line"><span class="number">0</span>[s]</span><br><span class="line"><span class="comment">// =&gt; 'hi'</span></span><br></pre></td></tr></table></figure>
+<p>在对使用 Symbol 作为属性名的对象进行遍历时，Symbol 属性不会出现在 for…in、for…of 循环中，也不会出现在 Object.keys()、Object.getOwnPropertyNames() 的返回值中。虽然如此，Symbol 并不是私有属性，可以通过 Object.getOwnPropertySymbols() 来获取指定对象的所有 Symbol 属性名：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">const</span> s1 = <span class="built_in">Symbol</span>(<span class="string">'foo'</span>);</span><br><span class="line"><span class="keyword">const</span> s2 = <span class="built_in">Symbol</span>(<span class="string">'baz'</span>);</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> obj = &#123;</span><br><span class="line">    [s1]: <span class="number">123</span>,</span><br><span class="line">    [s2]: <span class="string">'abc'</span></span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> ss = <span class="built_in">Object</span>.getOwnPropertySymbols(obj);</span><br><span class="line"><span class="comment">// [ Symbol(foo), Symbol(baz) ]</span></span><br></pre></td></tr></table></figure>
+<p>要获取相同的 Symbol，可以调用系统的 Symbol.for()，该方法接受一个字符串作为参数，它会检测是否存在以该字符串参数名称的 Symbol 值，找到就返回，没有就创建：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">const</span> s1 = <span class="built_in">Symbol</span>.for(<span class="string">'foo'</span>);</span><br><span class="line"><span class="keyword">const</span> s2 = <span class="built_in">Symbol</span>.for(<span class="string">'foo'</span>);</span><br><span class="line"></span><br><span class="line">s1 === s2;</span><br><span class="line"><span class="comment">// =&gt; true</span></span><br></pre></td></tr></table></figure>
+<p>上面示例中用作参数的字符串又被成为 Symbol 的 key，使用 Symbol.keyFor() 可以查看这个 key:</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">const</span> s = <span class="built_in">Symbol</span>.for(<span class="string">'foo'</span>);</span><br><span class="line"></span><br><span class="line"><span class="built_in">Symbol</span>.keyFor(s);</span><br><span class="line"><span class="comment">// =&gt; 'foo'</span></span><br></pre></td></tr></table></figure>
+<h2 id="Proxy_and_Reflect">Proxy and Reflect</h2><p>Proxy，顾名思义，用于代替特定对象与外界进行交互的对象，简称代理对象:</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">const</span> obj = &#123;&#125;;</span><br><span class="line"><span class="keyword">const</span> p = <span class="keyword">new</span> <span class="built_in">Proxy</span>(obj, &#123;</span><br><span class="line">    get: <span class="function"><span class="keyword">function</span> (<span class="params">target, key</span>) </span>&#123;</span><br><span class="line">        <span class="built_in">console</span>.log(target);</span><br><span class="line">        <span class="built_in">console</span>.log(<span class="string">`getting <span class="subst">$&#123;key&#125;</span>`</span>);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;);</span><br><span class="line"></span><br><span class="line">p.xxx</span><br><span class="line"><span class="comment">// =&gt; &#123;&#125;</span></span><br><span class="line"><span class="comment">// =&gt; 'getting xxx'</span></span><br></pre></td></tr></table></figure>
+<p>Proxy 的拦截操作概览：</p>
+<ul>
+<li>get()，拦截属性的读取</li>
+<li>set()，拦截属性的设置</li>
+<li>has()，拦截 propKey in proxy 操作</li>
+<li>deleteProperty()，拦截 delete proxy[propKey] 操作</li>
+<li>enumerate()，拦截 for ( let x in proxy ) 操作</li>
+<li>ownKeys()</li>
+<li>getOwnPropertyDescriptor()</li>
+<li>defineProperty()</li>
+<li>preventExtensions()</li>
+<li>getPrototypeOf()</li>
+<li>isExtensible()</li>
+<li>setPrototypeOf()</li>
+<li>apply()</li>
+<li>construct()</li>
+</ul>
+<p>使用 Proxy.revocable() 可以创建一个可撤销拦截的代理对象：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">const</span> &#123; proxy, revoke &#125; = <span class="built_in">Proxy</span>.revocable(&#123;&#125;, &#123;&#125;);</span><br><span class="line"></span><br><span class="line">proxy.foo = <span class="number">1</span>;</span><br><span class="line"><span class="built_in">console</span>.log(proxy.foo);</span><br><span class="line"><span class="comment">// =&gt; 1</span></span><br><span class="line"></span><br><span class="line">revoke();</span><br><span class="line"><span class="built_in">console</span>.log(proxy);</span><br><span class="line"><span class="comment">// =&gt; undefined</span></span><br></pre></td></tr></table></figure>
+<p>Reflect 对象的设计初衷：</p>
+<ol>
+<li>将 object 对象上明显属于语言内部的方法（Object.defineProperty）放到 Reflect 对象上</li>
+<li>修改某些 Object 对象的返回结果，使其更可控，比如 Object.defineProperty() 在无法定义属性时会抛出错误，而 Reflect.defineProperty() 则会返回 false</li>
+<li>让 Object 操作统一为函数行为，比如 name in obj 和 delete obj[name]，使用 Reflect.has() 和 Reflect.deleteProperty() 来执行</li>
+<li>Reflect 对象的方法和 Proxy 对象的方法一一对应，两者高度统一，方便 Proxy 对象调用对应的 Reflect 方法 —— 不管 Proxy 怎么拦截和修改，总可以在 Reflect 上获取默认行为</li>
+</ol>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="comment">// Object 操作对比 Reflect 操作</span></span><br><span class="line"><span class="keyword">try</span> &#123;</span><br><span class="line">    <span class="built_in">Object</span>.defineProperty(target, prop, attr);</span><br><span class="line">    <span class="comment">// success</span></span><br><span class="line">&#125;</span><br><span class="line"><span class="keyword">catch</span> (e) &#123;</span><br><span class="line">    <span class="comment">// failure</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span> (<span class="built_in">Reflect</span>.defineProperty(target, prop, attr)) &#123;</span><br><span class="line">    <span class="comment">// success</span></span><br><span class="line">&#125;</span><br><span class="line"><span class="keyword">else</span> &#123;</span><br><span class="line">    <span class="comment">// failure</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h2 id="Set_and_Map">Set and Map</h2><p>ES2015 提供的 Set 数据结构是数组的一个约束，两者的差别就在于 Set 中没有重复值：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="comment">// Set 的参数必须实现了 iterator 接口</span></span><br><span class="line"><span class="keyword">const</span> set = <span class="keyword">new</span> <span class="built_in">Set</span>([<span class="number">1</span>, <span class="number">2</span>, <span class="string">'2'</span>, <span class="number">2</span>, <span class="number">1</span>]);</span><br><span class="line"></span><br><span class="line"><span class="built_in">console</span>.log(set);</span><br><span class="line"><span class="comment">// =&gt; [ 1, 2, "2" ]</span></span><br></pre></td></tr></table></figure>
+<p>Set 实例绑定的方法可以分为两类：数据操作方法和成员遍历方法：</p>
+<p><img src="/img/es2015-set-methods.png" alt="set methods"></p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">const</span> set = <span class="keyword">new</span> <span class="built_in">Set</span>();</span><br><span class="line"></span><br><span class="line">set.add(<span class="number">1</span>);</span><br><span class="line">set.add(<span class="number">2</span>);</span><br><span class="line"></span><br><span class="line">set</span><br><span class="line"><span class="comment">// =&gt; [1, 2]</span></span><br><span class="line"></span><br><span class="line">set.has(<span class="number">2</span>);</span><br><span class="line"><span class="comment">// =&gt; true</span></span><br><span class="line"></span><br><span class="line">set.delete(<span class="number">2</span>);</span><br><span class="line"><span class="comment">// =&gt; true</span></span><br><span class="line"></span><br><span class="line">set.clear();</span><br><span class="line"></span><br><span class="line">set</span><br><span class="line"><span class="comment">// =&gt; []</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// 数组去重</span></span><br><span class="line"><span class="built_in">Array</span>.from(<span class="keyword">new</span> <span class="built_in">Set</span>([<span class="number">1</span>, <span class="number">2</span>, <span class="number">3</span>, <span class="number">2</span>, <span class="number">1</span>]))</span><br><span class="line"><span class="comment">// =&gt; [1, 2, 3]</span></span><br></pre></td></tr></table></figure>
+<p>在遍历时，由于 Set 结构没有键名，只有键值，所以 keys() 和 values() 的返回值一致：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">const</span> set = <span class="keyword">new</span> <span class="built_in">Set</span>([<span class="string">'red'</span>, <span class="string">'green'</span>, <span class="string">'blue'</span>]);</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> ( <span class="keyword">let</span> key <span class="keyword">of</span> set.keys() ) &#123;</span><br><span class="line">    <span class="built_in">console</span>.log(key);</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">// =&gt; red</span></span><br><span class="line"><span class="comment">// =&gt; green</span></span><br><span class="line"><span class="comment">// =&gt; blue</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> ( <span class="keyword">let</span> value <span class="keyword">of</span> set.values() ) &#123;</span><br><span class="line">    <span class="built_in">console</span>.log(value);</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">// =&gt; red</span></span><br><span class="line"><span class="comment">// =&gt; green</span></span><br><span class="line"><span class="comment">// =&gt; blue</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> ( <span class="keyword">let</span> [key, value] <span class="keyword">of</span> set.entries() ) &#123;</span><br><span class="line">    <span class="built_in">console</span>.log([key, value]);</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">// =&gt; ["red","red"]</span></span><br><span class="line"><span class="comment">// =&gt; ["green","green"]</span></span><br><span class="line"><span class="comment">// =&gt; ["blue","blue"]</span></span><br></pre></td></tr></table></figure>
+<p>下面是一个 Set 结构的实例，用来求取两个 Set 结构的并交差集：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">const</span> x = <span class="keyword">new</span> <span class="built_in">Set</span>([<span class="number">1</span>, <span class="number">2</span>, <span class="number">3</span>]);</span><br><span class="line"><span class="keyword">const</span> y = <span class="keyword">new</span> <span class="built_in">Set</span>([<span class="number">2</span>, <span class="number">3</span>, <span class="number">4</span>]);</span><br><span class="line"></span><br><span class="line"><span class="comment">// 并集</span></span><br><span class="line"><span class="keyword">const</span> union = <span class="keyword">new</span> <span class="built_in">Set</span>([...x, ...y]);</span><br><span class="line"></span><br><span class="line"><span class="comment">// 交集</span></span><br><span class="line"><span class="keyword">const</span> intersection = <span class="keyword">new</span> <span class="built_in">Set</span>([...x].filter( x =&gt; y.has(x) ));</span><br><span class="line"></span><br><span class="line"><span class="comment">// 差集</span></span><br><span class="line"><span class="keyword">const</span> diffset = <span class="keyword">new</span> <span class="built_in">Set</span>([...x].filter( x =&gt; !y.has(x) ));</span><br></pre></td></tr></table></figure>
+<p>WeakSet 结构和 Set 结构相似，也是不重复值的集合，差异在于两个地方：一是 WeakSet 内部的元素只能是对象，二是 WeakSet 内部的对象是弱引用，垃圾回收机制不考虑 WeakSet 中对象的引用计数。</p>
+<p>由于 WeakSet 结构的对象是弱引用，随时可能消失，所以没有 size 属性，也无法进行遍历，只具有 Set 结构中的三个操作方法：add() / delete() / has()。</p>
+<p>Map 结构是对现有 Object 对象的扩展，Object 中的 key 只能是字符串和 Symbol（ES2015 新增），Map 中的 key 可以是任意数据类型：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">const</span> map = <span class="keyword">new</span> <span class="built_in">Map</span>();</span><br><span class="line"><span class="keyword">const</span> obj = &#123; id: <span class="number">123</span> &#125;;</span><br><span class="line"></span><br><span class="line">map.set(obj, <span class="string">'hi'</span>);</span><br><span class="line">map.get(obj);</span><br><span class="line"><span class="comment">// =&gt; 'hi'</span></span><br><span class="line"></span><br><span class="line">map.has(obj);</span><br><span class="line"><span class="comment">// true</span></span><br><span class="line">map.delete(obj);</span><br><span class="line">map.has(obj);</span><br><span class="line"><span class="comment">// false</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// key 绑定内存地址</span></span><br><span class="line">map.set(&#123;&#125;, <span class="string">'object'</span>);</span><br><span class="line">map.get(&#123;&#125;);</span><br><span class="line"><span class="comment">// =&gt; undefined</span></span><br></pre></td></tr></table></figure>
+<p>下面在 Map 初始化的时候传入一个二维数组创建 Map：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">const</span> map = <span class="keyword">new</span> <span class="built_in">Map</span>([</span><br><span class="line">    [<span class="number">1</span>, <span class="string">'one'</span>],</span><br><span class="line">    [<span class="number">2</span>, <span class="string">'two'</span>],</span><br><span class="line">    [<span class="number">3</span>, <span class="string">'three'</span>]</span><br><span class="line">]);</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> ( <span class="keyword">let</span> key <span class="keyword">of</span> map.keys() ) &#123;</span><br><span class="line">    <span class="built_in">console</span>.log(key);</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">// =&gt; 1</span></span><br><span class="line"><span class="comment">// =&gt; 2</span></span><br><span class="line"><span class="comment">// =&gt; 3</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> ( <span class="keyword">let</span> value <span class="keyword">of</span> map.values() ) &#123;</span><br><span class="line">    <span class="built_in">console</span>.log(value);</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">// =&gt; one</span></span><br><span class="line"><span class="comment">// =&gt; two</span></span><br><span class="line"><span class="comment">// =&gt; three</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> ( <span class="keyword">let</span> [key, value] <span class="keyword">of</span> map.entries() ) &#123;</span><br><span class="line">    <span class="built_in">console</span>.log([key, value]);</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">// =&gt; [1,"one"]</span></span><br><span class="line"><span class="comment">// =&gt; [2,"two"]</span></span><br><span class="line"><span class="comment">// =&gt; [3,"three"]</span></span><br></pre></td></tr></table></figure>
+<p>WeakMap 是弱引用的 Map 结构，而且 WeakMap 只能以对象作为键值，不接受其他类型的值作为键名。</p>
+<h2 id="Iterator">Iterator</h2><p>现在，JS 中表示集合的数据结构包括 String、Array、Object、Map、Set、WeakMap、WeakSet 七种数据结构。Iterator 提供了一种接口，为各种不同的数据结构提供统一的接口，任何数据结构只要部署了 Iterator 结构，就可以完成遍历操作，目前，String、Array、Map 和 Set 是默认部署了该接口的数据结构，Array-like object 可以通过 Array.from() 转换为 Array 使用该接口。</p>
+<p>Iterator 的作用主要有三点：</p>
+<ul>
+<li>为数据结构提供统一的访问接口</li>
+<li>使得数据接口的成员可以按照某种次序排列</li>
+<li>供 for…of 使用</li>
+</ul>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">const</span> arr = [<span class="number">1</span>, <span class="number">2</span>, <span class="number">3</span>];</span><br><span class="line"><span class="keyword">const</span> it = arr[<span class="built_in">Symbol</span>.iterator]();</span><br><span class="line"></span><br><span class="line">it.next();</span><br><span class="line"><span class="comment">// =&gt; Object &#123; value: 1, done: false &#125;</span></span><br><span class="line">it.next()</span><br><span class="line"><span class="comment">// =&gt; Object &#123; value: 2, done: false &#125;</span></span><br><span class="line">it.next()</span><br><span class="line"><span class="comment">// =&gt; Object &#123; value: 3, done: false &#125;</span></span><br><span class="line">it.next()</span><br><span class="line"><span class="comment">// =&gt; Object &#123; value: undefined, done: true &#125;</span></span><br></pre></td></tr></table></figure>
+<p>凡是数据结构原生部署了 Symbol.iterator 属性，则具备 Iterator 接口，调用该接口，就可以得到一个遍历器对象。遍历器对象调用 next() 方法一次可以得到数据结构的所有成员，next() 返回一个对象，包括 value 和 done 属性。</p>
+<p>ES6 规定，默认的 Iterator 接口部署在数据结构的 Symbol.iterator 属性上，部署该属性的数据结构都被认为是可遍历的。在某些场合会自动调用遍历器接口：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="comment">// 解构赋值</span></span><br><span class="line">[x, y] = [x, y]</span><br><span class="line"></span><br><span class="line"><span class="comment">// 扩展运算符</span></span><br><span class="line">[...<span class="string">'hello'</span>]</span><br><span class="line"><span class="comment">// =&gt; [ "h", "e", "l", "l", "o" ]</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// 其他</span></span><br><span class="line"><span class="keyword">for</span> ... <span class="keyword">of</span></span><br><span class="line"><span class="built_in">Array</span>.from()</span><br><span class="line"><span class="built_in">Map</span>() / <span class="built_in">Set</span>() / <span class="built_in">WeakMap</span>() / <span class="built_in">WeakSet</span>()</span><br><span class="line"><span class="built_in">Promise</span>.all()</span><br><span class="line">Promis.race()</span><br><span class="line"></span><br><span class="line"><span class="comment">// yield*</span></span><br><span class="line"><span class="function"><span class="keyword">function</span>* <span class="title">gen</span> (<span class="params"></span>) </span>&#123;</span><br><span class="line">    <span class="keyword">yield</span>* [<span class="number">1</span>, <span class="number">2</span>, <span class="number">3</span>];</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> it = gen();</span><br><span class="line"></span><br><span class="line">it.next();</span><br><span class="line"><span class="comment">// =&gt; Object &#123; value: 1, done: false &#125;</span></span><br><span class="line">it.next()</span><br><span class="line"><span class="comment">// =&gt; Object &#123; value: 2, done: false &#125;</span></span><br><span class="line">it.next()</span><br><span class="line"><span class="comment">// =&gt; Object &#123; value: 3, done: false &#125;</span></span><br><span class="line">it.next()</span><br><span class="line"><span class="comment">// =&gt; Object &#123; value: undefined, done: true &#125;</span></span><br></pre></td></tr></table></figure>
+<p>遍历语法的发展：</p>
+<ul>
+<li>for 遍历，语法繁琐</li>
+<li>forEach()，不能使用 break、continue、return 退出循环</li>
+<li>for…in，为对象设计，遍历数组时会自动将索引转换为字符串</li>
+<li>for…of，修复上述问题，可以遍历实现 iterator 接口的数据接口，不支持对普通对象的遍历</li>
+</ul>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">const</span> arr = [<span class="string">'a'</span>, <span class="string">'b'</span>, <span class="string">'c'</span>];</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> ( <span class="keyword">let</span> key <span class="keyword">in</span> arr ) &#123;</span><br><span class="line">    <span class="built_in">console</span>.log([key, arr[key]]);</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">// =&gt; [ "0", "a" ]</span></span><br><span class="line"><span class="comment">// =&gt; [ "1", "b" ]</span></span><br><span class="line"><span class="comment">// =&gt; [ "2", "c" ]</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> ( <span class="keyword">let</span> [key, value] <span class="keyword">of</span> arr.entries() ) &#123;</span><br><span class="line">    <span class="built_in">console</span>.log([key, value]);</span><br><span class="line">&#125; </span><br><span class="line"><span class="comment">// =&gt; [ 0, "a" ]</span></span><br><span class="line"><span class="comment">// =&gt; [ 1, "b" ]</span></span><br><span class="line"><span class="comment">// =&gt; [ 2, "c" ]</span></span><br></pre></td></tr></table></figure>
+<h2 id="Generator">Generator</h2><p>Generator 函数是 ES2015 提供的一种异步编程解决方案。可以将 Generator 视为一个有限状态机，内部封装了多个状态：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span>* <span class="title">gen</span> (<span class="params"></span>) </span>&#123;</span><br><span class="line">    <span class="keyword">yield</span> <span class="number">1</span>;</span><br><span class="line">    <span class="keyword">yield</span> <span class="number">2</span>;</span><br><span class="line">    <span class="keyword">yield</span> <span class="number">3</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> it = gen();</span><br><span class="line"></span><br><span class="line">it.next();</span><br><span class="line"><span class="comment">// =&gt; Object &#123; value: 1, done: false &#125;</span></span><br><span class="line">it.next()</span><br><span class="line"><span class="comment">// =&gt; Object &#123; value: 2, done: false &#125;</span></span><br><span class="line">it.next()</span><br><span class="line"><span class="comment">// =&gt; Object &#123; value: 3, done: false &#125;</span></span><br><span class="line">it.next()</span><br><span class="line"><span class="comment">// =&gt; Object &#123; value: undefined, done: true &#125;</span></span><br></pre></td></tr></table></figure>
+<p>Generator 函数返回的遍历器对象需要调用 next 函数才会遍历到下一个内部状态，并且通过函数内部的 yield 命名挂起函数。遍历器对象 next 方法的运行逻辑：</p>
+<ol>
+<li>执行 next 函数，遇到 yield 命令挂起函数的执行，并且返回 yield 命令后表达式的值，作为返回的遍历器对象的 value 属性</li>
+<li>继续执行 next 函数，直到遇到下一个 yield，然后挂起函数</li>
+<li>如果没有再遇到 return，就运行到函数结束。函数结束时如果有 return，返回 return 后面表达式的值作为返回对象的 value 属性</li>
+<li>如果没有 return 表达式，则返回对象的 value 属性为 undefined</li>
+</ol>
+<p><img src="/img/es2015-generator-yield.png" alt="es2015-generator-yield"></p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span>* <span class="title">gen</span> (<span class="params"></span>) </span>&#123;</span><br><span class="line">    <span class="keyword">const</span> ret = <span class="keyword">yield</span> <span class="number">1</span>;</span><br><span class="line">    <span class="keyword">yield</span> ret;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> g = gen();</span><br><span class="line"></span><br><span class="line">g.next();</span><br><span class="line"><span class="comment">// =&gt; Object &#123; value: 1, done: false &#125;</span></span><br><span class="line">g.next(<span class="literal">true</span>)</span><br><span class="line"><span class="comment">// =&gt; Object &#123; value: true, done: false &#125;</span></span><br><span class="line">g.next()</span><br><span class="line"><span class="comment">// =&gt; Object &#123; value: undefined, done: true &#125;</span></span><br></pre></td></tr></table></figure>
+<p>Generator 函数返回的对象都部署了 Iterator 接口 [Symbol.iterator]，所以，我们可以使用 for…of 循环来遍历 Generator 函数，当返回对象的 done 属性为 true 时，循环自动中止：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span>* <span class="title">gen</span>(<span class="params"></span>) </span>&#123;</span><br><span class="line">    <span class="keyword">yield</span> <span class="number">1</span>;</span><br><span class="line">    <span class="keyword">yield</span> <span class="number">2</span>;</span><br><span class="line">    <span class="keyword">yield</span> <span class="number">3</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> ( <span class="keyword">let</span> v <span class="keyword">of</span> gen() ) &#123;</span><br><span class="line">    <span class="built_in">console</span>.log(v);</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">// =&gt; 1</span></span><br><span class="line"><span class="comment">// =&gt; 2</span></span><br><span class="line"><span class="comment">// =&gt; 3</span></span><br></pre></td></tr></table></figure>
+<p>Generator 返回的对象附带两个方法：throw() 和 return，用于手动抛出异常和结束 Generator 函数。</p>
+<p>如果要在 Generator 函数内调用另外一个 Generator 函数，需要使用 <code>yield*</code>，实际上如果 yield 后面跟的是一个遍历器对象，都可以使用 <code>yield*</code> 来解析：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span>* <span class="title">gen</span>(<span class="params"></span>) </span>&#123;</span><br><span class="line">    <span class="keyword">yield</span> <span class="number">1</span>;</span><br><span class="line">    <span class="keyword">yield</span>* [<span class="number">2</span>, <span class="number">3</span>, <span class="number">4</span>];</span><br><span class="line">    <span class="comment">// 等同于 </span></span><br><span class="line">    <span class="comment">// yield 2;</span></span><br><span class="line">    <span class="comment">// yield 3;</span></span><br><span class="line">    <span class="comment">// yield 4;</span></span><br><span class="line">    <span class="keyword">yield</span> <span class="number">5</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> g = gen();</span><br><span class="line"></span><br><span class="line">g.next();</span><br><span class="line"><span class="comment">// =&gt; Object &#123; value: 1, done: false &#125;</span></span><br><span class="line">g.next()</span><br><span class="line"><span class="comment">// =&gt; Object &#123; value: 2, done: false &#125;</span></span><br><span class="line">g.next()</span><br><span class="line"><span class="comment">// =&gt; Object &#123; value: 3, done: false &#125;</span></span><br><span class="line">g.next()</span><br><span class="line"><span class="comment">// =&gt; Object &#123; value: 4, done: false &#125;</span></span><br><span class="line">g.next()</span><br><span class="line"><span class="comment">// =&gt; Object &#123; value: 5, done: false &#125;</span></span><br><span class="line">g.next()</span><br><span class="line"><span class="comment">// =&gt; Object &#123; value: undefined, done: true &#125;</span></span><br></pre></td></tr></table></figure>
+<p>如果对象的某个属性是 Generator 函数，形式上有所不同：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">const</span> obj = &#123;</span><br><span class="line">    * gen () &#123;</span><br><span class="line">        <span class="keyword">yield</span> <span class="number">1</span>;</span><br><span class="line">        <span class="keyword">yield</span> <span class="number">2</span>;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> g = obj.gen();</span><br><span class="line"></span><br><span class="line">g.next();</span><br><span class="line"><span class="comment">// =&gt; Object &#123; value: 1, done: false &#125;</span></span><br><span class="line">g.next()</span><br><span class="line"><span class="comment">// =&gt; Object &#123; value: 2, done: false &#125;</span></span><br><span class="line">g.next()</span><br><span class="line"><span class="comment">// =&gt; Object &#123; value: undefined, done: true &#125;</span></span><br></pre></td></tr></table></figure>
+<p>前面有数组推导，Generator 函数也有推导，Generator 函数推导的优势在于它是惰性求值：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span>* <span class="title">bigArr</span> (<span class="params"></span>) </span>&#123;</span><br><span class="line">    <span class="keyword">for</span> ( <span class="keyword">let</span> i = <span class="number">0</span>; i &lt; <span class="number">1000000</span>; i++ ) &#123;</span><br><span class="line">        <span class="keyword">yield</span> i;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> ret = ( <span class="keyword">for</span> ( n <span class="keyword">of</span> bigArr() ) <span class="keyword">if</span> ( n &lt; <span class="number">10</span> ) n * n );</span><br><span class="line"></span><br><span class="line">[...ret]</span><br><span class="line"><span class="comment">// =&gt; [ 0, 1, 4, 9, 16, 25, 36, 49, 64, 81 ]</span></span><br></pre></td></tr></table></figure>
+<p>下面是使用 Generator 函数实现的一个状态机：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span>* <span class="title">gen</span>(<span class="params"></span>) </span>&#123;</span><br><span class="line">    <span class="keyword">while</span>( <span class="literal">true</span> ) &#123;</span><br><span class="line">        <span class="keyword">yield</span> _;</span><br><span class="line">        <span class="built_in">console</span>.log(<span class="string">'on'</span>);</span><br><span class="line"></span><br><span class="line">        <span class="keyword">yield</span> _;</span><br><span class="line">        <span class="built_in">console</span>.log(<span class="string">'off'</span>);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> g = gen();</span><br><span class="line"></span><br><span class="line">g.next()</span><br><span class="line"><span class="comment">// on</span></span><br><span class="line">g.next()</span><br><span class="line"><span class="comment">// off</span></span><br><span class="line">g.next()</span><br><span class="line"><span class="comment">// on</span></span><br><span class="line"><span class="comment">// ...</span></span><br></pre></td></tr></table></figure>
+<p>JS 解析引擎是单线程，只能保持一个调用栈，为了保持多个任务独立的调用栈，引入了协程。Generator 函数是 ES2015 对协程的实现，但不是完整的实现，完整的协程应该可以通过任何函数实现暂停，但是只有 Generator 函数的调用者才能结束 Generator 函数。</p>
+<p>如果将 Generator 函数当做协程，可以将多个需要写作的任务都写成 Generator 函数，使用 yield 命令交换控制权。</p>
+<h2 id="Promise">Promise</h2><p>在 ES2015 之前，Promise 早有实现，ES2015 规范统一了 Promise 的用法。Promise 对象共有三个状态：Pending、Resolved 和 Rejected。Promise 对象的状态只能从 Pending 变为 Resolved 或者从 Pending 变为 Rejected。</p>
+<p>Promise 对象存在的价值是将异步操作以同步操作的流程表达出来，避免层层嵌套的回调函数，并且提供了统一的接口，便于控制异步操作。不过，Promise 也存在一些缺点：</p>
+<ul>
+<li>创建后立即执行，无法中途取消</li>
+<li>如果不设置回调函数，无法抛出内部错误</li>
+<li>处于 Pending 状态时，无法获得具体状态（刚刚开始还是即将完成）</li>
+</ul>
+<p>ES2015 规定，Promise 对象是一个构造函数，用于生成 Promise 实例：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">const</span> p = <span class="keyword">new</span> <span class="built_in">Promise</span>( (resolve, reject) =&gt; &#123;</span><br><span class="line">    setTimeout(resolve, <span class="number">1000</span>, <span class="string">'done'</span>);</span><br><span class="line">&#125;);</span><br><span class="line"></span><br><span class="line">p.then((value) =&gt; &#123;</span><br><span class="line">    <span class="built_in">console</span>.log(value);</span><br><span class="line">&#125;);</span><br><span class="line"><span class="comment">// 1000ms 后</span></span><br><span class="line"><span class="comment">// =&gt; 'done'</span></span><br></pre></td></tr></table></figure>
+<p>Promise 实例具有两个方法：then(resolved，rejected) 和 catch()。catch() 相当于是 <code>.them(null, rejected)</code> 的缩写，用于指定发生错误时的回调函数。</p>
+<p>Promise 对象本身还有四个方法：all()、race()、resolve()、reject()。Promise.all() 方法接收包含多个 Promise 实例的一个数组，打包封装成一个 Promise 实例：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">const</span> p = <span class="keyword">new</span> <span class="built_in">Promise</span>.all([p1, p2, p3]);</span><br><span class="line"><span class="comment">// p 的状态取决于 p1、p2、p3</span></span><br><span class="line"><span class="comment">// p1、p2、p3 全部 resolved 时，p resolved</span></span><br><span class="line"><span class="comment">// p1、p2、p3 有一个 rejected，p rejected</span></span><br></pre></td></tr></table></figure>
+<p>Promise.race() 同样打包多个返回一个 Promise 实例：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">const</span> p = <span class="keyword">new</span> <span class="built_in">Promise</span>.race([p1, p2, p3]);</span><br><span class="line"><span class="comment">// 与 Promise.all() 的不同之处在于，</span></span><br><span class="line"><span class="comment">// p 的状态取决于 p1、p2、p3 中状态最先发生变化的那个</span></span><br></pre></td></tr></table></figure>
+<p>Promise.resolve() 方法用于将现有对象转换为 Promise 对象；Promise.reject() 方法返回一个 Promise 实例，该实例的默认状态就是 rejected。</p>
+<p>ES2015 的 Promise API 并不是很多，可以根据自己的开发需要部署特定的方法，比如我们可以部署两个比较常用的方法：done() 和 finally()。Promise 实例以 then() 或 catch() 方法作为结尾方法时，如果结尾方法抛出错误，是有可能无法捕捉到的，所以可以实现一个 done 方法置于回调链的结尾，保证抛出的任何方法都能被捕获：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="built_in">Promise</span>.prototype.done = <span class="function"><span class="keyword">function</span> (<span class="params">onFulfilled, onRejected</span>) </span>&#123;</span><br><span class="line">    <span class="keyword">this</span>.then(onFulfilled, onRejected)</span><br><span class="line">        .catch(<span class="function"><span class="keyword">function</span> (<span class="params">reason</span>) </span>&#123;</span><br><span class="line">            <span class="comment">// 抛出一个全局错误</span></span><br><span class="line">            setTimeout(() =&gt; &#123; <span class="keyword">throw</span> reason &#125;, <span class="number">0</span>);</span><br><span class="line">        &#125;);</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+<p>finally() 方法用于指定回调链的最终操作，与 done 方法的区别在于，它接受一个普通的回调函数作为参数：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="comment">// 服务器使用 Promise 处理请求，使用 finally 关掉服务器</span></span><br><span class="line">server.listen(<span class="number">0</span>)</span><br><span class="line">    .then(<span class="function"><span class="keyword">function</span> (<span class="params"></span>) </span>&#123;&#125;)</span><br><span class="line">    .finally(server.stop);</span><br><span class="line"></span><br><span class="line"><span class="built_in">Promise</span>.prototype.finally = <span class="function"><span class="keyword">function</span> (<span class="params">callback</span>) </span>&#123;</span><br><span class="line">    <span class="keyword">let</span> P = <span class="keyword">this</span>.constructor;</span><br><span class="line">    <span class="keyword">return</span> <span class="keyword">this</span>.then(</span><br><span class="line">        value  =&gt; P.resolve(callback()).then(() =&gt; value),</span><br><span class="line">        reason =&gt; P.resolve(callback()).then(() =&gt; &#123; <span class="keyword">throw</span> reason &#125;)</span><br><span class="line">    );</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+<h2 id="Async">Async</h2><p>我们有回调函数、Promise 以及 Generator 这三种异步编程方式了，为什么在此之外还要提供 Async 函数？因为它们本身还有一些问题：</p>
+<ul>
+<li>回调函数的最大问题是回调嵌套</li>
+<li>Promise 解决了回调嵌套的问题，但是被 then 方法包装后的代码存在冗余问题，语义和理解性较差</li>
+<li>Generator 的代码写起来非常像同步代码，如果去除 yield 命令，简直就是同步代码，但是它失去了 Promise 可以自动执行的特性，所以它的缺点就是需要创建一个自动执行函数（Thunk 函数），或者使用三方模块（co），总之要驱动它自执行。</li>
+</ul>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="comment">// Callback Hell</span></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">foo</span>(<span class="params"> finalCallback </span>) </span>&#123;</span><br><span class="line">    request.get(url1, <span class="function"><span class="keyword">function</span>(<span class="params">err1, res1</span>) </span>&#123;</span><br><span class="line">        <span class="keyword">if</span> (err1) <span class="keyword">return</span> finalCallback(err1);</span><br><span class="line">        </span><br><span class="line">        request.post(url2, <span class="function"><span class="keyword">function</span>(<span class="params">err2, res2</span>) </span>&#123;</span><br><span class="line">            <span class="keyword">if</span> (err2) <span class="keyword">return</span> finalCallback(err2);</span><br><span class="line">            </span><br><span class="line">            request.put(url3, <span class="function"><span class="keyword">function</span>(<span class="params">err3, res3</span>) </span>&#123;</span><br><span class="line">                <span class="keyword">if</span> (err3) <span class="keyword">return</span> finalCallback(err3);</span><br><span class="line">                </span><br><span class="line">                request.del(url4, <span class="function"><span class="keyword">function</span>(<span class="params">err4, res4</span>) </span>&#123;</span><br><span class="line">                    <span class="keyword">if</span> (err4) <span class="keyword">return</span> finalCallback(err4);</span><br><span class="line">                    </span><br><span class="line">                    finalCallback(<span class="literal">null</span>, <span class="string">"whew all done"</span>);</span><br><span class="line">                &#125;)</span><br><span class="line">            &#125;)</span><br><span class="line">        &#125;)</span><br><span class="line">    &#125;)</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">// Promise</span></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">foo</span> (<span class="params"></span>) </span>&#123;</span><br><span class="line">    <span class="keyword">return</span> request.getAsync(url1)</span><br><span class="line">        .then(<span class="function"><span class="keyword">function</span>(<span class="params">res1</span>) </span>&#123;</span><br><span class="line">            <span class="keyword">return</span> request.postAsync(url2);</span><br><span class="line">        &#125;)</span><br><span class="line">        .then(<span class="function"><span class="keyword">function</span>(<span class="params">res2</span>) </span>&#123;</span><br><span class="line">            <span class="keyword">return</span> request.putAsync(url3);</span><br><span class="line">        &#125;)</span><br><span class="line">        .then(<span class="function"><span class="keyword">function</span>(<span class="params">res3</span>) </span>&#123;</span><br><span class="line">            <span class="keyword">return</span> request.delAsync(url4);</span><br><span class="line">        &#125;)</span><br><span class="line">        .then(<span class="function"><span class="keyword">function</span>(<span class="params">res4</span>) </span>&#123;</span><br><span class="line">            <span class="keyword">return</span> <span class="string">"whew all done"</span>;</span><br><span class="line">        &#125;);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">// Generator</span></span><br><span class="line"><span class="keyword">import</span> co <span class="keyword">from</span> <span class="string">'co'</span>;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">function</span>* <span class="title">foo</span>(<span class="params"></span>) </span>&#123;</span><br><span class="line">    <span class="keyword">const</span> res1 = <span class="keyword">yield</span> request.getAsync(url1);</span><br><span class="line">    <span class="keyword">const</span> res2 = <span class="keyword">yield</span> request.getAsync(url2);</span><br><span class="line">    <span class="keyword">const</span> res3 = <span class="keyword">yield</span> request.getAsync(url3);</span><br><span class="line">    <span class="keyword">const</span> res4 = <span class="keyword">yield</span> request.getAsync(url4);</span><br><span class="line">    <span class="keyword">return</span> <span class="string">"whew all done"</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">co(gen);</span><br><span class="line"></span><br><span class="line"><span class="comment">// Async</span></span><br><span class="line"><span class="keyword">async</span> <span class="function"><span class="keyword">function</span> <span class="title">foo</span>(<span class="params"></span>) </span>&#123;</span><br><span class="line">    <span class="keyword">const</span> res1 = <span class="keyword">await</span> request.getAsync(url1);</span><br><span class="line">    <span class="keyword">const</span> res2 = <span class="keyword">await</span> request.getAsync(url2);</span><br><span class="line">    <span class="keyword">const</span> res3 = <span class="keyword">await</span> request.getAsync(url3);</span><br><span class="line">    <span class="keyword">const</span> res4 = <span class="keyword">await</span> request.getAsync(url4);</span><br><span class="line">    <span class="keyword">return</span> <span class="string">"whew all done"</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>编译器的惰性求值往往是将参数放入临时函数中实现的，在求值时调用这个临时函数，这个临时函数叫做 Thunk 函数：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">temp</span> (<span class="params"> v </span>) </span>&#123;</span><br><span class="line">    <span class="keyword">return</span> v * <span class="number">2</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">temp( x + <span class="number">5</span> );</span><br><span class="line"></span><br><span class="line"><span class="comment">// 等同于</span></span><br><span class="line"><span class="keyword">const</span> thunk = <span class="function"><span class="keyword">function</span> (<span class="params"></span>) </span>&#123;</span><br><span class="line">    <span class="keyword">return</span> x + <span class="number">5</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">temp</span> (<span class="params"> v </span>) </span>&#123;</span><br><span class="line">    <span class="keyword">return</span> thunk() + <span class="number">5</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>在 JS 中，Thunk 函数要做的是将多参数函数转换为单参数函数，且只接受回调函数作为参数：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="comment">// 正常版本的readFile（多参数版本）</span></span><br><span class="line">fs.readFile(fileName, callback);</span><br><span class="line"></span><br><span class="line"><span class="comment">// Thunk版本的readFile（单参数版本）</span></span><br><span class="line"><span class="keyword">var</span> readFileThunk = Thunk(fileName);</span><br><span class="line">readFileThunk(callback);</span><br><span class="line"></span><br><span class="line"><span class="keyword">var</span> Thunk = <span class="function"><span class="keyword">function</span> (<span class="params">fileName</span>)</span>&#123;</span><br><span class="line">    <span class="keyword">return</span> <span class="function"><span class="keyword">function</span> (<span class="params">callback</span>)</span>&#123;</span><br><span class="line">        <span class="keyword">return</span> fs.readFile(fileName, callback);</span><br><span class="line">    &#125;;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+<p>任何函数，只要参数是回调函数，就能写成 Thunk 函数的形式，下面是一个简单的 Thunk 函数转换器：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">var</span> Thunk = <span class="function"><span class="keyword">function</span>(<span class="params">fn</span>)</span>&#123;</span><br><span class="line">    <span class="keyword">return</span> <span class="function"><span class="keyword">function</span> (<span class="params"></span>)</span>&#123;</span><br><span class="line">        <span class="keyword">var</span> args = <span class="built_in">Array</span>.prototype.slice.call(<span class="built_in">arguments</span>);</span><br><span class="line">        <span class="keyword">return</span> <span class="function"><span class="keyword">function</span> (<span class="params">callback</span>)</span>&#123;</span><br><span class="line">            args.push(callback);</span><br><span class="line">            <span class="keyword">return</span> fn.apply(<span class="keyword">this</span>, args);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+<p>之所以要提 Thunk 函数，是因为它可以驱动 Generator 函数自执行：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">run</span>(<span class="params">fn</span>) </span>&#123;</span><br><span class="line">    <span class="keyword">var</span> gen = fn();</span><br><span class="line">    <span class="function"><span class="keyword">function</span> <span class="title">next</span>(<span class="params">err, data</span>) </span>&#123;</span><br><span class="line">        <span class="keyword">var</span> result = gen.next(data);</span><br><span class="line">        <span class="keyword">if</span> (result.done) <span class="keyword">return</span>;</span><br><span class="line">        result.value(next);</span><br><span class="line">    &#125;</span><br><span class="line">    next();</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">run(gen);</span><br></pre></td></tr></table></figure>
+<p>ES7 提供了 Async 函数，它相当于是 Generator 函数的语法糖。下面使用两种函数读取文件：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">const</span> fs = <span class="built_in">require</span>(<span class="string">'fs'</span>);</span><br><span class="line"></span><br><span class="line">cosnt readFile = <span class="function"><span class="keyword">function</span> (<span class="params">fileName</span>)</span>&#123;</span><br><span class="line">    <span class="keyword">return</span> <span class="keyword">new</span> <span class="built_in">Promise</span>(<span class="function"><span class="keyword">function</span> (<span class="params">resolve, reject</span>)</span>&#123;</span><br><span class="line">        fs.readFile(fileName, <span class="function"><span class="keyword">function</span>(<span class="params">error, data</span>)</span>&#123;</span><br><span class="line">            <span class="keyword">if</span> (error) &#123;</span><br><span class="line">                reject(error);</span><br><span class="line">            &#125;</span><br><span class="line">            <span class="keyword">else</span> &#123;</span><br><span class="line">                resolve(data);</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;);</span><br><span class="line">    &#125;);</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="comment">// Generator 函数</span></span><br><span class="line"><span class="keyword">const</span> gen = <span class="function"><span class="keyword">function</span>* (<span class="params"></span>)</span>&#123;</span><br><span class="line">    <span class="keyword">const</span> f1 = <span class="keyword">yield</span> readFile(<span class="string">'/etc/fstab'</span>);</span><br><span class="line">    <span class="keyword">const</span> f2 = <span class="keyword">yield</span> readFile(<span class="string">'/etc/shells'</span>);</span><br><span class="line">    <span class="built_in">console</span>.log(f1.toString());</span><br><span class="line">    <span class="built_in">console</span>.log(f2.toString());</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="comment">// Async</span></span><br><span class="line">cosnt asyncReadFile = <span class="keyword">async</span> <span class="function"><span class="keyword">function</span> (<span class="params"></span>)</span>&#123;</span><br><span class="line">    cosnt f1 = <span class="keyword">await</span> readFile(<span class="string">'/etc/fstab'</span>);</span><br><span class="line">    cosnt f2 = <span class="keyword">await</span> readFile(<span class="string">'/etc/shells'</span>);</span><br><span class="line">    <span class="built_in">console</span>.log(f1.toString());</span><br><span class="line">    <span class="built_in">console</span>.log(f2.toString());</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+<p>首先，两者在语法上有所不同，但这不是最重要的，重要的是一下三点：</p>
+<ol>
+<li>Async 函数内置自动执行器，而 Generator 需要自己写自动执行函数或者使用第三方库，比如 co</li>
+<li>更广的适应性，co 模块约定 yield 后面只能是 Thunk 函数或者是 Promise 对象，而 Async 函数的 await 后面可以使用 Promise 对象或原始值类型（此时等于同步操作）</li>
+<li>Async 的返回值是 Promise 对象，这比 Generator 返回的 Iterator 对象要更方便一些，可以使用 then() 来制定下一步的操作逻辑</li>
+</ol>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">timeout</span>(<span class="params">ms</span>) </span>&#123;</span><br><span class="line">    <span class="keyword">return</span> <span class="keyword">new</span> <span class="built_in">Promise</span>((resolve) =&gt; &#123;</span><br><span class="line">        setTimeout(resolve, ms);</span><br><span class="line">    &#125;);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">async</span> <span class="function"><span class="keyword">function</span> <span class="title">asyncPrint</span>(<span class="params">value, ms</span>) </span>&#123;</span><br><span class="line">    <span class="keyword">await</span> timeout(ms);</span><br><span class="line">    <span class="built_in">console</span>.log(value)</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">asyncPrint(<span class="string">'hello world'</span>, <span class="number">50</span>);</span><br></pre></td></tr></table></figure>
+<p>await 命令后面跟着一个 Promise 对象，运行结果可能是 rejected，需要使用 try…catch 来捕获异常：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">async</span> <span class="function"><span class="keyword">function</span> <span class="title">foo</span> (<span class="params"></span>) </span>&#123;</span><br><span class="line">    <span class="keyword">try</span> &#123;</span><br><span class="line">        <span class="keyword">await</span> P();</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">catch</span> (err) &#123;</span><br><span class="line">        <span class="built_in">console</span>.log(err);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">// Or</span></span><br><span class="line"><span class="keyword">async</span> <span class="function"><span class="keyword">function</span> <span class="title">foo</span> (<span class="params"></span>) </span>&#123;</span><br><span class="line">    <span class="keyword">await</span> P().catch( err =&gt; <span class="built_in">console</span>.log(err) );</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h2 id="Class">Class</h2><p>JS 传统的原型继承等方式和其他语言差异较大，造成了一定的学习难度。ES2015 提供了和其他语言相仿的面向对象语法，引入了 Class 的概念，用作对象的模板：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Point</span> </span>&#123;</span><br><span class="line">    constructor( x, y ) &#123;</span><br><span class="line">        <span class="keyword">this</span>.x = x;</span><br><span class="line">        <span class="keyword">this</span>.y = y;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    getInfo () &#123;</span><br><span class="line">        <span class="built_in">console</span>.log(<span class="string">`( <span class="subst">$&#123;this.x&#125;</span>, <span class="subst">$&#123;this.y&#125;</span> )`</span>);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> p = <span class="keyword">new</span> Point(<span class="number">3</span>, <span class="number">4</span>);</span><br><span class="line">p.getInfo();</span><br><span class="line"><span class="comment">// =&gt; ( 3, 4 )</span></span><br></pre></td></tr></table></figure>
+<p>上例中的 constructor 是构造方法，this 代表实例对象。constructor 方法是类的默认方法，使用 new 命令生成对象实例时，自动调用盖房，如果没有显示定义该方法，就会自动添加一个空的 constructor 方法，constructor 方法默认返回类的实例对象，该返回值完全是可以修改的。</p>
+<p>Class 之间使用 extends 关键字实现继承，这种写法比 ES5 要简洁很多：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Point</span> </span>&#123;</span><br><span class="line">    constructor( x, y ) &#123;</span><br><span class="line">        <span class="keyword">this</span>.x = x;</span><br><span class="line">        <span class="keyword">this</span>.y = y;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    getInfo () &#123;</span><br><span class="line">        <span class="keyword">return</span> <span class="string">`( <span class="subst">$&#123;this.x&#125;</span>, <span class="subst">$&#123;this.y&#125;</span> )`</span>;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">ColorPoint</span> <span class="keyword">extends</span> <span class="title">Point</span> </span>&#123;</span><br><span class="line">    constructor ( x, y, color ) &#123;</span><br><span class="line">        <span class="keyword">super</span>(x, y);</span><br><span class="line">        <span class="keyword">this</span>.color = color;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    getInfo () &#123;</span><br><span class="line">        <span class="built_in">console</span>.log( <span class="keyword">super</span>.getInfo() + <span class="string">` is <span class="subst">$&#123;this.color&#125;</span>`</span> );</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> cp = <span class="keyword">new</span> ColorPoint( <span class="number">3</span>, <span class="number">4</span>, <span class="string">'red'</span> );</span><br><span class="line">cp.getInfo();</span><br><span class="line"><span class="comment">// =&gt; ( 3, 4 ) is red</span></span><br></pre></td></tr></table></figure>
+<p>在继承类的构造函数中出现了 super()，它指代父类的 this 对象。子类必须在 constructor 中调用 super 方法，否则新建实例会报错，这是因为子类没有自己的 this 对象，而是使用继承自父类的 this 对象，一切都是基于对这个 this 的加工处理，如果不调用 super()，就得不到 this 对象。</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Point</span> </span>&#123;&#125;</span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">ColorPoint</span> <span class="keyword">extends</span> <span class="title">Point</span> </span>&#123;</span><br><span class="line">    constructor() &#123;</span><br><span class="line">      <span class="built_in">console</span>.log(<span class="keyword">this</span>);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> cp = <span class="keyword">new</span> ColorPoint();</span><br><span class="line"><span class="comment">// =&gt; Babel: 'this' is not allowed before super()</span></span><br><span class="line"><span class="comment">// =&gt; Firefox: ReferenceError: |this| used uninitialized in ColorPoint class constructor</span></span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>ES5 的原型继承，实质是先创造子类的实例对象 this，然后再讲父类的方法添加到 this 上。ES6 的继承机制则是相反的，实质是先创造父类的实例对象 this（调用 super() ），然后在用子类的构造函数修改 this。</p>
+</blockquote>
+<p>类相当于实例的原型，类中定义的方法都会被实例所继承，如果不想让实例继承继承某个方法，可以通过 static 关键字设置类的静态方法：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Foo</span> </span>&#123;</span><br><span class="line">    static getInfo () &#123;</span><br><span class="line">        <span class="built_in">console</span>.log(<span class="string">'foo'</span>);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> f = <span class="keyword">new</span> Foo();</span><br><span class="line"></span><br><span class="line">Foo.getInfo();</span><br><span class="line"><span class="comment">// =&gt; 'foo'</span></span><br><span class="line">f.getInfo();</span><br><span class="line"><span class="comment">// =&gt; TypeError: f.getInfo is not a function</span></span><br></pre></td></tr></table></figure>
+<p>ES2015 规定类内部只有静态方法，没有静态属性，ES2016 有一个静态属性的提案，目前 Babel 已经支持：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Point</span> </span>&#123;</span><br><span class="line">    position = [<span class="number">1</span>, <span class="number">2</span>];</span><br><span class="line"></span><br><span class="line">    static color = <span class="string">'red'</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>new 是从类生成实例的命令，ES2015 的 new 命令增加了一个 <code>new.target</code> 的属性，表示 new 引用的构造函数：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Point</span> </span>&#123;</span><br><span class="line">    constructor () &#123;</span><br><span class="line">        <span class="keyword">if</span> ( <span class="keyword">new</span>.target === Point ) &#123;</span><br><span class="line">            <span class="built_in">console</span>.log(<span class="string">'right'</span>);</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">else</span> &#123;</span><br><span class="line">            <span class="built_in">console</span>.log(<span class="string">'wrong'</span>);</span><br><span class="line">        &#125;        </span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> p = <span class="keyword">new</span> Point();</span><br><span class="line"><span class="comment">// =&gt; right</span></span><br><span class="line">Point.call(p, <span class="number">123</span>);</span><br><span class="line"><span class="comment">// =&gt; Babel: wrong</span></span><br><span class="line"><span class="comment">// =&gt; Firefox: TypeError: class constructors must be invoked with |new|</span></span><br></pre></td></tr></table></figure>
+<p>在子类继承父类时，new.target 返回的是子类，利用这个特点，可以写出不能独立使用、必须继承后才能使用的类：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Shape</span> </span>&#123;</span><br><span class="line">    constructor() &#123;</span><br><span class="line">        <span class="keyword">if</span> (<span class="keyword">new</span>.target === Shape) &#123;</span><br><span class="line">            <span class="keyword">throw</span> <span class="keyword">new</span> <span class="built_in">Error</span>(<span class="string">'本类不能实例化'</span>);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> s = <span class="keyword">new</span> Shape();</span><br><span class="line"><span class="comment">// =&gt; Error: 本类不能实例化</span></span><br></pre></td></tr></table></figure>
+<h2 id="Decorator">Decorator</h2><p>ES2016 的 Decorator 相当于设计模式中的装饰模式，所以下文就以装饰器来指代 Decorator。与上面提到的 Proxy（代理者，代理模式）不同，装饰器的核心作用是增强被装饰者的功能，而代理对象的作用是管理外界对被代理者的访问权限。装饰器只能用于类和类的方法，不能用于函数，因为编译时存在函数提升。修饰漆对类的行为的改变，是代码编译时发生的，而不是运行时，这意味着，修饰漆能在编译阶段运行代码：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">mixins</span>(<span class="params">...list</span>) </span>&#123;</span><br><span class="line">    <span class="keyword">return</span> <span class="function"><span class="keyword">function</span> (<span class="params">target, name, descriptor</span>) </span>&#123;</span><br><span class="line">        <span class="built_in">Object</span>.assign(target.prototype, ...list);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> Foo = &#123;</span><br><span class="line">    foo () &#123;</span><br><span class="line">        <span class="built_in">console</span>.log(<span class="string">'foo'</span>);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">@mixins(Foo)</span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">CLS</span> </span>&#123;&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> obj = <span class="keyword">new</span> CLS();</span><br><span class="line">obj.foo();</span><br><span class="line"><span class="comment">// 'foo'</span></span><br></pre></td></tr></table></figure>
+<p>装饰器函数可以接收三个参数：目标函数、属性名和属性的描述对象。上例代码通过装饰器 mixins，为指定类添加了指定的方法。装饰器的一个实际应用就是注释:</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> &#123; readonly &#125; <span class="keyword">from</span> <span class="string">'core-decorators'</span>;</span><br><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Meal</span> <span class="keyword">extends</span> </span>&#123;</span><br><span class="line">    @readonly</span><br><span class="line">    entree = <span class="string">'steak'</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> dinner = <span class="keyword">new</span> Meal();</span><br><span class="line">dinner.entree = <span class="string">'salmon'</span>;</span><br><span class="line"><span class="comment">// Cannot assign to read only property 'entree' of [object Object]</span></span><br></pre></td></tr></table></figure>
+<p>除了注释功能，装饰器还能用作类型检查，长期来看，它将成为 JavaScript 代码静态分析的重要工具。</p>
+<h2 id="Module">Module</h2><p>在 ES2015 之前，社区中主要有 CommonJS 和 AMD 两种模块加载方式，ES2015 提出了自己的模块功能，其设计思想是尽量的静态化，在编译时确定模块的依赖关系、输入输出变量。</p>
+<p>ES2015 module 主要由两个命令组成：<code>export</code> 和 <code>import</code>。export 用于提供对外接口，import 用于引用外部模块。每个模块都是独立的文件，外部无法直接获取模块文件的变量，只能通过 export 对外输出变量。</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="comment">// 输出变量</span></span><br><span class="line"><span class="keyword">const</span> foo = <span class="string">'foo'</span>;</span><br><span class="line"><span class="keyword">const</span> bar = <span class="string">'bar'</span>;</span><br><span class="line"><span class="keyword">export</span> &#123; foo, bar &#125;;</span><br><span class="line"></span><br><span class="line"><span class="comment">// 输出函数和类</span></span><br><span class="line"><span class="keyword">export</span> <span class="function"><span class="keyword">function</span> <span class="title">f</span>(<span class="params"></span>) </span>&#123;&#125;</span><br><span class="line"><span class="keyword">export</span> <span class="class"><span class="keyword">class</span> <span class="title">C</span> </span>&#123;&#125;</span><br></pre></td></tr></table></figure>
+<p>export 定义了外部接口之后，可以使用 import 命令在其他模块中加载：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="comment">// 使用 as 命令重命名引入的变量</span></span><br><span class="line"><span class="comment">// import 语法存在变量提升，最好置于文件顶部</span></span><br><span class="line"><span class="keyword">import</span> &#123; foo, bar <span class="keyword">as</span> baz &#125; <span class="keyword">from</span> <span class="string">'./modulename'</span>;</span><br></pre></td></tr></table></figure>
+<p>从上面 import 的示例中，我们发现当需要引入外部模块时，必须明确知道模块内部的变量名，这是非常不友好的方式。<code>export default</code> 命令就是为了解决这个问题存在的，其作用是为模块指定默认的输出内容：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="comment">// 'export-default.js'</span></span><br><span class="line"><span class="keyword">export</span> <span class="keyword">default</span> <span class="function"><span class="keyword">function</span> (<span class="params"></span>) </span>&#123;&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">// 'import-default.js'</span></span><br><span class="line">immport customName from <span class="string">'./export-default.js'</span>;</span><br></pre></td></tr></table></figure>
+<h2 id="建议使用的特性">建议使用的特性</h2><h6 id="参考资料">参考资料</h6><ul>
+<li><a href="http://es6.ruanyifeng.com/" target="_blank" rel="external">ECMAScript6 入门</a></li>
+<li><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript" target="_blank" rel="external">MDN JavaScript</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>ES2015 是最新的 JavaScript 语法规范，也是前端工程化高速发展所催化出的产物。JS 的不成熟一直为人诟病，前端的高速发展又离不开 JS，所以这次激进的变革显得十分必要。</p>
+<p>虽然 ES2015 规范发布了，但是要原生的运行在浏览器上还是受到诸多因素的肘制，比如各版本浏览器的用户量、浏览器厂商对新特性的支持度等等。目前的权宜之计是使用 Babel 之类的编译器将 ES2015 代码转换为 ES5，所以下文中的 ES2015 代码也暂时以 Babel 的解析结果为准。各版本浏览器对 ES2015（ES6）、ES2016（ES7）的支持度可以参考这里：<a href="http://kangax.github.io/compat-table/es6/">ES2015 兼容性列表</a>。</p>]]>
+    
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[求值策略]]></title>
+    <link href="http://pinggod.com/2015/%E6%B1%82%E5%80%BC%E7%AD%96%E7%95%A5/"/>
+    <id>http://pinggod.com/2015/求值策略/</id>
+    <published>2015-12-10T05:43:07.000Z</published>
+    <updated>2015-12-15T09:15:01.000Z</updated>
+    <content type="html"><![CDATA[<blockquote>
+<p>须知参差多态乃是幸福本源。</p>
+</blockquote>
+<p>求值策略所要解决的问题是：何时求值。之所以要控制求值的时间，往往是出于对内存占用和执行效率的考虑。在维基百科的求值策略词条中，列出了五种求值策略：</p>
+<ul>
+<li>预先求值，表达式绑定到变量时，立即求值并附加给变量</li>
+<li>延迟求值，表达式绑定到变量后，并不求值，直到变量被调用时才求值</li>
+<li>局部求值，又称柯里化</li>
+<li>分布求值，map/reduce，典型应用是分布式计算</li>
+<li>短路求值，与 (&amp;&amp;) 、或 (||) 逻辑运算</li>
+</ul>
+<p>顾名思义，预先求值和延迟求值是一对对立的求值策略。在下面的 js 代码段中，声明了变量 x，x 赋值后又被调用了三次：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="comment">// 1</span></span><br><span class="line"><span class="keyword">var</span> x = <span class="number">5</span> + <span class="number">3</span> * (<span class="number">1</span> + <span class="number">5</span> ^ <span class="number">2</span>);</span><br><span class="line"><span class="comment">// 2</span></span><br><span class="line"><span class="built_in">console</span>.log(x);</span><br><span class="line"><span class="built_in">console</span>.log(x + <span class="number">2</span>);</span><br><span class="line"><span class="comment">// 3</span></span><br><span class="line">func(x);</span><br></pre></td></tr></table></figure>
+<a id="more"></a>
+<p>在 1 处，变量 x 完成了声明和赋值等初始化工作，它的值由表达式 (5 + 3 * (1 + 5 ^ 2)) 决定。在 2 处，console.log() 函数调用了变量 x 两次。让我们暂时忽略 js 编译器的求值策略，从个人主观的理性思维来思考一下：面对预先求值和延迟求值，你会怎么选择呢？</p>
+<p>做出选择之前，我们需要对变量 x 有一个复杂度的认知：如果表达式的复杂度高，那么该表达式所占用的内存空间也就越高，在变量 x 和表达式解绑前这段内存空间都无法释放掉，意味着 x 的间接内存占用了越高，此外，高复杂度也意味着较长的执行时间，所以复杂度和内存占用、执行效率至少是一种线性相关。</p>
+<p>如此说来，那么我们应该选择预先求值的求值策略，这样的好处是：变量 x 初始化时表达式立即计算，x 被重新赋值为 83，重新赋值后表达式所占用的内存空间被释放掉，达到了节省内存空间的目的；多次调用变量 x 时，x 的值已经是可以直接用于运算的数值，而不是需要计算的表达式，减少了重复运算，提高了执行效率。</p>
+<p>如果事情按照上面描述的美好愿景发展的话，就没有延迟求值策略出现的必要了。在 3 处，我们向函数 func() 传递了变量 x。这里的 func() 类似于一个黑盒，我们不了解其内部的处理机制，也无法确定 x 是否会被使用。这个时候延迟求值的价值就体现出来了，如果变量 x 在函数内部没有被使用，就不会执行求值，避免了预先求值所要执行的求值运算。</p>
+<p>随着表达式的复杂度逐渐提高，预先求值和延迟求值在内存占用、执行效率上的差异就会愈发明显。所以根据数据类型的复杂度，js 将数据类型分为原始值和引用值，传递参数时，原始值按值传递，引用值按引用传递。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<blockquote>
+<p>须知参差多态乃是幸福本源。</p>
+</blockquote>
+<p>求值策略所要解决的问题是：何时求值。之所以要控制求值的时间，往往是出于对内存占用和执行效率的考虑。在维基百科的求值策略词条中，列出了五种求值策略：</p>
+<ul>
+<li>预先求值，表达式绑定到变量时，立即求值并附加给变量</li>
+<li>延迟求值，表达式绑定到变量后，并不求值，直到变量被调用时才求值</li>
+<li>局部求值，又称柯里化</li>
+<li>分布求值，map/reduce，典型应用是分布式计算</li>
+<li>短路求值，与 (&amp;&amp;) 、或 (||) 逻辑运算</li>
+</ul>
+<p>顾名思义，预先求值和延迟求值是一对对立的求值策略。在下面的 js 代码段中，声明了变量 x，x 赋值后又被调用了三次：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="comment">// 1</span></span><br><span class="line"><span class="keyword">var</span> x = <span class="number">5</span> + <span class="number">3</span> * (<span class="number">1</span> + <span class="number">5</span> ^ <span class="number">2</span>);</span><br><span class="line"><span class="comment">// 2</span></span><br><span class="line"><span class="built_in">console</span>.log(x);</span><br><span class="line"><span class="built_in">console</span>.log(x + <span class="number">2</span>);</span><br><span class="line"><span class="comment">// 3</span></span><br><span class="line">func(x);</span><br></pre></td></tr></table></figure>]]>
+    
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Inline* and Absolute]]></title>
+    <link href="http://pinggod.com/2015/inline-and-absolute/"/>
+    <id>http://pinggod.com/2015/inline-and-absolute/</id>
+    <published>2015-12-06T03:32:17.000Z</published>
+    <updated>2015-12-27T09:31:08.000Z</updated>
+    <content type="html"><![CDATA[<p>在一个容器中，所有元素都是 inline / inline-block 类型，此时可以使用 absolute + margin 的方式实现相对定位，而且相对定位的位置就是脱离文档流之前的位置。</p>
+<p><img src="/img/inline-and-absolute.png" alt="absolute and margin"></p>
+<a id="more"></a>
+<h6 id="在线示例">在线示例</h6><ul>
+<li><a href="http://codepen.io/pinggod/pen/WrNJmE" target="_blank" rel="external">absolute and marign</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>在一个容器中，所有元素都是 inline / inline-block 类型，此时可以使用 absolute + margin 的方式实现相对定位，而且相对定位的位置就是脱离文档流之前的位置。</p>
+<p><img src="/img/inline-and-absolute.png" alt="absolute and margin"></p>]]>
+    
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Pug]]></title>
+    <link href="http://pinggod.com/2015/Pug/"/>
+    <id>http://pinggod.com/2015/Pug/</id>
+    <published>2015-12-03T05:24:27.000Z</published>
+    <updated>2015-12-28T09:57:24.000Z</updated>
+    <content type="html"><![CDATA[<div class="tip"><br>    由于商标版权问题，Jade 已经改名为了 Pug，详见 <a href="https://github.com/pugjs/jade/issues/2184" target="_blank" rel="external">issue</a>。<br></div>
+
+<p>如果你熟悉 Sublime Text 和 Emmet 的组合，那么 Pug 也会是你的菜。Pug 类似于 Python，都采用了对缩进敏感的语法形式，比如下面这段代码创建了一个无序列表：</p>
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line">ul(<span class="class"><span class="keyword">class</span></span>=<span class="string">"inline"</span>)</span><br><span class="line">    li  Item C</span><br><span class="line">    li  Item A</span><br><span class="line">    li  Item B</span><br></pre></td></tr></table></figure>
+<a id="more"></a>
+<h2 id="属性">属性</h2><p>Pug 的另一大特点就是和 JavaScript 的融合度很高，比如设置属性：</p>
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line">- <span class="keyword">var</span> authenticated = <span class="literal">true</span></span><br><span class="line">body(<span class="class"><span class="keyword">class</span></span>= authenticated ? <span class="string">'authed'</span> : <span class="string">'anon'</span>)</span><br><span class="line">- <span class="keyword">var</span> currentUrl = <span class="string">'/about'</span></span><br><span class="line">a(<span class="class"><span class="keyword">class</span></span>=&#123;active: currentUrl === <span class="string">'/'</span>&#125; href=<span class="string">'/'</span>) Home</span><br><span class="line">a(<span class="class"><span class="keyword">class</span></span>=&#123;active: currentUrl === <span class="string">'/about'</span>&#125; href=<span class="string">'/about'</span>) About</span><br></pre></td></tr></table></figure>
+<p>此外，给标签设置行内样式时，需要以对象的形式赋值给 style：</p>
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line">a(style=&#123;color: <span class="string">'red'</span>, background: <span class="string">'green'</span>&#125;)</span><br></pre></td></tr></table></figure>
+<h2 id="插值">插值</h2><p>Pug 提供了字符串插值和标签插值。其中，字符串插值由于要考虑到安全性问题，所以又分成了转义和不转义两种情况：</p>
+<figure class="highlight"><table><tr><td class="code"><pre><span class="line">// 转义插值 #&#123;&#125;</span><br><span class="line">- var theGreat = "&lt;span&gt;escape!&lt;/span&gt;";</span><br><span class="line">p This will be safe: #&#123;theGreat&#125;</span><br><span class="line"></span><br><span class="line">// 不转义插值 !&#123;&#125;</span><br><span class="line">- var theGreat = "&lt;span&gt;escape!&lt;/span&gt;";</span><br><span class="line">p This will be safe: !&#123;theGreat&#125;</span><br><span class="line"></span><br><span class="line">// 标签插值</span><br><span class="line">p #[a(href="Pug-lang.com") Pug]</span><br></pre></td></tr></table></figure>
+<p>编译结果：</p>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="comment">&lt;!-- 转义插值 #&#123;&#125;--&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="title">p</span>&gt;</span>This will be safe: &amp;lt;span&amp;gt;escape!&amp;lt;/span&amp;gt;<span class="tag">&lt;/<span class="title">p</span>&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="comment">&lt;!-- 不转义插值 !&#123;&#125;--&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="title">p</span>&gt;</span>This will be safe: <span class="tag">&lt;<span class="title">span</span>&gt;</span>escape!<span class="tag">&lt;/<span class="title">span</span>&gt;</span><span class="tag">&lt;/<span class="title">p</span>&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="comment">&lt;!-- 标签插值--&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="title">p</span>&gt;</span><span class="tag">&lt;<span class="title">a</span> <span class="attribute">href</span>=<span class="value">"Pug-lang.com"</span>&gt;</span>Pug<span class="tag">&lt;/<span class="title">a</span>&gt;</span><span class="tag">&lt;/<span class="title">p</span>&gt;</span></span><br></pre></td></tr></table></figure>
+<h2 id="逻辑语句">逻辑语句</h2><p>Pug 提供了条件、分支、循环、遍历四种逻辑语句，这四种语句继承自 JavaScript，只是语法上有些差异:</p>
+<ul>
+<li>条件语句：if … else if … else</li>
+<li>分支语句：case … when … default</li>
+<li>循环语句：while</li>
+<li>遍历数组：each $elem in [elem…]</li>
+<li>遍历对象：each $key, $value in {key: value}</li>
+</ul>
+<figure class="highlight"><table><tr><td class="code"><pre><span class="line">// 分支语句</span><br><span class="line">- var friends = 10</span><br><span class="line">case friends</span><br><span class="line">    when 0</span><br><span class="line">        p you have no friends</span><br><span class="line">    when 1</span><br><span class="line">        p you have a friend</span><br><span class="line">    default</span><br><span class="line">        p you have #&#123;friends&#125; friends</span><br></pre></td></tr></table></figure>
+<h2 id="mixin">mixin</h2><p>Pug 和 Sass 都提供了 mixin 语法来实现代码的复用，两者语法也很相似：</p>
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line">mixin list(id, ...items)</span><br><span class="line">    ul(id=id)</span><br><span class="line">        each item <span class="keyword">in</span> items</span><br><span class="line">            li= item</span><br><span class="line"></span><br><span class="line">+list(<span class="string">'my-list'</span>, <span class="number">1</span>, <span class="number">2</span>, <span class="number">3</span>, <span class="number">4</span>)</span><br></pre></td></tr></table></figure>
+<p>mixin 一般放在独立的文件中，需要使用 <code>include</code> 指令导入到其他文件中。</p>
+<h2 id="extends">extends</h2><p><code>extends</code> 是 Pug 的模板继承语法，通过 <code>extends filename.Pug</code> 可以将模板文件导入到其他文件中。继承机制基本上是一个复制代码片段的过程，为了能够动态修改其中的部分内容，Pug 提供了 <code>block</code> 语法：</p>
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">// 声明 block</span></span><br><span class="line">block content</span><br><span class="line">    p Hello</span><br><span class="line"></span><br><span class="line"><span class="comment">// 修改 block</span></span><br><span class="line"><span class="comment">// 同名重新赋值</span></span><br><span class="line">block content</span><br><span class="line">    p Hi</span><br><span class="line"></span><br><span class="line"><span class="comment">// 前置追加</span></span><br><span class="line">block append content</span><br><span class="line">    p APPEND</span><br><span class="line"></span><br><span class="line"><span class="comment">// 后置追加</span></span><br><span class="line">block prepend content</span><br><span class="line">    p PREPEND</span><br></pre></td></tr></table></figure>
+]]></content>
+    <summary type="html">
+    <![CDATA[<div class="tip"><br>    由于商标版权问题，Jade 已经改名为了 Pug，详见 <a href="https://github.com/pugjs/jade/issues/2184">issue</a>。<br></div>
+
+<p>如果你熟悉 Sublime Text 和 Emmet 的组合，那么 Pug 也会是你的菜。Pug 类似于 Python，都采用了对缩进敏感的语法形式，比如下面这段代码创建了一个无序列表：</p>
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line">ul(<span class="class"><span class="keyword">class</span></span>=<span class="string">"inline"</span>)</span><br><span class="line">    li  Item C</span><br><span class="line">    li  Item A</span><br><span class="line">    li  Item B</span><br></pre></td></tr></table></figure>]]>
+    
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[CSS Flexbox]]></title>
+    <link href="http://pinggod.com/2015/CSS-Flexbox/"/>
+    <id>http://pinggod.com/2015/CSS-Flexbox/</id>
+    <published>2015-12-02T02:42:39.000Z</published>
+    <updated>2015-12-27T09:32:02.000Z</updated>
+    <content type="html"><![CDATA[<p>如果你正在学习使用 CSS 布局，推荐来 <a href="http://zh.learnlayout.com/toc.html" target="_blank" rel="external">learnlayout</a> 了解一下这些年前端所用到的各类布局手法。这里之所以使用“手法”一词，意指其中多少有些偏激取巧，比如使用浮动（float）来定位、使用 margin 来伸缩空间等等。</p>
+<p>float、margin 本不应该用于布局，只是囿于早期的 CSS 布局模块发展缓慢且不合时宜，促使开发者另辟蹊径，借助其他样式来模拟布局效果。最近几年随着浏览器对布局模块的支持度越来越高，Flexible Box Layout（Flexbox）、Grid Layout、Multiple Column Layout 也逐渐为开发者所接受，其中以 Flexbox 的兼容性最好，拥护者也随之水涨船高。</p>
+<p>就个人感受而言，未来的布局方式会归纳为两类：一类是纯粹使用浏览器兼容性高的布局模块，比如 Flexbox，这也是未来的发展趋势；另一类是使用预处理器或者框架自定义的布局模块，这只是目前的缓兵过渡之计。</p>
+<a id="more"></a>
+<p>在几个月前，我曾经使用过一段时间的 <a href="http://susy.oddbird.net/" target="_blank" rel="external">Susy</a>。 Susy 是基于 Sass 的一款布局框架，其核心是使用非布局样式来模拟布局效果，最大的优点在于封装布局样式之后提供了一套简洁明了的布局接口。比如，在下面的 Sass 代码中，<code>.contianer</code> 被附加了一套容器样式，嵌套在其中的 <code>item</code> 占据总体宽度的 4 / 10。</p>
+<figure class="highlight scss"><table><tr><td class="code"><pre><span class="line"><span class="class">.container</span> &#123;</span><br><span class="line">    <span class="at_rule">@<span class="keyword">include</span><span class="preprocessor"> container</span>;</span>  </span><br><span class="line">    <span class="class">.item</span> &#123;</span><br><span class="line">        <span class="at_rule">@<span class="keyword">include</span><span class="preprocessor"> span</span>(<span class="number">4</span><span class="preprocessor"> of</span><span class="preprocessor"> 10</span>);</span></span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>Susy 的理念是帮助开发者规避数学计算，所以它有一条大快人心的口号：YOUR MARKUP, YOUR DESIGN, YOUR OPINIONS, OUR MATH。</p>
+</blockquote>
+<h2 id="Flexbox">Flexbox</h2><p>在数学计算的问题上，我觉得 Flexbox 和 Susy 有异曲同工之妙，只是相比起来，原生的 Flexbox 更加简捷。在 Flexbox 中有两个核心元素：<code>container</code> 和 <code>item</code>，所有的样式也是围绕这两类元素计算的。下图中有两条红线，分别代表在水平方向和垂直方向进行布局的基线。</p>
+<p><img src="/img/flexbox.png" alt="Flexbox"></p>
+<p>Flexbox 中的 contianer 元素需要解决两个问题：自身的类型以及内部 item 的排列方式。通过 <code>display: flex</code> 和 <code>display: inline-flex</code> 可以将 container 声明为块级或者行内块级，从而确定了 container 自身的类型。使用以下属性则可以确定 container 内部 item 的排列方式：</p>
+<ul>
+<li>flex-flow：flex-direction 和 flex-wrap 的缩写</li>
+<li>flex-direction：决定 item 的排列方向</li>
+<li>flex-wrap：决定 item 的溢出容器后的处理方式</li>
+<li>justify-content：决定 item 在水平方向上的对齐方式</li>
+<li>align-item：决定 item 在垂直方向上的对齐方式</li>
+<li>align-content：决定多个 main axis 在垂直方向上的对齐方式</li>
+</ul>
+<p><img src="/img/flexbox-container.png" alt="flex-container"></p>
+<p>item 元素需要解决的问题集中于自身上，包括自身在 container 中的顺序、缩放、对齐方式。使用以下属性可以设置 item 自身的布局样式：</p>
+<ul>
+<li>order：决定 item 的顺序，默认值为 0，值越小越靠前</li>
+<li>flex：flex-grow、flex-shrink 和 flex-basis 的缩写</li>
+<li>flex-grow：决定 item 的放大比例，默认值为 0，0 表示不放大</li>
+<li>flex-shrink：决定 item 的缩小比例，默认值为 1，0 表示不缩小</li>
+<li>flex-basis：浏览器分配 container 剩余空间时，决定 item 获得的比重</li>
+<li>align-self: 决定自身在垂直方向的对齐方式</li>
+</ul>
+<p><img src="/img/flexbox-cell.png" alt="flex-item"></p>
+<h2 id="box-sizing">box-sizing</h2><p>话外提一下 <code>box-sizing</code>， 该属性用于声明 <code>width</code> 和 <code>height</code> 的约束范围：<code>border-box</code> 表示边框、内边距和内容块的宽高计入容器宽高；<code>content-box</code> 表示只有内容块的宽高计入容器宽高。此外，该属性可继承，可以通过设置 body 的 box-sizing 统一约束容器的宽高。</p>
+<h2 id="FlexFroggy">FlexFroggy</h2><p>这是一个寓教于乐的 Flexbox 布局小游戏，难度中下，很有意思：<a href="http://flexboxfroggy.com" target="_blank" rel="external">http://flexboxfroggy.com</a>。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>如果你正在学习使用 CSS 布局，推荐来 <a href="http://zh.learnlayout.com/toc.html">learnlayout</a> 了解一下这些年前端所用到的各类布局手法。这里之所以使用“手法”一词，意指其中多少有些偏激取巧，比如使用浮动（float）来定位、使用 margin 来伸缩空间等等。</p>
+<p>float、margin 本不应该用于布局，只是囿于早期的 CSS 布局模块发展缓慢且不合时宜，促使开发者另辟蹊径，借助其他样式来模拟布局效果。最近几年随着浏览器对布局模块的支持度越来越高，Flexible Box Layout（Flexbox）、Grid Layout、Multiple Column Layout 也逐渐为开发者所接受，其中以 Flexbox 的兼容性最好，拥护者也随之水涨船高。</p>
+<p>就个人感受而言，未来的布局方式会归纳为两类：一类是纯粹使用浏览器兼容性高的布局模块，比如 Flexbox，这也是未来的发展趋势；另一类是使用预处理器或者框架自定义的布局模块，这只是目前的缓兵过渡之计。</p>]]>
+    
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Void and Undefined]]></title>
+    <link href="http://pinggod.com/2015/void-and-undefined/"/>
+    <id>http://pinggod.com/2015/void-and-undefined/</id>
+    <published>2015-11-30T12:18:37.000Z</published>
+    <updated>2015-12-15T09:15:01.000Z</updated>
+    <content type="html"><![CDATA[<p>一直以来，<code>undefined</code> 都不是 JavaScript 的关键字或保留字，这意味着我们可以修改 window.undefined 的值。由于 undefined 会被频繁调用作为比较运算的操作数，所以在 ES5 规范之后，window.undefined 被定义为不可写、不可配置的属性。常见的 undefined 列述如下:</p>
+<ul>
+<li>变量声明后未赋值，则变量会被自动赋值为 undefined</li>
+<li>函数中定义了一些形参，如果传入的实参少于预定义的形参，那么有一些形参就会匹配不到实参，继而会被自动赋值为 undefined</li>
+<li>没有返回值的函数，默认返回 undefined</li>
+</ul>
+<p><code>void (expression)</code>，void 作为一个运算符，无论表达式的内容是什么，只要跟在 void 之后都会被调用执行，执行完毕后 void 操作符返回 undefined。简而言之，使用 void 运算符有三种用处：生成 undefined；让函数立即执行；充当 <code>javascript:</code> 协议的 URI。</p>
+<a id="more"></a>
+<h2 id="生成_undefined">生成 undefined</h2><p>使用 <code>void 0</code> 生成 undefined 的做法由来已久，既减少了在原形链上查找 window.undefined 的时间，也避免了误用被修改过的 undefined。</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">checkLogin</span> (<span class="params">loginName</span>) </span>&#123;</span><br><span class="line">    <span class="keyword">if</span> (loginName === <span class="keyword">void</span> <span class="number">0</span>) &#123;</span><br><span class="line">        <span class="built_in">console</span>.log(<span class="string">'Wrong!'</span>);</span><br><span class="line">    &#125; </span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">checkLogin();</span><br><span class="line"><span class="comment">// =&gt; 'Wrong!'</span></span><br></pre></td></tr></table></figure>
+<h2 id="立即执行函数">立即执行函数</h2><p><strong>运算符和函数组合使用，可以让函数立即执行。</strong>实际上，有许多运算符可以让函数立即执行，比如 +、-、!、~ 以及本文提到的 void 等运算符。此外，还有最常见的小括号（分组运算符）：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line">(<span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span>&#123;</span><br><span class="line">    <span class="built_in">console</span>.log(<span class="string">'立即执行'</span>);</span><br><span class="line">&#125;)();</span><br><span class="line"><span class="comment">// =&gt; '立即执行'</span></span><br></pre></td></tr></table></figure>
+<h2 id="充当_javascript:_协议的_URI">充当 <code>javascript:</code> 协议的 URI</h2><p>对于网页中的点赞、收藏等按钮，如果使用 a 标签来实现的话，往往会用到 <code>href=&quot;javascript:void(0)&quot;</code> 等类似的代码，这段代码的作用是点击链接时让页面不跳转。</p>
+<p>在 href=”javascript:void(0)” 中，使用了一个以 <code>javascript:</code> 协议开头的 URI，浏览器默认会对冒号后面的代码求值，然后将结果显示在新的页面，但有一种情况例外，如果结果是 undefined，浏览器就不会刷新页面渲染新值了。</p>
+<p>实际上，我们有很多方式实现点赞、收藏的效果，无需使用这么 Hack 的方式——虽然这确实很方便。</p>
+<blockquote>
+<p><code>javascript:</code> 协议声明了 URL 的主体是任意的 javascript 代码，由 javascript 解释器编译执行，通常使用 <code>javascript:URL</code> 执行某些不改变当前页面文档的代码，要做到这一点，必须确保 URL 的最后一条语句没有返回值，比如使用 <code>void 0</code>。</p>
+</blockquote>
+<h2 id="参考资料">参考资料</h2><ul>
+<li><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/undefined" target="_blank" rel="external">undefined</a></li>
+<li><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/void" target="_blank" rel="external">void 运算符</a></li>
+<li><a href="http://segmentfault.com/a/1190000000474941" target="_blank" rel="external">谈谈Javascript中的void操作符</a></li>
+<li><a href="http://www.jb51.net/article/52358.htm" target="_blank" rel="external">JavaScript中伪协议 javascript:使用探讨</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>一直以来，<code>undefined</code> 都不是 JavaScript 的关键字或保留字，这意味着我们可以修改 window.undefined 的值。由于 undefined 会被频繁调用作为比较运算的操作数，所以在 ES5 规范之后，window.undefined 被定义为不可写、不可配置的属性。常见的 undefined 列述如下:</p>
+<ul>
+<li>变量声明后未赋值，则变量会被自动赋值为 undefined</li>
+<li>函数中定义了一些形参，如果传入的实参少于预定义的形参，那么有一些形参就会匹配不到实参，继而会被自动赋值为 undefined</li>
+<li>没有返回值的函数，默认返回 undefined</li>
+</ul>
+<p><code>void (expression)</code>，void 作为一个运算符，无论表达式的内容是什么，只要跟在 void 之后都会被调用执行，执行完毕后 void 操作符返回 undefined。简而言之，使用 void 运算符有三种用处：生成 undefined；让函数立即执行；充当 <code>javascript:</code> 协议的 URI。</p>]]>
+    
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[React 组件间的消息传递]]></title>
+    <link href="http://pinggod.com/2015/React-%E7%BB%84%E4%BB%B6%E9%97%B4%E7%9A%84%E6%B6%88%E6%81%AF%E4%BC%A0%E9%80%92/"/>
+    <id>http://pinggod.com/2015/React-组件间的消息传递/</id>
+    <published>2015-11-28T10:34:42.000Z</published>
+    <updated>2015-12-27T09:32:41.000Z</updated>
+    <content type="html"><![CDATA[<p>当我们封装了可复用的组件之后，用来驱动组件渲染内容的数据就变得愈发灵活，组件之间数据通信的问题就摆在了桌面上。React 组件间的消息传递主要集中于三种关系中：</p>
+<ul>
+<li>从父组件向子组件的消息传递</li>
+<li>从子组件向父组件的消息传递</li>
+<li>无关联组件之间的消息传递</li>
+</ul>
+<p>前两种关系都可以使用 React 内建的 <code>this.props</code> 对象来处理：</p>
+<p><img src="/img/react-component-comunication.png" alt="父子组件之间的消息传递"></p>
+<a id="more"></a>
+<h2 id="无关联组件之间的消息传递">无关联组件之间的消息传递</h2><p>这里的“无关联”，是指两个组件既不是父子关系，也不是兄弟关系。对于这种关系，可以用一个简单的发布订阅模型来实现，这种模型又被称为观察者模式。</p>
+<p>这里选用的是基于全局对象的发布订阅模型，需要自定义事件名称：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="comment">// 事件集合</span></span><br><span class="line"><span class="keyword">let</span> events = &#123;&#125;;</span><br><span class="line"></span><br><span class="line"><span class="comment">// 发布事件</span></span><br><span class="line"><span class="keyword">const</span> trigger = (event, ...data) =&gt; &#123;</span><br><span class="line">    <span class="keyword">const</span> fns = events[event];</span><br><span class="line"></span><br><span class="line">    <span class="comment">// 如果没有对应方法</span></span><br><span class="line">    <span class="keyword">if</span> (!fns || fns.length === <span class="number">0</span>) &#123;</span><br><span class="line">        <span class="keyword">return</span> <span class="literal">false</span>;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="comment">// 如果存在对应方法，依次执行</span></span><br><span class="line">    <span class="keyword">for</span> ( <span class="keyword">let</span> i = <span class="number">0</span>; i &lt;= fns.length - <span class="number">1</span>; i++) &#123;</span><br><span class="line">        fns[i](...data);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="comment">// 监听事件</span></span><br><span class="line"><span class="keyword">const</span> on = (event, fn) =&gt; &#123;</span><br><span class="line">    <span class="comment">// 如果尚没有该事件，创建一个数组来存储对应的方法</span></span><br><span class="line">    <span class="keyword">if</span> (!events[event]) &#123;</span><br><span class="line">        events[event] = [];</span><br><span class="line">    &#125;</span><br><span class="line">    events[event].push(fn);</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="comment">// 取消监听事件</span></span><br><span class="line"><span class="keyword">const</span> off = (event, fn) =&gt; &#123;</span><br><span class="line">    <span class="keyword">const</span> fns = events[event];</span><br><span class="line"></span><br><span class="line">    <span class="comment">// 如果不存在事件集合</span></span><br><span class="line">    <span class="keyword">if</span> (!fns) &#123;</span><br><span class="line">        <span class="keyword">return</span> <span class="literal">false</span>;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="comment">// 如果不存在事件</span></span><br><span class="line">    <span class="keyword">if</span> (!fn &amp;&amp; fns) &#123;</span><br><span class="line">        fns.length = <span class="number">0</span>;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="comment">// 取消指定事件</span></span><br><span class="line">    <span class="keyword">else</span> &#123;</span><br><span class="line">        <span class="keyword">for</span> (<span class="keyword">let</span> i = fns.length - <span class="number">1</span>; i &gt;= <span class="number">0</span>; i--) &#123;</span><br><span class="line">            <span class="keyword">if</span> (fn === fns[i]) &#123;</span><br><span class="line">                fns.splice(i, <span class="number">1</span>);</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> PubSub = &#123;</span><br><span class="line">    on: on,</span><br><span class="line">    off: off,</span><br><span class="line">    trigger: trigger</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="keyword">export</span> <span class="keyword">default</span> PubSub;</span><br></pre></td></tr></table></figure>]]></content>
+    <summary type="html">
+    <![CDATA[<p>当我们封装了可复用的组件之后，用来驱动组件渲染内容的数据就变得愈发灵活，组件之间数据通信的问题就摆在了桌面上。React 组件间的消息传递主要集中于三种关系中：</p>
+<ul>
+<li>从父组件向子组件的消息传递</li>
+<li>从子组件向父组件的消息传递</li>
+<li>无关联组件之间的消息传递</li>
+</ul>
+<p>前两种关系都可以使用 React 内建的 <code>this.props</code> 对象来处理：</p>
+<p><img src="/img/react-component-comunication.png" alt="父子组件之间的消息传递"></p>]]>
+    
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[React 组件的生命周期]]></title>
+    <link href="http://pinggod.com/2015/React-%E7%BB%84%E4%BB%B6%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/"/>
+    <id>http://pinggod.com/2015/React-组件的生命周期/</id>
+    <published>2015-11-23T01:56:00.000Z</published>
+    <updated>2015-12-27T09:30:30.000Z</updated>
+    <content type="html"><![CDATA[<p>在 React 所实践的组件化中，非常重要的一点就是组件的生命周期，简而言之是组件的挂载、更新和卸载流程。下图详细列述了 React 组件在整个生命周期中所涉及的方法和行为：</p>
+<p><img src="/img/react-lifecycle.png" alt="React 组件的生命周期"></p>
+<a id="more"></a>
+<p>在组件实例创建之初，会依序调用 <code>getDefaultProps()</code>、<code>getInitialState()</code> 方法初始化数据。在 ES6 中，可以简写为：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line">static defaultProps = &#123;</span><br><span class="line">    key: value</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line">state = &#123;</span><br><span class="line">    key: value</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+<p>对于从父组件传递来的 props，React 提供了 <code>propTypes</code> 配置对象来校验数据类型或格式，常用类型如下：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="comment">// 布尔值</span></span><br><span class="line">React.PropTypes.bool                              </span><br><span class="line"><span class="comment">// 数值</span></span><br><span class="line">React.PropTypes.number                            </span><br><span class="line"><span class="comment">// 字符串</span></span><br><span class="line">React.PropTypes.string                            </span><br><span class="line"><span class="comment">// 函数</span></span><br><span class="line">React.PropTypes.func                              </span><br><span class="line"><span class="comment">// 数组</span></span><br><span class="line">React.PropTypes.array                             </span><br><span class="line"><span class="comment">// 对象</span></span><br><span class="line">React.PropTypes.object                            </span><br><span class="line"><span class="comment">// 数值、字符串、DOM 元素及包含这些类型的数组</span></span><br><span class="line">React.PropTypes.node                              </span><br><span class="line"><span class="comment">// React 元素</span></span><br><span class="line">React.PropTypes.element                           </span><br><span class="line"><span class="comment">// 对象实例</span></span><br><span class="line">React.PropTypes.instanceOf(Message)               </span><br><span class="line"><span class="comment">// 数组包含的值之一</span></span><br><span class="line">React.PropTypes.oneOf([<span class="string">'News'</span> <span class="string">'Photos'</span>])          </span><br><span class="line"><span class="comment">// 数组包含的类型之一</span></span><br><span class="line">React.PropTypes.oneOfType([                       </span><br><span class="line">    React.PropTypes.string,         </span><br><span class="line">    React.PropTypes.number,         </span><br><span class="line">    React.PropTypes.instanceOf(Message)                                  </span><br><span class="line">])                                               </span><br><span class="line"><span class="comment">// 数值数组</span></span><br><span class="line">React.PropTypes.arrayOf(React.PropTypes.number)   </span><br><span class="line"><span class="comment">// 对象的属性值为数值类型</span></span><br><span class="line">React.PropTypes.objectOf(React.PropTypes.number)  </span><br><span class="line"><span class="comment">// 组合类型</span></span><br><span class="line">React.PropTypes.shape(&#123;                           </span><br><span class="line">    React.PropTypes.string                                   </span><br><span class="line">    React.PropTypes.number                                   </span><br><span class="line">&#125;)                                                 </span><br><span class="line"><span class="comment">// 任何类型，必填</span></span><br><span class="line">React.PropTypes.any.isRequired                    </span><br><span class="line"><span class="comment">// 自定义规则</span></span><br><span class="line">customProp: <span class="function"><span class="keyword">function</span>(<span class="params">props propName componentName</span>) </span>&#123;</span><br><span class="line">    <span class="keyword">if</span> (!<span class="regexp">/matchme/</span>.test(props[propName])) &#123;</span><br><span class="line">        <span class="keyword">return</span> <span class="keyword">new</span> <span class="built_in">Error</span>(<span class="string">'Validation failed!'</span>);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h2 id="mount">mount</h2><p>在组件的挂载过程中，会依次调用 componentWillMount()、render() 和 componentDidMount()。挂载完成后，<code>componentWillMount()</code> 和 <code>componentDidMount()</code> 将不会再被触发，<code>render()</code> 则会根据 props 和 state 的变化多次执行。</p>
+<p>在 componentDidMount() 调用之前，只能得到由 render() 返回的虚拟 DOM；在该方法执行时，真实 DOM 的渲染已经完成，此时，可以通过 React 内建的 <code>getDOMNode()</code> 访问真实的 DOM。</p>
+<h2 id="update">update</h2><p>挂载结束后，组件处于监听状态，监听 props 和 state 的变化。props 和 state 的差异在于：state 用于配置组件内的状态，props 则用于在组件间传递数据。</p>
+<p>在实际开发中，这一阶段调用的核心都是围绕 state 展开的。state changed 之后，系统会立即调用 <code>boolean shouldComponentUpdate(object nextProps, object nextState)</code> 方法来决定是否重新渲染页面。当遭遇性能瓶颈时，适当地通过该方法控制页面渲染的频率是为提升性能不二法门。</p>
+<p>当 props changed 时，系统会立即调用 <code>componentWillReciveProps(object nextProps)</code> 方法。该方法常被用来执行 props -&gt; state 的更新，继而触发整个页面的渲染。</p>
+<p>在这一阶段重新渲染页面所需要的同样是 will -&gt; render -&gt; did 三个方法。不同之处在于，此处的 did 和 will 附加了 props 和 state 信息：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line">componentWillUpdate(object nextProps, object nextState) &#123;</span><br><span class="line">    ...</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">componentDidUpdate(object prevProps, object prevState) &#123;</span><br><span class="line">    ...</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h2 id="unmount">unmount</h2><p>组件卸载前会执行 <code>componentWillUnmount()</code>，用于清理 <code>componentDidMount()</code> 之后创建的组件。此外，对于组件生命周期内累积的监听事件和定时器，也应当在该方法内执行解绑、清除操作。</p>
+<h2 id="组件化">组件化</h2><p>目前组内正在构建一套 React 基础组件，方法和思路与 AlloyTeam <a href="http://www.alloyteam.com/2015/11/we-will-be-componentized-web-long-text/" target="_blank" rel="external">《致我们终将组件化的 Web》</a>一文类似。其中，作者对组件提出了五点要求，如下图所示，值得参考：</p>
+<p><img src="/img/react-component.png" alt="组件化的要求"></p>
+<p>其中“规范化的接口”，也可更改为可管理的生命周期。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>在 React 所实践的组件化中，非常重要的一点就是组件的生命周期，简而言之是组件的挂载、更新和卸载流程。下图详细列述了 React 组件在整个生命周期中所涉及的方法和行为：</p>
+<p><img src="/img/react-lifecycle.png" alt="React 组件的生命周期"></p>]]>
+    
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Sass]]></title>
+    <link href="http://pinggod.com/2015/Sass/"/>
+    <id>http://pinggod.com/2015/Sass/</id>
+    <published>2015-11-19T09:19:52.000Z</published>
+    <updated>2015-12-27T09:29:02.000Z</updated>
+    <content type="html"><![CDATA[<p>从 <a href="http://benfrain.com/" target="_blank" rel="external">Ben Frain</a> 的书中可以看出，他是一个勇于实践、善于学习的开发者。一直以来都很关注他的动态，当他的新书《Sass 和 Compass 设计师指南》初版时，就迫不及待地入手了，这是我和 Sass 的第一次见面。后来机缘巧合翻译了 <a href="http://sass-guidelin.es/zh" target="_blank" rel="external">Sass Guidelines</a> 和其它一些颇具实践性的 Sass 文章，零零散散至今大概有了一年的时间。</p>
+<p>以前的翻译专注于“学习”，在这篇文章之后，我将会分配更多的精力到“实践”中，做一些共享性的库或工具回馈社区。</p>
+<div class="tip"><br>    预处理器很强大，但它只是编写 CSS 的辅助工具。出于对扩展和维护等方面的考虑，在大型项目中有必要使用预处理器构建 CSS；但是对于小型项目，原生的 CSS 可能是一种更好的选择。不要肆意使用预处理器！<br></div>
+
+<a id="more"></a>
+<h2 id="Quick_Start">Quick Start</h2><p>Sass 扩展了 CSS 的现有语法，并提供了一些新的语法糖。在下面的简短代码中，集合了 Sass 中最常用的模块引用 <code>@import</code>、变量和嵌套：</p>
+<figure class="highlight scss"><table><tr><td class="code"><pre><span class="line"><span class="comment">// 设置字符集</span></span><br><span class="line"><span class="at_rule">@<span class="keyword">charset</span> <span class="string">"UTF-8"</span>;</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// 引入模块</span></span><br><span class="line"><span class="at_rule">@<span class="keyword">import</span> <span class="string">"reset"</span>;</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// 创建变量</span></span><br><span class="line"><span class="variable">$primary-color</span><span class="value">: <span class="hexcolor">#333</span>;</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// 嵌套</span></span><br><span class="line"><span class="tag">body</span> &#123;</span><br><span class="line">    <span class="attribute">color</span><span class="value">: <span class="variable">$primary-color</span>;</span></span><br><span class="line">    <span class="tag">ul</span> &#123;</span><br><span class="line">        <span class="attribute">list-style-type</span><span class="value">: none;</span></span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h2 id="插值字符串">插值字符串</h2><p>Sass 中的插值字符串 <code>#{$var}</code> 有两方面的作用：动态拼接字符串和去除字符串首尾的引号。示例如下：</p>
+<figure class="highlight scss"><table><tr><td class="code"><pre><span class="line"><span class="at_rule">@<span class="keyword">mixin</span><span class="preprocessor"> header</span>(<span class="variable">$tag</span>) &#123;</span></span><br><span class="line">    #&#123;<span class="variable">$tag</span>&#125;<span class="pseudo">:before</span> &#123;</span><br><span class="line">        <span class="attribute">content</span><span class="value">: <span class="string">"#&#123;$tag&#125;"</span>;</span></span><br><span class="line">        <span class="comment">// 等同于 content: $tag;</span></span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="class">.post-content</span> &#123;</span><br><span class="line">    <span class="at_rule">@<span class="keyword">include</span><span class="preprocessor"> header</span>(<span class="string">"h1"</span>);</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>编译结果：</p>
+<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="class">.post-content</span> <span class="tag">h1</span><span class="pseudo">:before</span> <span class="rules">&#123;</span><br><span class="line">    <span class="rule"><span class="attribute">content</span>:<span class="value"> <span class="string">"h1"</span></span></span>;</span><br><span class="line">&#125;</span></span><br></pre></td></tr></table></figure>
+<h2 id="父级引用符：&amp;">父级引用符：<code>&amp;</code></h2><p>可以将父级引用符 <code>&amp;</code> 看做是一个值为父级选择器的插值语法：</p>
+<figure class="highlight scss"><table><tr><td class="code"><pre><span class="line"><span class="tag">a</span> &#123;</span><br><span class="line">    <span class="attribute">text-decoration</span><span class="value">: none;</span></span><br><span class="line">    &amp;<span class="pseudo">:hover</span> &#123;</span><br><span class="line">        <span class="attribute">text-decoration</span><span class="value">: underline;</span></span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>编译结果：</p>
+<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="tag">a</span> <span class="rules">&#123;</span><br><span class="line">    <span class="rule"><span class="attribute">text-decoration</span>:<span class="value"> none</span></span>;</span><br><span class="line">&#125;</span></span><br><span class="line"></span><br><span class="line"><span class="tag">a</span><span class="pseudo">:hover</span> <span class="rules">&#123;</span><br><span class="line">    <span class="rule"><span class="attribute">text-decoration</span>:<span class="value"> underline</span></span>;</span><br><span class="line">&#125;</span></span><br></pre></td></tr></table></figure>
+<h2 id="占位符选择器">占位符选择器</h2><p>占位符选择器是 Sass 特有的一种选择器，声明时以 <code>%</code> 开头，编译时不会输出到 CSS 文件中，主要用于抽象组件的公共部分，配合 <code>@extend</code> 指令实现样式的继承机制：</p>
+<figure class="highlight scss"><table><tr><td class="code"><pre><span class="line">%<span class="attribute">font</span> &#123;</span><br><span class="line">    <span class="attribute">font-size</span><span class="value">: <span class="number">14px</span>;</span></span><br><span class="line">    <span class="attribute">font-family</span><span class="value">: <span class="string">"Source Sans Pro"</span>;</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="tag">body</span> &#123;</span><br><span class="line">    <span class="at_rule">@<span class="keyword">extend</span> %font;</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>编译结果：</p>
+<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="tag">body</span> <span class="rules">&#123;</span><br><span class="line">    <span class="rule"><span class="attribute">font-size</span>:<span class="value"> <span class="number">14px</span></span></span>;</span><br><span class="line">    <span class="rule"><span class="attribute">font-family</span>:<span class="value"> <span class="string">"Source Sans Pro"</span></span></span>;</span><br><span class="line">&#125;</span></span><br></pre></td></tr></table></figure>
+<h2 id="数据类型">数据类型</h2><ul>
+<li>字符串 (string): “foo”, foo</li>
+<li>数值 (number): 1.3, 13, 10px</li>
+<li>列表 (list): ( 1.5em 1em 0 2em, Helvetica, Arial, sa ns-serif )</li>
+<li>映射 (map): ( key1: value1, key2: value2 )</li>
+<li>颜色值 (color): blue, #FFFFFF, rgb, hsl, rgba, hsla</li>
+<li>布尔值 (bool): true, false</li>
+<li>空类型 (null): null</li>
+</ul>
+<h2 id="操作符">操作符</h2><ul>
+<li>赋值 <code>:</code></li>
+<li>计算 <code>+</code>、<code>-</code>、<code>*</code>、<code>/</code>、<code>%</code></li>
+<li>比较 <code>==</code>、<code>!=</code>、<code>&gt;</code>、<code>&gt;=</code>、<code>&lt;</code>、<code>&lt;=</code></li>
+<li>逻辑 <code>and</code>、<code>or</code>、<code>not</code></li>
+</ul>
+<p>其中，<code>+</code> 除了用作算术运算之外，也可以用于拼接字符串和求取颜色值。在 Sass 中字符串分为两种：引用字符串（quoted string，外部被引号包裹）和未引用字符串（unquoted string，外部没有引号）。使用 <code>+</code> 拼接字符串时，最终生成的字符串类型为第一个运算子的字符串类型：</p>
+<figure class="highlight scss"><table><tr><td class="code"><pre><span class="line"><span class="tag">body</span> &#123;</span><br><span class="line">    <span class="attribute">font-family</span><span class="value">: <span class="string">"Source Sans "</span> + TC;</span></span><br><span class="line">    <span class="tag">p</span> &#123;</span><br><span class="line">        <span class="attribute">font-family</span><span class="value">: sans- + <span class="string">"serif"</span>;</span></span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>编译结果：</p>
+<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="tag">body</span> <span class="rules">&#123;</span><br><span class="line">  <span class="rule"><span class="attribute">font-family</span>:<span class="value"> <span class="string">"Source Sans TC"</span></span></span>;</span><br><span class="line">&#125;</span></span><br><span class="line"></span><br><span class="line"><span class="tag">body</span> <span class="tag">p</span> <span class="rules">&#123;</span><br><span class="line">  <span class="rule"><span class="attribute">font-family</span>:<span class="value"> sans-serif</span></span>;</span><br><span class="line">&#125;</span></span><br></pre></td></tr></table></figure>
+<p>使用 <code>+</code> 求取颜色值时，必须保证运算子具有相同的不透明度：</p>
+<figure class="highlight scss"><table><tr><td class="code"><pre><span class="line"><span class="tag">body</span> &#123;</span><br><span class="line">    <span class="attribute">color</span><span class="value">: <span class="function">rgba</span>(<span class="number">70</span>, <span class="number">132</span>, <span class="number">153</span>, <span class="number">1</span>) + <span class="function">rgba</span>(<span class="number">32</span>, <span class="number">68</span>, <span class="number">121</span>, <span class="number">1</span>);</span></span><br><span class="line">    <span class="comment">// =&gt; color: #66c8ff;</span></span><br><span class="line"></span><br><span class="line">    <span class="attribute">background-color</span><span class="value">: <span class="function">rgba</span>(<span class="number">70</span>, <span class="number">132</span>, <span class="number">153</span>, .<span class="number">9</span>) + <span class="function">rgba</span>(<span class="number">32</span>, <span class="number">68</span>, <span class="number">121</span>, .<span class="number">7</span>);</span></span><br><span class="line">    <span class="comment">// alpha channels must be equal when combining colors </span></span><br><span class="line">    <span class="comment">// 报错：不透明通道值必须相等</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<div class="tip"><br>    <code>/</code> 在 CSS 中是有意义的，为了避免和 Sass 除法运算的混淆，所有的除法操作都应该使用小括号 <code>()</code> 包裹，比如使用 <code>font-size: (10px / 2)</code> 产出 <code>font-size: 5px</code>。<br></div>
+
+<h2 id="变量标识符">变量标识符</h2><p>Sass 中的变量有三种身份：普通变量、默认值变量（<code>!default</code>）和全局变量（<code>!global</code>），而且这些变量具有作用域的概念，每个代码块 <code>{}</code> 内一个作用域，整个代码文件内也有一个作用域。</p>
+<p>当我们引用普通变量时，Sass 首先会从当前作用域开始检索变量，如果找不到就上溯到父级作用域，直到递归到最顶层的作用域：</p>
+<figure class="highlight scss"><table><tr><td class="code"><pre><span class="line"><span class="variable">$color</span><span class="value">: orange;</span></span><br><span class="line"></span><br><span class="line"><span class="tag">div</span> &#123;</span><br><span class="line">    <span class="comment">// 对 $color 重新赋值</span></span><br><span class="line">    <span class="variable">$color</span><span class="value">: blue;</span></span><br><span class="line">    <span class="attribute">color</span><span class="value">: <span class="variable">$color</span>;</span></span><br><span class="line">    <span class="tag">p</span> &#123;</span><br><span class="line">        <span class="attribute">color</span><span class="value">: <span class="variable">$color</span>;</span></span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="tag">a</span> &#123;</span><br><span class="line">    <span class="attribute">color</span><span class="value">: <span class="variable">$color</span>;</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>编译结果：</p>
+<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="tag">div</span> <span class="rules">&#123;</span><br><span class="line">  <span class="rule"><span class="attribute">color</span>:<span class="value"> blue</span></span>;</span><br><span class="line">&#125;</span></span><br><span class="line"></span><br><span class="line"><span class="tag">div</span> <span class="tag">p</span> <span class="rules">&#123;</span><br><span class="line">  <span class="rule"><span class="attribute">color</span>:<span class="value"> blue</span></span>;</span><br><span class="line">&#125;</span></span><br><span class="line"></span><br><span class="line"><span class="tag">a</span> <span class="rules">&#123;</span><br><span class="line">  <span class="rule"><span class="attribute">color</span>:<span class="value"> orange</span></span>;</span><br><span class="line">&#125;</span></span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>默认值变量往往用于主题的配置文件，起到标识默认值，方便后续的重写覆盖。在最顶层作用域下，变量默认具有全局性，此时使用 <code>!global</code> 并没有实际意义；在块级作用域中，可以通过 <code>!global</code> 将变量提升为全局变量，但这么做势必降低代码的可维护性，所以目前全局变量显得有些鸡肋。</p>
+</blockquote>
+<h2 id="@_指令"><code>@</code> 指令</h2><ul>
+<li>@import 模块引用</li>
+<li>@media 媒体查询</li>
+<li>@extend 选择器继承</li>
+<li>@at-root 嵌套提取</li>
+<li>@debug / @warn / @error 异常和测试</li>
+</ul>
+<p><code>@extend</code> 的强大无可置疑，但是复杂性也一直为人诟病，稍微控制不当就会生成冗余的选择器。归根结底，使用 <code>@extend</code> 是为了继承组件的公有样式，所以在不影响功能的基础上，应该适当的束缚它的能力。到目前为止，最优秀的实践方式就是 <code>@extend</code> 搭配占位符选择器。</p>
+<figure class="highlight scss"><table><tr><td class="code"><pre><span class="line">%btn &#123;</span><br><span class="line">    <span class="attribute">color</span><span class="value">: white;</span></span><br><span class="line">    <span class="attribute">font-size</span><span class="value">: <span class="number">20px</span>;</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="class">.btn-danger</span> &#123;</span><br><span class="line">    <span class="at_rule">@<span class="keyword">extend</span> %btn;</span></span><br><span class="line">    <span class="attribute">background-color</span><span class="value">: red;</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="class">.btn-default</span> &#123;</span><br><span class="line">    <span class="at_rule">@<span class="keyword">extend</span> %btn;</span></span><br><span class="line">    <span class="attribute">background-color</span><span class="value">: gray;</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>编译结果：</p>
+<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="class">.btn-danger</span>, <span class="class">.btn-default</span> <span class="rules">&#123;</span><br><span class="line">    <span class="rule"><span class="attribute">color</span>:<span class="value"> white</span></span>;</span><br><span class="line">    <span class="rule"><span class="attribute">font-size</span>:<span class="value"> <span class="number">20px</span></span></span>;</span><br><span class="line">&#125;</span></span><br><span class="line"></span><br><span class="line"><span class="class">.btn-danger</span> <span class="rules">&#123;</span><br><span class="line">    <span class="rule"><span class="attribute">background-color</span>:<span class="value"> red</span></span>;</span><br><span class="line">&#125;</span></span><br><span class="line"></span><br><span class="line"><span class="class">.btn-default</span> <span class="rules">&#123;</span><br><span class="line">    <span class="rule"><span class="attribute">background-color</span>:<span class="value"> gray</span></span>;</span><br><span class="line">&#125;</span></span><br></pre></td></tr></table></figure>
+<p>在这个组合中，占位符选择器本身不会被编译到 CSS 文件中，可以节省文件体积，而且 <code>@extend</code> 只继承了单一的占位符选择器，杜绝了选择器泛滥。此外，相比起 <code>@mixin</code> 来，<code>@extend</code> 搭配占位符选择器生成的结果会聚合在同一个样式集中：</p>
+<p><img src="/img/mixin-vs-extend.png" alt="@extend vs @mixin"></p>
+<blockquote>
+<p>如果再上升一个层次分工的话，那就需要比较一下 <code>@mixin</code> 和 <code>@extend</code>。这两种方式都可以生成公有样式，但是仅此而已就是浪费了 <code>@mixin</code> 的能力。就目前的最佳实践来说，建议使用 <code>@extend</code> 搭配占位符选择器继承公有样式，使用 <code>@mixin</code> 产出动态样式。<code>@mixin</code> 的详细介绍见后续小节。</p>
+</blockquote>
+<h2 id="控制指令">控制指令</h2><ul>
+<li>@if … @else if … @else … 条件判断</li>
+<li>@for $var from start through end [start, end] 循环</li>
+<li>@for $var from start to end [start, end) 循环</li>
+<li>@each … in … 遍历</li>
+<li>@while</li>
+</ul>
+<p><code>@each</code> 可以用来遍历 list 和 map 类型的数据，示例如下：</p>
+<figure class="highlight scss"><table><tr><td class="code"><pre><span class="line"><span class="variable">$btn</span><span class="value">: (</span><br><span class="line">    danger: red, </span><br><span class="line">    primary: blue, </span><br><span class="line">    warning: orange</span><br><span class="line">);</span></span><br><span class="line"></span><br><span class="line"><span class="at_rule">@<span class="keyword">each</span> <span class="variable">$type</span>, <span class="variable">$color</span><span class="preprocessor"> in</span> <span class="variable">$btn</span> &#123;</span></span><br><span class="line">    <span class="class">.btn-</span>#&#123;<span class="variable">$type</span>&#125; &#123;</span><br><span class="line">        <span class="attribute">color</span><span class="value">: <span class="variable">$color</span>;</span></span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>编译结果：</p>
+<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="class">.btn-danger</span> <span class="rules">&#123;</span><br><span class="line">    <span class="rule"><span class="attribute">color</span>:<span class="value"> red</span></span>;</span><br><span class="line">&#125;</span></span><br><span class="line"></span><br><span class="line"><span class="class">.btn-primary</span> <span class="rules">&#123;</span><br><span class="line">    <span class="rule"><span class="attribute">color</span>:<span class="value"> blue</span></span>;</span><br><span class="line">&#125;</span></span><br><span class="line"></span><br><span class="line"><span class="class">.btn-warning</span> <span class="rules">&#123;</span><br><span class="line">    <span class="rule"><span class="attribute">color</span>:<span class="value"> orange</span></span>;</span><br><span class="line">&#125;</span></span><br></pre></td></tr></table></figure>
+<h2 id="混合宏_@mixin">混合宏 <code>@mixin</code></h2><p>在 <code>@extend</code> 部分已经介绍到 <code>@mixin</code> 的一个功能是生成公有样式，但事实上，建议你避开使用该功能，而是着眼于使用 <code>@mixin</code> 动态生成共有样式，更优雅地实现组件复用：</p>
+<figure class="highlight scss"><table><tr><td class="code"><pre><span class="line"><span class="at_rule">@<span class="keyword">mixin</span><span class="preprocessor"> btn</span>(<span class="variable">$fontSize</span>, <span class="variable">$borderRadius</span>) &#123;</span></span><br><span class="line">    <span class="attribute">font-size</span><span class="value">: <span class="variable">$fontSize</span>;</span></span><br><span class="line">    <span class="attribute">border-radius</span><span class="value">: <span class="variable">$borderRadius</span>;</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="class">.btn-sm</span> &#123;</span><br><span class="line">    <span class="at_rule">@<span class="keyword">include</span><span class="preprocessor"> btn</span>(<span class="number">14px</span>,<span class="preprocessor"> 3px</span>);</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="class">.btn-lg</span> &#123;</span><br><span class="line">    <span class="at_rule">@<span class="keyword">include</span><span class="preprocessor"> btn</span>(<span class="number">18px</span>,<span class="preprocessor"> 5px</span>);</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>编译结果：</p>
+<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="class">.btn-sm</span> <span class="rules">&#123;</span><br><span class="line">    <span class="rule"><span class="attribute">font-size</span>:<span class="value"> <span class="number">14px</span></span></span>;</span><br><span class="line">    <span class="rule"><span class="attribute">border-radius</span>:<span class="value"> <span class="number">3px</span></span></span>;</span><br><span class="line">&#125;</span></span><br><span class="line"></span><br><span class="line"><span class="class">.btn-lg</span> <span class="rules">&#123;</span><br><span class="line">    <span class="rule"><span class="attribute">font-size</span>:<span class="value"> <span class="number">18px</span></span></span>;</span><br><span class="line">    <span class="rule"><span class="attribute">border-radius</span>:<span class="value"> <span class="number">5px</span></span></span>;</span><br><span class="line">&#125;</span></span><br></pre></td></tr></table></figure>
+<p><code>@mixin</code> 的参数除了上面示例的普通参数，还包括默认值参数和不定参数。默认值参数通过提供默认样式，可以在参数缺失时，保障代码的健壮性：</p>
+<figure class="highlight scss"><table><tr><td class="code"><pre><span class="line"><span class="at_rule">@<span class="keyword">mixin</span><span class="preprocessor"> btn</span>(<span class="variable">$fontSize</span>, <span class="variable">$borderRadius</span>:<span class="preprocessor"> 5px</span>) &#123;</span></span><br><span class="line">    <span class="attribute">font-size</span><span class="value">: <span class="variable">$fontSize</span>;</span></span><br><span class="line">    <span class="attribute">border-radius</span><span class="value">: <span class="variable">$borderRadius</span>;</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="class">.btn-lg</span> &#123;</span><br><span class="line">    <span class="at_rule">@<span class="keyword">include</span><span class="preprocessor"> btn</span>(<span class="number">18px</span>);</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>编译结果：</p>
+<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="class">.btn-lg</span> <span class="rules">&#123;</span><br><span class="line">    <span class="rule"><span class="attribute">font-size</span>:<span class="value"> <span class="number">18px</span></span></span>;</span><br><span class="line">    <span class="rule"><span class="attribute">border-radius</span>:<span class="value"> <span class="number">5px</span></span></span>;</span><br><span class="line">&#125;</span></span><br></pre></td></tr></table></figure>
+<p>不定参数可以保存零个或多个值，最常用的地方就是为同一属性添加多个值，比如多重阴影：</p>
+<figure class="highlight scss"><table><tr><td class="code"><pre><span class="line"><span class="at_rule">@<span class="keyword">mixin</span><span class="preprocessor"> box-shadow</span>(<span class="variable">$shadows</span>...) &#123;</span></span><br><span class="line">    -moz-<span class="attribute">box-shadow</span><span class="value">: <span class="variable">$shadows</span>;</span></span><br><span class="line">    -webkit-<span class="attribute">box-shadow</span><span class="value">: <span class="variable">$shadows</span>;</span></span><br><span class="line">    <span class="attribute">box-shadow</span><span class="value">: <span class="variable">$shadows</span>;</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="class">.shadows</span> &#123;</span><br><span class="line">    <span class="at_rule">@<span class="keyword">include</span><span class="preprocessor"> box-shadow</span>(<span class="number">0px</span><span class="preprocessor"> 4px</span><span class="preprocessor"> 5px</span> <span class="hexcolor">#666</span>,<span class="preprocessor"> 2px</span><span class="preprocessor"> 6px</span><span class="preprocessor"> 10px</span> <span class="hexcolor">#999</span>);</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>编译结果：</p>
+<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="class">.shadows</span> <span class="rules">&#123;</span><br><span class="line">    <span class="rule"><span class="attribute">-moz-box-shadow</span>:<span class="value"> <span class="number">0px</span> <span class="number">4px</span> <span class="number">5px</span> <span class="hexcolor">#666</span>, <span class="number">2px</span> <span class="number">6px</span> <span class="number">10px</span> <span class="hexcolor">#999</span></span></span>;</span><br><span class="line">    <span class="rule"><span class="attribute">-webkit-box-shadow</span>:<span class="value"> <span class="number">0px</span> <span class="number">4px</span> <span class="number">5px</span> <span class="hexcolor">#666</span>, <span class="number">2px</span> <span class="number">6px</span> <span class="number">10px</span> <span class="hexcolor">#999</span></span></span>;</span><br><span class="line">    <span class="rule"><span class="attribute">box-shadow</span>:<span class="value"> <span class="number">0px</span> <span class="number">4px</span> <span class="number">5px</span> <span class="hexcolor">#666</span>, <span class="number">2px</span> <span class="number">6px</span> <span class="number">10px</span> <span class="hexcolor">#999</span></span></span>;</span><br><span class="line">&#125;</span></span><br></pre></td></tr></table></figure>
+<p>此外，在传参时也可以使用不定参数：</p>
+<figure class="highlight scss"><table><tr><td class="code"><pre><span class="line"><span class="at_rule">@<span class="keyword">mixin</span><span class="preprocessor"> colors</span>(<span class="variable">$text</span>, <span class="variable">$background</span>, <span class="variable">$border</span>) &#123;</span></span><br><span class="line">    <span class="attribute">color</span><span class="value">: <span class="variable">$text</span>;</span></span><br><span class="line">    <span class="attribute">background-color</span><span class="value">: <span class="variable">$background</span>;</span></span><br><span class="line">    <span class="attribute">border-color</span><span class="value">: <span class="variable">$border</span>;</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="variable">$values</span><span class="value">: <span class="hexcolor">#ff0000</span>, <span class="hexcolor">#00ff00</span>, <span class="hexcolor">#0000ff</span>;</span></span><br><span class="line"><span class="class">.primary</span> &#123;</span><br><span class="line">    <span class="at_rule">@<span class="keyword">include</span><span class="preprocessor"> colors</span>(<span class="variable">$values</span>...);</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="variable">$value-map</span><span class="value">: (text: <span class="hexcolor">#00ff00</span>, background: <span class="hexcolor">#0000ff</span>, border: <span class="hexcolor">#ff0000</span>);</span></span><br><span class="line"><span class="class">.secondary</span> &#123;</span><br><span class="line">    <span class="at_rule">@<span class="keyword">include</span><span class="preprocessor"> colors</span>(<span class="variable">$value-map</span>...);</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>编译结果：</p>
+<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="class">.primary</span> <span class="rules">&#123;</span><br><span class="line">    <span class="rule"><span class="attribute">color</span>:<span class="value"> <span class="hexcolor">#ff0000</span></span></span>;</span><br><span class="line">    <span class="rule"><span class="attribute">background-color</span>:<span class="value"> <span class="hexcolor">#00ff00</span></span></span>;</span><br><span class="line">    <span class="rule"><span class="attribute">border-color</span>:<span class="value"> <span class="hexcolor">#0000ff</span></span></span>;</span><br><span class="line">&#125;</span></span><br><span class="line"></span><br><span class="line"><span class="class">.secondary</span> <span class="rules">&#123;</span><br><span class="line">    <span class="rule"><span class="attribute">color</span>:<span class="value"> <span class="hexcolor">#00ff00</span></span></span>;</span><br><span class="line">    <span class="rule"><span class="attribute">background-color</span>:<span class="value"> <span class="hexcolor">#0000ff</span></span></span>;</span><br><span class="line">    <span class="rule"><span class="attribute">border-color</span>:<span class="value"> <span class="hexcolor">#ff0000</span></span></span>;</span><br><span class="line">&#125;</span></span><br></pre></td></tr></table></figure>
+<div class="tip"><br>    在 <code>@mixin</code> 中配置参数时，先写普通参数，然后是默认值参数，最后是不定参数。<br></div>
+
+<h2 id="函数指令_@function">函数指令 <code>@function</code></h2><p>相比起上面的继承和动态生成，<code>@function</code> 在生成方式上自由度更高。此外，还可以嵌套上面的各种指令和操作符，对数据进行筛选、在加工，生成特定样式。在下面的代码中，混合宏根据栅格的数量，动态生成容器的宽度：</p>
+<figure class="highlight scss"><table><tr><td class="code"><pre><span class="line"><span class="variable">$grid-width</span><span class="value">: <span class="number">40px</span>;</span></span><br><span class="line"><span class="variable">$gutter-width</span><span class="value">: <span class="number">10px</span>;</span></span><br><span class="line"></span><br><span class="line"><span class="at_rule">@function<span class="preprocessor"> width</span>(<span class="variable">$n</span>) &#123;</span></span><br><span class="line">    <span class="at_rule">@return <span class="variable">$n</span> * <span class="variable">$grid-width</span> + (<span class="variable">$n</span><span class="preprocessor"> -</span><span class="preprocessor"> 1</span>) * <span class="variable">$gutter-width</span>;</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="class">.container</span> &#123; </span><br><span class="line">    <span class="attribute">width</span><span class="value">: <span class="function">width</span>(<span class="number">5</span>);</span> </span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>编译结果：</p>
+<figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="class">.container</span> <span class="rules">&#123;</span><br><span class="line">    <span class="rule"><span class="attribute">width</span>:<span class="value"> <span class="number">240px</span></span></span>;</span><br><span class="line">&#125;</span></span><br></pre></td></tr></table></figure>
+<h6 id="参考资料">参考资料</h6><ul>
+<li><a href="http://sass-lang.com/documentation/Sass/Script/Functions.html#blue-instance_method" target="_blank" rel="external">Sass 内建函数</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>从 <a href="http://benfrain.com/">Ben Frain</a> 的书中可以看出，他是一个勇于实践、善于学习的开发者。一直以来都很关注他的动态，当他的新书《Sass 和 Compass 设计师指南》初版时，就迫不及待地入手了，这是我和 Sass 的第一次见面。后来机缘巧合翻译了 <a href="http://sass-guidelin.es/zh">Sass Guidelines</a> 和其它一些颇具实践性的 Sass 文章，零零散散至今大概有了一年的时间。</p>
+<p>以前的翻译专注于“学习”，在这篇文章之后，我将会分配更多的精力到“实践”中，做一些共享性的库或工具回馈社区。</p>
+<div class="tip"><br>    预处理器很强大，但它只是编写 CSS 的辅助工具。出于对扩展和维护等方面的考虑，在大型项目中有必要使用预处理器构建 CSS；但是对于小型项目，原生的 CSS 可能是一种更好的选择。不要肆意使用预处理器！<br></div>]]>
+    
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[数据类型的分类]]></title>
+    <link href="http://pinggod.com/2015/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E7%9A%84%E5%88%86%E7%B1%BB/"/>
+    <id>http://pinggod.com/2015/数据类型的分类/</id>
+    <published>2015-11-15T11:29:36.000Z</published>
+    <updated>2015-12-15T09:15:01.000Z</updated>
+    <content type="html"><![CDATA[<p>开始写作本文的时候，我已经顺利地度过了四个月的前端实习生活，其间经手的项目勉强称得上稳定和健壮。但是刚刚学习前端的那些日子，可没现在这么自信，回想起来仍然颇多感慨。</p>
+<p>《JavaScript 典型应用与最佳实践》是我学习 JavaScript 的启蒙书籍，初版于 2008 年，面色古老而又心思缜密。其中的原始值和引用值一节，让我对 JavaScript 中数据类型的理解豁然开朗。如果从写作的角度看这本书，它的亮点在于以一种结构化的思维由浅入深地引导读者，主干和分支条缕清晰。有趣的是，在我用谷歌为结构化思维（Structed Thinking）查找一些理论依据的时候，链接到了一本更古老的书籍《金字塔原理：思考、写作和解决问题的逻辑》，书中介绍的正是作者自 1963 年以来反复实践的一套结构化思维，具体的细节等我读完后再聊吧。</p>
+<a id="more"></a>
+<p>最近项目中使用到的技术都比较激进，比如 ES6 / React / Flux 等等。在 ES6 的代码中你能看到诸多其他语言的影子，比如 Python，所以上一周我决定重新回顾一下 Python 中的要点，选用的参考资料是由 Wesley J. Chun 编写的《Python 核心编程（第二版）》。</p>
+<p>当读到 4.8 节《标准类型的分类》时，我可以确定，这又是一次结构化思维在知识传播过程中华丽的表演。在高级程序设计语言中，数据类型是必不可少的一部分。理解一门语言的数据类型，也是最基础的一步。虽然下面的示例交错使用 Python 和 JavaScript，但其中所叙述的本质是具有广泛性的。</p>
+<h2 id="Python">Python</h2><p>Python 中每个对象都有三个特性：id, type 和 value。这些特性在对象初始化时创建。Python 内建了多种数据类型，基本类型包括：</p>
+<ul>
+<li>integer, long integer, float, complex number</li>
+<li>string</li>
+<li>list</li>
+<li>tuple</li>
+<li>dictionary</li>
+</ul>
+<p>对数据类型分类，可以让我们更清晰地理解类型之间的关系以及工作原理。首先，使用存储模型进行分类。存储类型的衡量标准就是看对象能保存多少个对象。对于只能存储单个基本类型的对象，我们称之为原子或标量存储；那些可以存储多个基本类型的对象，称之为容器存储。</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">分类</th>
+<th style="text-align:center">Python 类型</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">标量 / 原子存储</td>
+<td style="text-align:center">数值、字符串</td>
+</tr>
+<tr>
+<td style="text-align:center">容器类型</td>
+<td style="text-align:center">列表、元素、字典</td>
+</tr>
+</tbody>
+</table>
+<p>然后，使用更新模型进行分类，更新模型的分类依据是看对象是否允许多次赋值。</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">分类</th>
+<th style="text-align:center">Python 类型</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">可变类型</td>
+<td style="text-align:center">列表、字典</td>
+</tr>
+<tr>
+<td style="text-align:center">不可变类型</td>
+<td style="text-align:center">数值、字符串、元组</td>
+</tr>
+</tbody>
+</table>
+<p>最后，使用访问模型进行分类，访问模型的分类依据是看访问方式：直接存取、顺序存取以及映射存取。直接存储通过地址直接访问内存获取数据，数值属于这一类型；顺序存取通过对象的索引从 0 顺序访问内部元素，字符串、列表和元组都属于这一类型；映射存储与顺序存取类型，不同点在于它使用哈希键来访问数据，字典属于这一类型。</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">分类</th>
+<th style="text-align:center">Python 类型</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">直接访问</td>
+<td style="text-align:center">数值</td>
+</tr>
+<tr>
+<td style="text-align:center">顺序访问</td>
+<td style="text-align:center">字符串、列表、元组</td>
+</tr>
+<tr>
+<td style="text-align:center">映射访问</td>
+<td style="text-align:center">字典</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>文中使用这么多的模型对数据类型分类，将基本类型和扩展类型进行区别，描述了各种类型的具体特征。简而言之，文中调侃了一句话：“一个优秀的工匠应该知道自己的工具箱有什么宝贝”。</p>
+</blockquote>
+<h2 id="JavaScript">JavaScript</h2><p>ECMAScript 规范中定义了变量的两种类型：原始值类型和引用值类型。用以区分的依据就是它们在内存中的存储类型：值存储和址存储。</p>
+<p>为什么要分值和地址两种方式？一般而言，值存储的变量（原始值类型）都具有占据空间小、大小固定的特点。只有 string 是个特例，虽然它不具备大小固定的要求，但它是不可变的，是稳定而又会被频繁调用的。在其他语言中，string 大多是可变的。</p>
+<p>址存储的类型，具有占据空间大、大小不固定的特点，因此如果使用值存储的方式放在内存中，将会影响程序运行的性能。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>开始写作本文的时候，我已经顺利地度过了四个月的前端实习生活，其间经手的项目勉强称得上稳定和健壮。但是刚刚学习前端的那些日子，可没现在这么自信，回想起来仍然颇多感慨。</p>
+<p>《JavaScript 典型应用与最佳实践》是我学习 JavaScript 的启蒙书籍，初版于 2008 年，面色古老而又心思缜密。其中的原始值和引用值一节，让我对 JavaScript 中数据类型的理解豁然开朗。如果从写作的角度看这本书，它的亮点在于以一种结构化的思维由浅入深地引导读者，主干和分支条缕清晰。有趣的是，在我用谷歌为结构化思维（Structed Thinking）查找一些理论依据的时候，链接到了一本更古老的书籍《金字塔原理：思考、写作和解决问题的逻辑》，书中介绍的正是作者自 1963 年以来反复实践的一套结构化思维，具体的细节等我读完后再聊吧。</p>]]>
+    
+    </summary>
+    
+  </entry>
+  
+</feed>
