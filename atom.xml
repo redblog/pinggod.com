@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://pinggod.com/"/>
-  <updated>2016-01-26T04:22:10.000Z</updated>
+  <updated>2016-01-26T04:31:20.000Z</updated>
   <id>http://pinggod.com/</id>
   
   <author>
@@ -19,8 +19,8 @@
     <link href="http://pinggod.com/2016/CSS-Counters/"/>
     <id>http://pinggod.com/2016/CSS-Counters/</id>
     <published>2016-01-25T04:23:35.000Z</published>
-    <updated>2016-01-26T04:22:10.000Z</updated>
-    <content type="html"><![CDATA[<p>Several years ago, a question was rasied by someone on Weibo: how to code the module of calculating commodity price, which plays a big role in Taobao commodity detail pages. Usually at the detail page, the commodity has many chooses, such like size and color. The amount will change real time when users change their options. This question is not noly business-oriented, but also has many solving methods. JS came to my mind first at the time.</p>
+    <updated>2016-01-26T04:31:20.000Z</updated>
+    <content type="html"><![CDATA[<p>Several years ago, a question was rasied by someone on Weibo: how to code the module of calculating commodity price, which plays a big role in Taobao commodity detail pages. Usually at the detail page, the commodity has many options, such like size and color. The amount will change real time when users change their options. This question is not noly business-oriented, but also has many solving methods. JS came to my mind first at the time.</p>
 <p>The last two weeks, I’m digesting technical posts which collected in Pocket and Weibo over past three years. There are many Best Practice in it, such like CSS Counters which the rest is going to say. </p>
 <a id="more"></a>
 <p>CSS Counters is proposed in CSS2.1, so not only modern browsers, but also IE8+ support it. CSS Counters is a auto-counter, and it should coordinate with pseudo-classes <code>::before</code> and <code>::after</code> to use。</p>
@@ -45,60 +45,60 @@
   counter-reset: price 10;
 }
 
-ul.row {
+.counter-wrap ul.row {
   margin: 2px 2px 2px 0;
   padding: 0;
   list-style-type: none;
 }
 
-li {
+.counter-wrap li {
   display: inline-block;
   margin: 10px 2px;
   text-align: center;
 }
 
-input {
+.counter-wrap input {
   position: absolute;
   clip: rect(0 0 0 0);
 }
 
-label {
+.counter-wrap label {
   padding: 10px 16px;
   color: white;
   background-color: #79BD8F;
   border-radius: 5px;
 }
 
-input:checked + label {
+.counter-wrap input:checked + label {
   background-color: #F06161;
 }
 
-input#small:checked {
+.counter-wrap input#small:checked {
   counter-increment: price 4;
 }
 
-input#large:checked {
+.counter-wrap input#large:checked {
   counter-increment: price 8;
 }
 
-input#white:checked {
+.counter-wrap input#white:checked {
   counter-increment: price 10;
 }
 
-input#red:checked {
+.counter-wrap input#red:checked {
   counter-increment: price 13;
 }
 
-input#green:checked {
+.counter-wrap input#green:checked {
   counter-increment: price 15;
 }
 
-li.price-total {
+.counter-wrap li.price-total {
   padding: 10px 16px;
   background-color: #BEEB9F;
   border-radius: 5px;
 }
-li.price-total::before {
+.counter-wrap li.price-total::before {
   content: "$" counter(price);
   color: #D83C65;
   font-weight: bold;
@@ -109,7 +109,7 @@ li.price-total::before {
 <p>For more infomation about this example, you could look over my Codepen playground via this <a href="http://codepen.io/pinggod/pen/JGpVNx?editors=1100" target="_blank" rel="external">link</a>.</p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>Several years ago, a question was rasied by someone on Weibo: how to code the module of calculating commodity price, which plays a big role in Taobao commodity detail pages. Usually at the detail page, the commodity has many chooses, such like size and color. The amount will change real time when users change their options. This question is not noly business-oriented, but also has many solving methods. JS came to my mind first at the time.</p>
+    <![CDATA[<p>Several years ago, a question was rasied by someone on Weibo: how to code the module of calculating commodity price, which plays a big role in Taobao commodity detail pages. Usually at the detail page, the commodity has many options, such like size and color. The amount will change real time when users change their options. This question is not noly business-oriented, but also has many solving methods. JS came to my mind first at the time.</p>
 <p>The last two weeks, I’m digesting technical posts which collected in Pocket and Weibo over past three years. There are many Best Practice in it, such like CSS Counters which the rest is going to say. </p>]]>
     
     </summary>

@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="X-UA-Compatible" content="IE=edge"><title> CSS Counters · PINGGOD</title><meta name="description" content="css counter basic knowledge and examples"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="short icon" href="/favicon.png"><link rel="stylesheet" href="/css/apollo.css"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600" type="text/css"></head><body><header><a href="/" class="logo-link"><img src="/favicon.png"></a><ul class="nav nav-list"><li class="nav-list-item"><a href="/" target="_self" class="nav-list-link">BLOG</a></li><li class="nav-list-item"><a href="/archives/" target="_self" class="nav-list-link">ARCHIVE</a></li><li class="nav-list-item"><a href="http://weibo.com/sunchongsheng" target="_blank" class="nav-list-link">WEIBO</a></li><li class="nav-list-item"><a href="https://github.com/pinggod" target="_blank" class="nav-list-link">GITHUB</a></li><li class="nav-list-item"><a href="/atom.xml" target="_self" class="nav-list-link">RSS</a></li></ul></header><section class="container"><div class="post"><article class="post-block"><h1 class="post-title">CSS Counters</h1><div class="post-meta"><div class="post-time">Jan 25, 2016</div></div><div class="post-content"><p>Several years ago, a question was rasied by someone on Weibo: how to code the module of calculating commodity price, which plays a big role in Taobao commodity detail pages. Usually at the detail page, the commodity has many chooses, such like size and color. The amount will change real time when users change their options. This question is not noly business-oriented, but also has many solving methods. JS came to my mind first at the time.</p>
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="X-UA-Compatible" content="IE=edge"><title> CSS Counters · PINGGOD</title><meta name="description" content="css counter basic knowledge and examples"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="short icon" href="/favicon.png"><link rel="stylesheet" href="/css/apollo.css"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600" type="text/css"></head><body><header><a href="/" class="logo-link"><img src="/favicon.png"></a><ul class="nav nav-list"><li class="nav-list-item"><a href="/" target="_self" class="nav-list-link">BLOG</a></li><li class="nav-list-item"><a href="/archives/" target="_self" class="nav-list-link">ARCHIVE</a></li><li class="nav-list-item"><a href="http://weibo.com/sunchongsheng" target="_blank" class="nav-list-link">WEIBO</a></li><li class="nav-list-item"><a href="https://github.com/pinggod" target="_blank" class="nav-list-link">GITHUB</a></li><li class="nav-list-item"><a href="/atom.xml" target="_self" class="nav-list-link">RSS</a></li></ul></header><section class="container"><div class="post"><article class="post-block"><h1 class="post-title">CSS Counters</h1><div class="post-meta"><div class="post-time">Jan 25, 2016</div></div><div class="post-content"><p>Several years ago, a question was rasied by someone on Weibo: how to code the module of calculating commodity price, which plays a big role in Taobao commodity detail pages. Usually at the detail page, the commodity has many options, such like size and color. The amount will change real time when users change their options. This question is not noly business-oriented, but also has many solving methods. JS came to my mind first at the time.</p>
 <p>The last two weeks, I’m digesting technical posts which collected in Pocket and Weibo over past three years. There are many Best Practice in it, such like CSS Counters which the rest is going to say. </p>
 <a id="more"></a>
 <p>CSS Counters is proposed in CSS2.1, so not only modern browsers, but also IE8+ support it. CSS Counters is a auto-counter, and it should coordinate with pseudo-classes <code>::before</code> and <code>::after</code> to use。</p>
@@ -23,60 +23,60 @@
   counter-reset: price 10;
 }
 
-ul.row {
+.counter-wrap ul.row {
   margin: 2px 2px 2px 0;
   padding: 0;
   list-style-type: none;
 }
 
-li {
+.counter-wrap li {
   display: inline-block;
   margin: 10px 2px;
   text-align: center;
 }
 
-input {
+.counter-wrap input {
   position: absolute;
   clip: rect(0 0 0 0);
 }
 
-label {
+.counter-wrap label {
   padding: 10px 16px;
   color: white;
   background-color: #79BD8F;
   border-radius: 5px;
 }
 
-input:checked + label {
+.counter-wrap input:checked + label {
   background-color: #F06161;
 }
 
-input#small:checked {
+.counter-wrap input#small:checked {
   counter-increment: price 4;
 }
 
-input#large:checked {
+.counter-wrap input#large:checked {
   counter-increment: price 8;
 }
 
-input#white:checked {
+.counter-wrap input#white:checked {
   counter-increment: price 10;
 }
 
-input#red:checked {
+.counter-wrap input#red:checked {
   counter-increment: price 13;
 }
 
-input#green:checked {
+.counter-wrap input#green:checked {
   counter-increment: price 15;
 }
 
-li.price-total {
+.counter-wrap li.price-total {
   padding: 10px 16px;
   background-color: #BEEB9F;
   border-radius: 5px;
 }
-li.price-total::before {
+.counter-wrap li.price-total::before {
   content: "$" counter(price);
   color: #D83C65;
   font-weight: bold;
