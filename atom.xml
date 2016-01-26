@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://pinggod.com/"/>
-  <updated>2016-01-23T02:22:06.000Z</updated>
+  <updated>2016-01-26T04:22:10.000Z</updated>
   <id>http://pinggod.com/</id>
   
   <author>
@@ -15,11 +15,113 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[CSS Counters]]></title>
+    <link href="http://pinggod.com/2016/CSS-Counters/"/>
+    <id>http://pinggod.com/2016/CSS-Counters/</id>
+    <published>2016-01-25T04:23:35.000Z</published>
+    <updated>2016-01-26T04:22:10.000Z</updated>
+    <content type="html"><![CDATA[<p>Several years ago, a question was rasied by someone on Weibo: how to code the module of calculating commodity price, which plays a big role in Taobao commodity detail pages. Usually at the detail page, the commodity has many chooses, such like size and color. The amount will change real time when users change their options. This question is not noly business-oriented, but also has many solving methods. JS came to my mind first at the time.</p>
+<p>The last two weeks, I’m digesting technical posts which collected in Pocket and Weibo over past three years. There are many Best Practice in it, such like CSS Counters which the rest is going to say. </p>
+<a id="more"></a>
+<p>CSS Counters is proposed in CSS2.1, so not only modern browsers, but also IE8+ support it. CSS Counters is a auto-counter, and it should coordinate with pseudo-classes <code>::before</code> and <code>::after</code> to use。</p>
+<h2 id="Property">Property</h2><p>CSS Counters have a series of property or method to use:</p>
+<ul>
+<li><code>counter-reset</code>, used to initialize a counter. It receives two parameters: the first is a string identifier, and the second is a optional number which used to initialize counter’s default value.   </li>
+<li><code>counter-increment</code>, used to increse the counter’s value, and it receives a optional number parameter. If the optional parameter exsits, the counter will plus it instead of the default value one.</li>
+<li><code>counter()</code>, used to get counter’s result in the <code>content</code> property.</li>
+</ul>
+<h2 id="Usage">Usage</h2><p>As metioned above, we could use counter-reset property to defined a counter. Look at the following html structure:</p>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="title">body</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="title">ul</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="title">li</span>&gt;</span><span class="tag">&lt;/<span class="title">li</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="title">li</span>&gt;</span><span class="tag">&lt;/<span class="title">li</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="title">li</span>&gt;</span><span class="tag">&lt;/<span class="title">li</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;/<span class="title">ul</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="title">p</span>&gt;</span><span class="tag">&lt;/<span class="title">p</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="title">body</span>&gt;</span></span><br></pre></td></tr></table></figure>
+<p>And styles:</p>
+<figure class="highlight scss"><table><tr><td class="code"><pre><span class="line"><span class="tag">ul</span> &#123;</span><br><span class="line">    <span class="attribute">counter-reset</span><span class="value">: li-counter <span class="number">10</span>;</span></span><br><span class="line">    <span class="tag">li</span> &#123;</span><br><span class="line">        <span class="attribute">counter-increment</span><span class="value">: li-counter <span class="number">2</span>;</span></span><br><span class="line">    &#125;</span><br><span class="line">    <span class="tag">p</span><span class="pseudo">::before</span> &#123;</span><br><span class="line">        <span class="attribute">content</span><span class="value">: <span class="function">counter</span>(li-counter);</span></span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>Based on above code fragments, counter called “li-counter” was created, and its initial value is 10. At the li tag, counter-increment comes in and increse the counter’s vlaue. Finally, p tag was created with pseudo-class <code>::before</code> to display the counter’s end result.</p>
+<h2 id="Example">Example</h2><div class="counter-wrap"><ul class="row"><li class="price-10"><input type="radio" name="color" id="white"><label for="white">White(+10)</label></li><li class="price-13"><input type="radio" name="color" id="red"><label for="red">Red(+13)</label></li><li class="price-15"><input type="radio" name="color" id="green"><label for="green">Green(+15)</label></li></ul><ul class="row"><li class="price-4"><input type="radio" name="size" id="small"><label for="small">Small(+4)</label></li><li class="price-8"><input type="radio" name="size" id="large"><label for="large">Large(+8)</label></li></ul><ul class="row"><li class="price-total"></li></ul></div>
+
+<style>
+@charset "UTF-8";
+.counter-wrap {
+  width: 360px;
+  margin: 0 auto;
+  counter-reset: price 10;
+}
+
+ul.row {
+  margin: 2px 2px 2px 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+li {
+  display: inline-block;
+  margin: 10px 2px;
+  text-align: center;
+}
+
+input {
+  position: absolute;
+  clip: rect(0 0 0 0);
+}
+
+label {
+  padding: 10px 16px;
+  color: white;
+  background-color: #79BD8F;
+  border-radius: 5px;
+}
+
+input:checked + label {
+  background-color: #F06161;
+}
+
+input#small:checked {
+  counter-increment: price 4;
+}
+
+input#large:checked {
+  counter-increment: price 8;
+}
+
+input#white:checked {
+  counter-increment: price 10;
+}
+
+input#red:checked {
+  counter-increment: price 13;
+}
+
+input#green:checked {
+  counter-increment: price 15;
+}
+
+li.price-total {
+  padding: 10px 16px;
+  background-color: #BEEB9F;
+  border-radius: 5px;
+}
+li.price-total::before {
+  content: "$" counter(price);
+  color: #D83C65;
+  font-weight: bold;
+}
+</style>
+
+<p>As you can see, here is a simple commodity form with multiple options. If you click colors or sizes, the amount will change real time. With this approach, code is cleaner and more robust.</p>
+<p>For more infomation about this example, you could look over my Codepen playground via this <a href="http://codepen.io/pinggod/pen/JGpVNx?editors=1100" target="_blank" rel="external">link</a>.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Several years ago, a question was rasied by someone on Weibo: how to code the module of calculating commodity price, which plays a big role in Taobao commodity detail pages. Usually at the detail page, the commodity has many chooses, such like size and color. The amount will change real time when users change their options. This question is not noly business-oriented, but also has many solving methods. JS came to my mind first at the time.</p>
+<p>The last two weeks, I’m digesting technical posts which collected in Pocket and Weibo over past three years. There are many Best Practice in it, such like CSS Counters which the rest is going to say. </p>]]>
+    
+    </summary>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[WEB 开发者必看的技术站点]]></title>
     <link href="http://pinggod.com/2015/%E5%BC%80%E5%8F%91%E8%80%85%E5%BF%85%E7%9C%8B%E7%9A%84%E6%8A%80%E6%9C%AF%E7%AB%99%E7%82%B9/"/>
     <id>http://pinggod.com/2015/开发者必看的技术站点/</id>
     <published>2015-12-31T06:49:13.000Z</published>
-    <updated>2016-01-23T02:22:06.000Z</updated>
+    <updated>2016-01-25T04:24:19.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p>本文总结自 Quora 上的一个问答：<a href="https://www.quora.com/What-are-the-top-10-websites-a-web-developer-must-see" target="_blank" rel="external">What are the top 10 websites a web developer must see</a>。</p>
 </blockquote>
