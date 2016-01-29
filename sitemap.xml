@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://pinggod.com/2016/mongodb/</loc>
+    <lastmod>2016-01-29T06:28:04.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://pinggod.com/2016/CSS-Counters/</loc>
     <lastmod>2016-01-26T04:31:20.000Z</lastmod>
   </url>
